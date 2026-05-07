@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T07:40:32.186209+08:00",
-  "total_titles_processed": 632,
+  "generated_at": "2026-05-07T09:33:49.651300+08:00",
+  "total_titles_processed": 770,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 51,
+      "match_count": 60,
       "titles": [
         {
           "title": "以军总参谋长：在伊朗仍有一系列目标尚待打击",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时20分 ~ 07时40分]"
+          "appearance_count": 9,
+          "time_info": "[01时20分 ~ 09时33分]"
         },
         {
           "title": "伊朗称将确保船只安全通过霍尔木兹海峡",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时20分 ~ 07时40分]"
+          "appearance_count": 9,
+          "time_info": "[01时20分 ~ 09时33分]"
         },
         {
           "title": "伊朗战争丨“若美方不作出必要让步，已准备好开火”",
@@ -65,19 +66,6 @@
           "time_info": "[01时20分 ~ 06时01分]"
         },
         {
-          "title": "知情人士：白宫认为与伊朗接近达成停战谅解备忘录",
-          "url": "https://www.cls.cn/detail/2363872",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时20分 ~ 07时40分]"
-        },
-        {
           "title": "知情人：伊朗将同意将铀浓缩材料运出",
           "url": "https://www.toutiao.com/trending/7636723322763349546/",
           "source": "今日头条",
@@ -86,7 +74,32 @@
             14,
             10,
             9,
-            18
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时20分 ~ 09时33分]"
+        },
+        {
+          "title": "阿拉格齐称访华富有成果，中国认为战前战后的伊朗完全不同",
+          "url": "https://news.ifeng.com/c/8suoch3QkWe",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时45分 ~ 09时33分]"
+        },
+        {
+          "title": "知情人士：白宫认为与伊朗接近达成停战谅解备忘录",
+          "url": "https://www.cls.cn/detail/2363872",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            9
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -117,17 +130,6 @@
           "time_info": "[01时20分 ~ 07时40分]"
         },
         {
-          "title": "阿拉格齐称访华富有成果，中国认为战前战后的伊朗完全不同",
-          "url": "https://news.ifeng.com/c/8suoch3QkWe",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时45分 ~ 07时40分]"
-        },
-        {
           "title": "伊朗确认前往美国参加世界杯：将在开赛前14天抵美",
           "url": "https://news.ifeng.com/c/8sv8uru6xCR",
           "source": "凤凰网",
@@ -148,6 +150,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 03时18分]"
+        },
+        {
+          "title": "伊朗战争丨伊朗确认：将在赛前14天抵美参加世界杯",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
         },
         {
           "title": "伊朗常驻联合国代表团提出解决霍尔木兹海峡问题的可行方案",
@@ -216,6 +229,17 @@
           "time_info": "01时20分"
         },
         {
+          "title": "伊学者：这场战争，让中国意识到伊朗的战略性意义",
+          "url": "https://news.ifeng.com/c/8svQluOkLRz",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
           "title": "伊朗议长：“敌人”施经济压力 官民要团结应对",
           "url": "https://flash.jin10.com/detail/20260507064052614800",
           "source": "金十数据",
@@ -238,6 +262,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 03时18分]"
+        },
+        {
+          "title": "伊朗高层回击美媒：所谓的“和谈进展”只是美国的愿望清单，而非现实",
+          "url": "https://wallstreetcn.com/articles/3771674",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时40分 ~ 09时33分]"
         },
         {
           "title": "距离达成停战协议还有多远？美称非常乐观 伊朗说还在审阅",
@@ -321,6 +357,28 @@
           "time_info": "03时18分"
         },
         {
+          "title": "美以袭击伊朗进入第 69 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2035488793264747701",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
+          "title": "伊朗：对美方的不信任源于其敌对行为",
+          "url": "https://www.toutiao.com/trending/7636432119836819499/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
           "title": "美联储Goolsbee：伊朗战争的影响正日益显现为通胀冲击",
           "url": "https://wallstreetcn.com/livenews/3099555",
           "source": "华尔街见闻-快讯",
@@ -330,17 +388,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
-        },
-        {
-          "title": "伊朗高层回击美媒：所谓的“和谈进展”只是美国的愿望清单，而非现实",
-          "url": "https://wallstreetcn.com/articles/3771674",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时40分"
         },
         {
           "title": "伊朗称将确保船只安全通过霍尔木兹",
@@ -382,7 +429,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -420,13 +467,24 @@
           "time_info": "01时20分"
         },
         {
+          "title": "伊朗国防部：美国需与以色列划清界限",
+          "url": "https://wallstreetcn.com/livenews/3099649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
           "title": "伊朗外长阿拉格齐抵达北京",
           "url": "https://www.douyin.com/hot/2489684",
           "source": "抖音",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -462,6 +520,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        },
+        {
+          "title": "消息人士称伊朗预计将于7日回应美国提议",
+          "url": "https://wallstreetcn.com/livenews/3099642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
         },
         {
           "title": "伊朗官员：美军动用所有军事手段也无法开通霍尔木兹海峡",
@@ -508,6 +577,17 @@
           "time_info": "06时01分"
         },
         {
+          "title": "伊朗议长：霍尔木兹海峡新格局正在形成",
+          "url": "https://wallstreetcn.com/livenews/3099638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
           "title": "伊朗赞赏中方始终站在历史正确一边",
           "url": "https://www.toutiao.com/trending/7636368072584544298/",
           "source": "今日头条",
@@ -528,6 +608,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "伊朗称各港口准备好提供一般海事服务",
+          "url": "https://www.toutiao.com/trending/7636624059102674980/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
         },
         {
           "title": "以军总参谋长：随时准备重启对伊朗军事行动",
@@ -583,12 +674,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
+        },
+        {
+          "title": "伊朗国防部：美国需与以色列划清界限",
+          "url": "https://flash.jin10.com/detail/20260507084025211800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "中方再回应特朗普访华",
@@ -596,11 +698,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时20分 ~ 07时40分]"
+          "appearance_count": 9,
+          "time_info": "[01时20分 ~ 09时33分]"
         },
         {
           "title": "为什么特朗普“不得不”常买中国货",
@@ -611,8 +714,22 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时20分 ~ 09时33分]"
+        },
+        {
+          "title": "特朗普：如果伊朗同意美方条款，“史诗怒火”行动将宣告结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33102780",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            6,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[01时20分 ~ 07时40分]"
+          "time_info": "[03时18分 ~ 09时33分]"
         },
         {
           "title": "伊朗战争丨特朗普预估美伊“一周”达成协议",
@@ -639,19 +756,6 @@
           "time_info": "[01时20分 ~ 07时40分]"
         },
         {
-          "title": "特朗普：如果伊朗同意美方条款，“史诗怒火”行动将宣告结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33102780",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时18分 ~ 07时40分]"
-        },
-        {
           "title": "美国总统特朗普：我认为油价会涨到200到250美元。现在是100美元。即使涨到200美元，也值得。",
           "url": "https://flash.jin10.com/detail/20260507031148642800",
           "source": "金十数据",
@@ -661,6 +765,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        },
+        {
+          "title": "美国总统特朗普：股市今天创下历史新高。就业和401-K计划蓬勃发展！",
+          "url": "https://flash.jin10.com/detail/20260507091724288800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
         },
         {
           "title": "美国总统特朗普：针对伊朗的军事行动取得了令人难以置信的成果。",
@@ -685,6 +800,17 @@
           "time_info": "03时18分"
         },
         {
+          "title": "美国总统特朗普：华盛顿特区的犯罪率降至30年来的最低点，太棒了。",
+          "url": "https://flash.jin10.com/detail/20260507091402831800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
           "title": "特朗普称暂停自由计划行动",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9A%82%E5%81%9C%E8%87%AA%E7%94%B1%E8%AE%A1%E5%88%92%E8%A1%8C%E5%8A%A8",
           "source": "bilibili 热搜",
@@ -697,6 +823,18 @@
           "time_info": "[05时59分 ~ 07时40分]"
         },
         {
+          "title": "【早报】油价大幅跳水！特朗普：美伊“很有可能”达成协议；以军在停火期间突袭贝鲁特",
+          "url": "https://www.cls.cn/detail/2364367",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时40分 ~ 09时33分]"
+        },
+        {
           "title": "市场消息：据一位知情人士透露，特朗普政府正在研究利用美国军事基地及国防部其他场所地下的石油资源，以补充国家日益减少的应急储备。",
           "url": "https://flash.jin10.com/detail/20260507054528380800",
           "source": "金十数据",
@@ -707,17 +845,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时46分 ~ 07时40分]"
-        },
-        {
-          "title": "【早报】油价大幅跳水！特朗普：美伊“很有可能”达成协议；以军在停火期间突袭贝鲁特",
-          "url": "https://www.cls.cn/detail/2364367",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时40分"
         },
         {
           "title": "美国总统特朗普：对伊朗问题从不设最后期限，协议终将达成，但不会设定最后期限。",
@@ -773,6 +900,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        },
+        {
+          "title": "为什么特朗普“不得不”常买中国货",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E4%B8%8D%E5%BE%97%E4%B8%8D%E2%80%9D%E5%B8%B8%E4%B9%B0%E4%B8%AD%E5%9B%BD%E8%B4%A7",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）正在与真心想达成协议的人打交道。",
@@ -1030,8 +1168,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时59分 ~ 07时40分]"
+          "appearance_count": 6,
+          "time_info": "[05时59分 ~ 09时33分]"
         },
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
@@ -1051,11 +1189,24 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时20分 ~ 06时46分]"
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 09时33分]"
+        },
+        {
+          "title": "美股收盘：纳指、标普再创新高 AMD、康宁接力暴涨 中概股表现亮眼",
+          "url": "https://www.cls.cn/detail/2364348",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时40分 ~ 09时33分]"
         },
         {
           "title": "Snap收涨0.33%，美股盘后跌9.17%。",
@@ -1064,18 +1215,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
-          "title": "美股收盘：纳指、标普再创新高 AMD、康宁接力暴涨 中概股表现亮眼",
-          "url": "https://www.cls.cn/detail/2364348",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -1163,6 +1303,72 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "UP主优化DeepSeek V4",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BC%98%E5%8C%96DeepSeek%20V4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            12,
+            13,
+            14,
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时20分 ~ 09时33分]"
+        },
+        {
+          "title": "国家队领投DeepSeek首轮融资",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%A2%86%E6%8A%95DeepSeek%E9%A6%96%E8%BD%AE%E8%9E%8D%E8%B5%84%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
+          "title": "国产大模型开启融资热：DeepSeek被曝投后估值或达450亿美元",
+          "url": "https://wallstreetcn.com/articles/3771667",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
+          "title": "梁文锋留住97%员工",
+          "url": "https://www.toutiao.com/trending/7636695860440469034/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "传DeepSeek首轮融资估值450亿美元",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%A0DeepSeek%E9%A6%96%E8%BD%AE%E8%9E%8D%E8%B5%84%E4%BC%B0%E5%80%BC450%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 4,
       "titles": [
@@ -1197,7 +1403,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -1215,38 +1421,6 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "UP主优化DeepSeek V4",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BC%98%E5%8C%96DeepSeek%20V4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            12,
-            13,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时20分 ~ 07时40分]"
-        },
-        {
-          "title": "梁文锋留住97%员工",
-          "url": "https://www.toutiao.com/trending/7636695860440469034/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -1258,8 +1432,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时20分 ~ 07时40分]"
+          "appearance_count": 9,
+          "time_info": "[01时20分 ~ 09时33分]"
         },
         {
           "title": "金价涨2.8%，逼近4700美元",
@@ -1272,6 +1446,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时01分 ~ 06时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "警报响起！30年期美债收益率再逼5%警戒线，美股的狂欢还能维持多久？",
+          "url": "https://wallstreetcn.com/articles/3771684",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
+          "title": "2/10年期美债收益率跌超7个基点，追随国际油价下跌的表现",
+          "url": "https://wallstreetcn.com/livenews/3099537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         }
       ]
     },
@@ -1318,23 +1520,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时01分 ~ 06时46分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "2/10年期美债收益率跌超7个基点，追随国际油价下跌的表现",
-          "url": "https://wallstreetcn.com/livenews/3099537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时01分"
         }
       ]
     }
