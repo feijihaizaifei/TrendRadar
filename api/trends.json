@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T19:19:16.210097+08:00",
-  "total_titles_processed": 1354,
+  "generated_at": "2026-05-09T19:41:24.028379+08:00",
+  "total_titles_processed": 1372,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时03分 ~ 19时19分]"
+          "appearance_count": 17,
+          "time_info": "[02时03分 ~ 19时41分]"
         },
         {
           "title": "伊朗战争丨美军再次对多艘伊朗油轮发动空袭",
@@ -74,8 +74,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时59分 ~ 19时19分]"
+          "appearance_count": 8,
+          "time_info": "[12时59分 ~ 19时41分]"
+        },
+        {
+          "title": "伊朗战争丨伊朗官员披露穆杰塔巴伤情",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时59分 ~ 19时41分]"
+        },
+        {
+          "title": "伊朗驻华大使：美国没法施压中国，改变对伊朗关系",
+          "url": "https://news.ifeng.com/c/8syp7qZWoVz",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时59分 ~ 19时41分]"
         },
         {
           "title": "岚目镜观｜从三权分立到“民选皇帝”：伊朗战事如何刺穿美国宪政神话",
@@ -91,30 +115,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时09分 ~ 12时59分]"
-        },
-        {
-          "title": "伊朗战争丨伊朗官员披露穆杰塔巴伤情",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时59分 ~ 19时19分]"
-        },
-        {
-          "title": "伊朗驻华大使：美国没法施压中国，改变对伊朗关系",
-          "url": "https://news.ifeng.com/c/8syp7qZWoVz",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时59分 ~ 19时19分]"
         },
         {
           "title": "霍尔木兹局势又紧张！伊朗称美违反停火空袭、已反击，美军称拦截伊发起的无端袭击",
@@ -209,6 +209,18 @@
           "time_info": "[06时43分 ~ 07时45分]"
         },
         {
+          "title": "伊朗官员否认“美国袭击伊朗民用船致多人失踪”消息",
+          "url": "https://wallstreetcn.com/livenews/3101051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 19时41分]"
+        },
+        {
           "title": "非农缓解“滞胀”担忧，苹果、英伟达股价续刷新高，伊朗局势恶化，布油重返百元关口，现货白银涨3%",
           "url": "https://wallstreetcn.com/articles/3771825",
           "source": "华尔街见闻",
@@ -243,16 +255,15 @@
           "time_info": "00时09分"
         },
         {
-          "title": "伊朗官员否认“美国袭击伊朗民用船致多人失踪”消息",
-          "url": "https://wallstreetcn.com/livenews/3101051",
-          "source": "华尔街见闻-快讯",
+          "title": "美伊交火意味着此轮谈判破裂？伊朗大使答凤凰提问",
+          "url": "https://news.ifeng.com/c/8szLTDMoDY1",
+          "source": "凤凰网",
           "ranks": [
-            1,
-            8
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 19时19分]"
+          "appearance_count": 5,
+          "time_info": "[17时06分 ~ 19时41分]"
         },
         {
           "title": "伊朗称美军打击伊朗6艘民用船",
@@ -304,6 +315,19 @@
           "time_info": "[12时59分 ~ 15时07分]"
         },
         {
+          "title": "伊朗议会将以视频方式召开战事爆发以来首次会议",
+          "url": "https://wallstreetcn.com/livenews/3101028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时06分 ~ 19时41分]"
+        },
+        {
           "title": "伊朗外长：美国破坏性做法正在削弱外交进程",
           "url": "https://wallstreetcn.com/livenews/3100940",
           "source": "华尔街见闻-快讯",
@@ -328,30 +352,6 @@
           "time_info": "[12时59分 ~ 15时07分]"
         },
         {
-          "title": "美伊交火意味着此轮谈判破裂？伊朗大使答凤凰提问",
-          "url": "https://news.ifeng.com/c/8szLTDMoDY1",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时06分 ~ 19时19分]"
-        },
-        {
-          "title": "伊朗议会将以视频方式召开战事爆发以来首次会议",
-          "url": "https://wallstreetcn.com/livenews/3101028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时06分 ~ 19时19分]"
-        },
-        {
           "title": "标普：（关于以色列）预计美国-伊朗和以色列-哈马斯停火协议将广泛生效。",
           "url": "https://flash.jin10.com/detail/20260509040832297800",
           "source": "金十数据",
@@ -361,6 +361,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时47分 ~ 07时45分]"
+        },
+        {
+          "title": "伊朗足协公布参加2026年美加墨世界杯10项条件",
+          "url": "https://wallstreetcn.com/livenews/3101035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 19时41分]"
         },
         {
           "title": "伊朗哈尔克岛附近疑似发生石油泄漏",
@@ -373,6 +385,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时03分 ~ 05时47分]"
+        },
+        {
+          "title": "伊朗公布参加美加墨世界杯10项条件",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E5%8F%82%E5%8A%A0%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF10%E9%A1%B9%E6%9D%A1%E4%BB%B6",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 19时41分]"
+        },
+        {
+          "title": "伊朗官员否认“美国袭击伊朗民用船致多人失踪”消息",
+          "url": "https://flash.jin10.com/detail/20260509183051864800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 19时41分]"
         },
         {
           "title": "伊朗议会将以视频方式召开战事爆发以来首次会议",
@@ -411,18 +446,6 @@
           "time_info": "[07时45分 ~ 09时31分]"
         },
         {
-          "title": "伊朗足协公布参加2026年美加墨世界杯10项条件",
-          "url": "https://wallstreetcn.com/livenews/3101035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 19时19分]"
-        },
-        {
           "title": "伊朗官员说最高领袖非常健康",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AE%98%E5%91%98%E8%AF%B4%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E9%9D%9E%E5%B8%B8%E5%81%A5%E5%BA%B7%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -432,17 +455,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时06分 ~ 15时07分]"
-        },
-        {
-          "title": "伊朗公布参加美加墨世界杯10项条件",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E5%8F%82%E5%8A%A0%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF10%E9%A1%B9%E6%9D%A1%E4%BB%B6",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 19时19分]"
         },
         {
           "title": "美军再次发动空袭！美国务卿：希望美伊“进入严肃谈判进程”，警告伊朗不要攻击美国海军舰艇",
@@ -476,17 +488,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
-        },
-        {
-          "title": "伊朗官员否认“美国袭击伊朗民用船致多人失踪”消息",
-          "url": "https://flash.jin10.com/detail/20260509183051864800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
         },
         {
           "title": "伊朗塔斯尼姆通讯社（Tasnim）援引伊朗军方消息人士称：目前海湾地区局势平静，但如果美国人试图再次进入海湾并给伊朗船只制造麻烦，则有可能爆发冲突。",
@@ -862,6 +863,19 @@
           "time_info": "[00时09分 ~ 15时07分]"
         },
         {
+          "title": "受够了！德国喊话多国组建对抗特朗普新联盟",
+          "url": "https://news.ifeng.com/c/8syALbeUOvl",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时31分 ~ 19时41分]"
+        },
+        {
           "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_33122464",
           "source": "澎湃新闻",
@@ -875,19 +889,6 @@
           "time_info": "[00时09分 ~ 09时31分]"
         },
         {
-          "title": "受够了！德国喊话多国组建对抗特朗普新联盟",
-          "url": "https://news.ifeng.com/c/8syALbeUOvl",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时31分 ~ 19时19分]"
-        },
-        {
           "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
           "url": "https://news.ifeng.com/c/8sytAKXfO4y",
           "source": "凤凰网",
@@ -895,8 +896,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时59分 ~ 19时19分]"
+          "appearance_count": 8,
+          "time_info": "[12时59分 ~ 19时41分]"
         },
         {
           "title": "美国总统特朗普：此次停火将包括暂停所有军事行动，并进行两国各1000名囚犯的交换。",
@@ -941,8 +942,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时06分 ~ 19时19分]"
+          "appearance_count": 5,
+          "time_info": "[17时06分 ~ 19时41分]"
         },
         {
           "title": "特朗普称俄乌 9 日起停火三天，互换千名战俘，俄乌为何同意特朗普的提议？各方背后有着怎样的考量？",
@@ -953,8 +954,21 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时06分 ~ 19时19分]"
+          "appearance_count": 5,
+          "time_info": "[17时06分 ~ 19时41分]"
+        },
+        {
+          "title": "特朗普再遭司法重拳，全面关税政策走到尽头？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260509175807708800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 19时41分]"
         },
         {
           "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
@@ -993,18 +1007,6 @@
           "time_info": "[07时45分 ~ 09时31分]"
         },
         {
-          "title": "特朗普再遭司法重拳，全面关税政策走到尽头？丨Hi，今天怎么看？",
-          "url": "https://flash.jin10.com/detail/20260509175807708800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 19时19分]"
-        },
-        {
           "title": "戴尔股价涨幅扩大至9.1%，特朗普推销该公司产品",
           "url": "https://wallstreetcn.com/livenews/3100857",
           "source": "华尔街见闻-快讯",
@@ -1039,6 +1041,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时45分 ~ 09时31分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-09）",
+          "url": "https://flash.jin10.com/detail/20260509182305293800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 19时41分]"
         },
         {
           "title": "特朗普媒体科技集团一季度资产规模22亿美元。 一季度营收90万美元，净亏损4.059亿美元，调整后EBITDA亏损3.878亿美元。 一季度运营现金流0.179亿美元。",
@@ -1177,17 +1191,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-09）",
-          "url": "https://flash.jin10.com/detail/20260509182305293800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
         },
         {
           "title": "特朗普祝贺母亲节快乐 称美国的就业人数比以往任何时候都要多",
@@ -1427,8 +1430,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时59分 ~ 19时19分]"
+          "appearance_count": 8,
+          "time_info": "[12时59分 ~ 19时41分]"
         },
         {
           "title": "曝小米汽车将推独立子品牌「寻天」，首款增程式 SUV 将启用寻天车标，是真的吗？为啥要单独推一个品牌？",
@@ -1441,8 +1444,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时59分 ~ 19时19分]"
+          "appearance_count": 8,
+          "time_info": "[12时59分 ~ 19时41分]"
         },
         {
           "title": "美国国防部发布有关UFO的新文件 称公众可自行判断真相",
@@ -1455,8 +1458,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时31分 ~ 19时19分]"
+          "appearance_count": 9,
+          "time_info": "[09时31分 ~ 19时41分]"
         },
         {
           "title": "奥迪高管回应买奥迪还是买小米",
@@ -1490,6 +1493,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
+        },
+        {
+          "title": "国家发改委低空司发布2026年研究课题征集公告",
+          "url": "https://wallstreetcn.com/livenews/3101047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 19时41分]"
+        },
+        {
+          "title": "同价位该买奥迪还是买小米",
+          "url": "https://www.baidu.com/s?wd=%E5%90%8C%E4%BB%B7%E4%BD%8D%E8%AF%A5%E4%B9%B0%E5%A5%A5%E8%BF%AA%E8%BF%98%E6%98%AF%E4%B9%B0%E5%B0%8F%E7%B1%B3",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时06分 ~ 19时41分]"
         },
         {
           "title": "百度发布文心5.1：搜索能力登顶国内，预训练成本仅为业界6%",
@@ -1540,30 +1567,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时07分 ~ 17时06分]"
-        },
-        {
-          "title": "国家发改委低空司发布2026年研究课题征集公告",
-          "url": "https://wallstreetcn.com/livenews/3101047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 19时19分]"
-        },
-        {
-          "title": "同价位该买奥迪还是买小米",
-          "url": "https://www.baidu.com/s?wd=%E5%90%8C%E4%BB%B7%E4%BD%8D%E8%AF%A5%E4%B9%B0%E5%A5%A5%E8%BF%AA%E8%BF%98%E6%98%AF%E4%B9%B0%E5%B0%8F%E7%B1%B3",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时06分 ~ 19时19分]"
         },
         {
           "title": "美国此时发布UFO文件有何意图",
@@ -1738,8 +1741,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时31分 ~ 19时19分]"
+          "appearance_count": 9,
+          "time_info": "[09时31分 ~ 19时41分]"
         },
         {
           "title": "DeepSeek识图模式大范围开放",
@@ -1753,8 +1756,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时59分 ~ 19时19分]"
+          "appearance_count": 8,
+          "time_info": "[12时59分 ~ 19时41分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -1766,19 +1769,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时06分 ~ 19时19分]"
-        },
-        {
-          "title": "阿里未参与DeepSeek融资谈判，市场人士否认“谈崩”传闻",
-          "url": "https://flash.jin10.com/detail/20260509183702634800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
+          "appearance_count": 5,
+          "time_info": "[17时06分 ~ 19时41分]"
         },
         {
           "title": "Deepseek和阿里谈崩了？市场人士：双方应该没有进行谈判",
@@ -1790,8 +1782,20 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时06分 ~ 19时19分]"
+          "appearance_count": 4,
+          "time_info": "[17时06分 ~ 19时41分]"
+        },
+        {
+          "title": "阿里未参与DeepSeek融资谈判，市场人士否认“谈崩”传闻",
+          "url": "https://flash.jin10.com/detail/20260509183702634800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 19时41分]"
         },
         {
           "title": "DeepSeek正式跨入图文交互时代",
@@ -1834,11 +1838,12 @@
             15,
             14,
             11,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时59分 ~ 19时19分]"
+          "appearance_count": 8,
+          "time_info": "[12时59分 ~ 19时41分]"
         },
         {
           "title": "品牌文案为何屡屡翻车",
@@ -1849,8 +1854,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时45分 ~ 19时19分]"
+          "appearance_count": 4,
+          "time_info": "[18时45分 ~ 19时41分]"
         },
         {
           "title": "46岁网红“漯河醉狼”去世",
@@ -1873,8 +1878,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 19时19分]"
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 19时41分]"
         },
         {
           "title": "想抹黑中国？BBC又翻车了",
@@ -1999,8 +2004,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时59分 ~ 19时19分]"
+          "appearance_count": 7,
+          "time_info": "[12时59分 ~ 19时41分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -2011,8 +2016,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时06分 ~ 19时19分]"
+          "appearance_count": 5,
+          "time_info": "[17时06分 ~ 19时41分]"
         },
         {
           "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
@@ -2022,8 +2027,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 19时19分]"
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 19时41分]"
         }
       ]
     },
