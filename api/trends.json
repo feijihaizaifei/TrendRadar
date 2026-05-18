@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T05:01:38.681890+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-05-19T06:03:34.162246+08:00",
+  "total_titles_processed": 514,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
         {
           "title": "外交部回应特朗普涉台表态",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 06时03分]"
         },
         {
           "title": "特朗普连发15张图分享中国记忆",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 06时03分]"
         },
         {
           "title": "伊朗回应特朗普威胁：我们知道如何应对",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 06时03分]"
         },
         {
           "title": "特朗普敲打“台独” 日本被美撤梯子",
@@ -50,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 06时03分]"
         },
         {
           "title": "美、布两油短线大幅跳水，现货金银快速拉升。特朗普称，应中东国家请求暂缓原定于明天进行的对伊朗的攻击。",
@@ -109,15 +109,26 @@
           "time_info": "03时21分"
         },
         {
-          "title": "特朗普高调主持沃什在白宫的宣誓就职仪式 重现格林斯潘时刻",
-          "url": "https://flash.jin10.com/detail/20260519042820893800",
+          "title": "美国总统特朗普：可获得的折扣药物数量将增加七倍。TrumpRx网站将增加超过600种仿制药。",
+          "url": "https://flash.jin10.com/detail/20260519052145564800",
           "source": "金十数据",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时01分"
+          "time_info": "06时03分"
+        },
+        {
+          "title": "美国总统特朗普：打折销售的药品规模扩大六倍。 TrumpPx网站上架的药品增加600种仿制药。",
+          "url": "https://wallstreetcn.com/livenews/3105621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         },
         {
           "title": "特朗普访华整晚都在谈台湾问题",
@@ -126,11 +137,38 @@
           "ranks": [
             10,
             4,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 06时03分]"
+        },
+        {
+          "title": "特朗普高调主持沃什在白宫的宣誓就职仪式 重现格林斯潘时刻",
+          "url": "https://flash.jin10.com/detail/20260519042820893800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时03分]"
+        },
+        {
+          "title": "特朗普涉台“四不”示警“台独”",
+          "url": "https://www.toutiao.com/trending/7641033902121058340/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            7,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 06时03分]"
         },
         {
           "title": "美国总统特朗普：伊朗知道“很快会发生什么”。 不会对伊朗做出让步。 （关于伊朗铀浓缩问题）我现在对啥（选项）也不持开放态度。 伊朗比以往任何时候都更希望达成协议。 “不久”就会达成伊朗协议。（纽约邮报）",
@@ -145,29 +183,17 @@
           "time_info": "[01时24分 ~ 03时21分]"
         },
         {
-          "title": "特朗普涉台“四不”示警“台独”",
-          "url": "https://www.toutiao.com/trending/7641033902121058340/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 05时01分]"
-        },
-        {
           "title": "特朗普谈入股英特尔：后悔当初只拿10%股份，“应该多要一点”",
           "url": "https://www.cls.cn/detail/2374617",
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 06时03分]"
         },
         {
           "title": "评论员：中俄关系不受特朗普炒G2影响",
@@ -176,11 +202,23 @@
           "ranks": [
             20,
             14,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 06时03分]"
+        },
+        {
+          "title": "美国总统特朗普宣布扩大折扣药品定价计划。",
+          "url": "https://flash.jin10.com/detail/20260519052015836800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         },
         {
           "title": "报道：特朗普将于周五主持沃什宣誓就职的仪式",
@@ -233,7 +271,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -249,13 +287,24 @@
           "time_info": "01时24分"
         },
         {
+          "title": "美国总统特朗普将于12月14日至15日在迈阿密召开领导人峰会。",
+          "url": "https://flash.jin10.com/detail/20260519044155118800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
           "title": "白宫发言人Anna Kelly：Truth Social贴文凸显出美国总统特朗普的严肃态度。 伊朗不可以拥有浓缩铀。 特朗普一直都拥有所有的选项。",
           "url": "https://wallstreetcn.com/livenews/3105582",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -280,6 +329,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "UP主独家解读特朗普访华国宴",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%8B%AC%E5%AE%B6%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%9B%BD%E5%AE%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         },
         {
           "title": "据福克斯商业：美联储主席提名人沃什将于周五在白宫宣誓就职，宣誓仪式将由特朗普主持。",
@@ -321,7 +381,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -340,7 +400,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "报道：美方同意在谈判期间暂时豁免对伊朗的石油制裁",
@@ -350,8 +410,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 06时03分]"
         },
         {
           "title": "伊朗披露穆杰塔巴受伤细节",
@@ -361,19 +421,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 05时01分]"
-        },
-        {
-          "title": "伊朗在伊斯法罕启用防空系统。（迈赫尔通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3105602",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 06时03分]"
         },
         {
           "title": "美媒：白宫认为伊朗最新提案无实质性改进 考虑重启军事行动",
@@ -387,37 +436,61 @@
           "time_info": "01时24分"
         },
         {
+          "title": "伊朗披露最高领袖穆杰塔巴受伤细节",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%8A%AB%E9%9C%B2%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%A9%86%E6%9D%B0%E5%A1%94%E5%B7%B4%E5%8F%97%E4%BC%A4%E7%BB%86%E8%8A%82",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 06时03分]"
+        },
+        {
+          "title": "美方被曝将暂停对伊朗的石油制裁",
+          "url": "https://news.ifeng.com/c/8tEXAzuY8D3",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 06时03分]"
+        },
+        {
+          "title": "伊朗在伊斯法罕启用防空系统。（迈赫尔通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3105602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时03分]"
+        },
+        {
+          "title": "伊朗成立管理霍尔木兹海峡新机构",
+          "url": "https://news.ifeng.com/c/8tEPWGzaW36",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 06时03分]"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：伊朗伊斯法罕市的防空系统已启动。",
           "url": "https://flash.jin10.com/detail/20260519043149502800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "伊朗最高领袖重申将考虑开辟新战线",
-          "url": "https://flash.jin10.com/detail/20260519042309628800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "【伊朗最高领袖重申将考虑开辟新战线】伊朗最高领袖穆杰塔巴·哈梅内伊的社交媒体账号18日再次摘发其上任后首份声明，重申将考虑在敌人不擅长的领域开辟新战线。声明说，关于开辟其他战线的问题，相关研究已经完成，“敌人在这些领域经验极少且极度脆弱”。声明表示，如果“战争状态”持续，伊朗将开辟这些新战线。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3105597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时03分]"
         },
         {
           "title": "美媒：白宫认为伊朗最新提案无实质性改进，考虑重启军事行动",
@@ -432,49 +505,41 @@
           "time_info": "[01时24分 ~ 03时21分]"
         },
         {
-          "title": "伊朗披露最高领袖穆杰塔巴受伤细节",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%8A%AB%E9%9C%B2%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%A9%86%E6%9D%B0%E5%A1%94%E5%B7%B4%E5%8F%97%E4%BC%A4%E7%BB%86%E8%8A%82",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 05时01分]"
-        },
-        {
-          "title": "美方被曝将暂停对伊朗的石油制裁",
-          "url": "https://news.ifeng.com/c/8tEXAzuY8D3",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 05时01分]"
-        },
-        {
-          "title": "伊朗成立管理霍尔木兹海峡新机构",
-          "url": "https://news.ifeng.com/c/8tEPWGzaW36",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 05时01分]"
-        },
-        {
           "title": "伊朗哈尔克岛油轮积压创峰值，美军封锁令原油出口陷入瓶颈",
           "url": "https://wallstreetcn.com/articles/3772533",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 06时03分]"
+        },
+        {
+          "title": "伊朗最高领袖重申将考虑开辟新战线",
+          "url": "https://flash.jin10.com/detail/20260519042309628800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时03分]"
+        },
+        {
+          "title": "【伊朗最高领袖重申将考虑开辟新战线】伊朗最高领袖穆杰塔巴·哈梅内伊的社交媒体账号18日再次摘发其上任后首份声明，重申将考虑在敌人不擅长的领域开辟新战线。声明说，关于开辟其他战线的问题，相关研究已经完成，“敌人在这些领域经验极少且极度脆弱”。声明表示，如果“战争状态”持续，伊朗将开辟这些新战线。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3105597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时03分]"
         },
         {
           "title": "伊朗披露穆杰塔巴受伤细节",
@@ -486,8 +551,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 06时03分]"
         },
         {
           "title": "伊朗称有权对霍尔木兹海峡海底光缆收“管理费”",
@@ -497,8 +562,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 05时01分]"
+          "appearance_count": 3,
+          "time_info": "[03时21分 ~ 06时03分]"
         },
         {
           "title": "伊朗通过巴基斯坦提交14点谈判文本",
@@ -540,7 +605,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -589,13 +654,24 @@
           "time_info": "03时21分"
         },
         {
+          "title": "惠誉评级：尽管伊朗冲突带来持续不确定性，4月美国杠杆融资市场依然表现出广泛的韧性。伊朗冲突仍对违约预期构成上行风险。",
+          "url": "https://flash.jin10.com/detail/20260519043740942800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
           "title": "伊朗哈尔克岛连续10天未见油轮",
           "url": "https://wallstreetcn.com/livenews/3105580",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -606,7 +682,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -617,7 +693,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -628,7 +704,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -639,7 +715,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         }
@@ -647,8 +723,22 @@
     },
     {
       "keyword_group": "小米 雷军 发布",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "苹果、华为、小米集体官宣降价，如何看待这波降价促销？降价策略还能像以前那样有效拉动销量吗？",
+          "url": "https://www.zhihu.com/question/2038622939864461547",
+          "source": "知乎",
+          "ranks": [
+            18,
+            16,
+            19,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 06时03分]"
+        },
         {
           "title": "湖北武汉发布暴雨红色预警",
           "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E6%AD%A6%E6%B1%89%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6",
@@ -657,21 +747,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 05时01分]"
-        },
-        {
-          "title": "苹果、华为、小米集体官宣降价，如何看待这波降价促销？降价策略还能像以前那样有效拉动销量吗？",
-          "url": "https://www.zhihu.com/question/2038622939864461547",
-          "source": "知乎",
-          "ranks": [
-            18,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 06时03分]"
         },
         {
           "title": "美国财政部发布与俄罗斯相关的通用许可。",
@@ -691,9 +768,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "辉立证券日本研究部主管Kazuhiro Sasaki表示：投资者（对日本财政问题）的担忧根深蒂固，人们担心，如果政府发布补充预算，财政状况可能会恶化。",
+          "url": "https://wallstreetcn.com/livenews/3105608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         },
         {
           "title": "美国针对埃博拉疫情发布旅行新规",
@@ -702,7 +790,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -720,70 +808,53 @@
       ]
     },
     {
-      "keyword_group": "战争",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "乌克兰穷办法逼出战争新算法",
-          "url": "https://www.toutiao.com/trending/7641178154832236058/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 03时21分]"
-        },
-        {
-          "title": "黎巴嫩总统：将“竭尽所能”制止以色列对黎战争",
-          "url": "https://wallstreetcn.com/livenews/3105583",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "黎巴嫩总统：将“竭尽所能”制止以色列对黎战争",
-          "url": "https://flash.jin10.com/detail/20260519035032083800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "美伊战争加剧通胀，投资者蜂拥挤入大宗商品ETF",
-          "url": "https://wallstreetcn.com/livenews/3105515",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai 发布",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "马斯克：（关于OpenAI 裁决）奥克兰法官的裁决创造了可怕的先例。",
           "url": "https://flash.jin10.com/detail/20260519043702372800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时03分]"
+        },
+        {
+          "title": "马斯克：将针对美国陪审团的OpenAI判决结果向第九巡回法庭提出上诉。",
+          "url": "https://wallstreetcn.com/livenews/3105609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时01分"
+          "time_info": "06时03分"
+        },
+        {
+          "title": "马斯克：（关于OpenAI 裁决）法官和陪审团实际上从未对案件的是非曲直做出裁决，只是针对日程上的一个技术性问题进行了裁定。",
+          "url": "https://flash.jin10.com/detail/20260519044502123800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
+          "title": "马斯克：（关于OpenAI 裁决）我将向第九巡回法院提出上诉。",
+          "url": "https://flash.jin10.com/detail/20260519044208799800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         },
         {
           "title": "马斯克起诉Altman案败诉，强制OpenAI重组的企图落空",
@@ -810,6 +881,57 @@
       ]
     },
     {
+      "keyword_group": "战争",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "乌克兰穷办法逼出战争新算法",
+          "url": "https://www.toutiao.com/trending/7641178154832236058/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时21分]"
+        },
+        {
+          "title": "黎巴嫩总统：将“竭尽所能”制止以色列对黎战争",
+          "url": "https://wallstreetcn.com/livenews/3105583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "黎巴嫩总统：将“竭尽所能”制止以色列对黎战争",
+          "url": "https://flash.jin10.com/detail/20260519035032083800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "美伊战争加剧通胀，投资者蜂拥挤入大宗商品ETF",
+          "url": "https://wallstreetcn.com/livenews/3105515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "网红 翻车",
       "match_count": 3,
       "titles": [
@@ -820,11 +942,23 @@
           "ranks": [
             10,
             23,
-            22
+            22,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 06时03分]"
+        },
+        {
+          "title": "麻酱对瓶吹,美网红太生猛",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354343&amp;topic_name=%E9%BA%BB%E9%85%B1%E5%AF%B9%E7%93%B6%E5%90%B9%2C%E7%BE%8E%E7%BD%91%E7%BA%A2%E5%A4%AA%E7%94%9F%E7%8C%9B",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 06时03分]"
         },
         {
           "title": "台网红馆长模仿“青鸟”破防",
@@ -838,23 +972,12 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时24分 ~ 05时01分]"
-        },
-        {
-          "title": "麻酱对瓶吹,美网红太生猛",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354343&amp;topic_name=%E9%BA%BB%E9%85%B1%E5%AF%B9%E7%93%B6%E5%90%B9%2C%E7%BE%8E%E7%BD%91%E7%BA%A2%E5%A4%AA%E7%94%9F%E7%8C%9B",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 05时01分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "戴尔：谷歌与戴尔合作，在戴尔PowerEdge XE9780服务器上通过谷歌分布式云推出Gemini 3闪存模型。",
@@ -866,13 +989,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "周一（5月18日），美股人工智能（AI）赢家指数跌3.21%，报377.39点。 成分股Nebius集团收跌9.13%，摩丁制造MOD跌8.90%，Lumentum跌8.83%跌幅第三大，康宁公司、美光科技进入跌幅前十大，在收涨的七只成分股中，谷歌A、亚马逊涨幅最小，微软涨0.38%，Palantir涨0.86%，Arm控股涨2.85%。",
+          "url": "https://wallstreetcn.com/livenews/3105604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美元指数18日下跌",
+          "url": "https://flash.jin10.com/detail/20260519045712884800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
         {
           "title": "美元指数重新跌超0.3%",
           "url": "https://wallstreetcn.com/livenews/3105573",
@@ -880,7 +1025,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         }
@@ -895,11 +1040,12 @@
           "url": "https://www.zhihu.com/question/2039331976692200758",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 06时03分]"
         }
       ]
     }
