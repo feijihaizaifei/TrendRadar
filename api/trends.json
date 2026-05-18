@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T07:45:44.194458+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-05-18T09:58:23.813899+08:00",
+  "total_titles_processed": 732,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,35 @@
           "url": "https://wallstreetcn.com/articles/3772457",
           "source": "华尔街见闻",
           "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 09时58分]"
+        },
+        {
+          "title": "伊媒：美对伊朗提出5个关键条件",
+          "url": "https://news.ifeng.com/c/8tCiiAKahND",
+          "source": "凤凰网",
+          "ranks": [
+            6,
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 09时58分]"
+        },
+        {
+          "title": "胡锡进：卡利巴夫任伊朗对华事务特别代表，蕴含着重大动向",
+          "url": "https://news.ifeng.com/c/8tCrbKpsiVO",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 09时58分]"
         },
         {
           "title": "伊朗宣布5月19日起恢复股票市场交易",
@@ -30,26 +54,16 @@
           "time_info": "[00时43分 ~ 05时44分]"
         },
         {
-          "title": "伊媒：美对伊朗提出5个关键条件",
-          "url": "https://news.ifeng.com/c/8tCiiAKahND",
-          "source": "凤凰网",
+          "title": "伊朗宣布5月19日起恢复股票市场交易",
+          "url": "https://www.cls.cn/detail/2373254",
+          "source": "财联社热门",
           "ranks": [
-            6
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时45分]"
-        },
-        {
-          "title": "胡锡进：卡利巴夫任伊朗对华事务特别代表，蕴含着重大动向",
-          "url": "https://news.ifeng.com/c/8tCrbKpsiVO",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 09时58分]"
         },
         {
           "title": "消息人士：美方在回应伊朗提议时列出5个关键条件",
@@ -61,19 +75,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时45分]"
-        },
-        {
-          "title": "伊朗宣布5月19日起恢复股票市场交易",
-          "url": "https://www.cls.cn/detail/2373254",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 09时58分]"
         },
         {
           "title": "韩国要求伊朗就韩船只在霍尔木兹海峡遭袭表明立场",
@@ -362,7 +365,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         }
@@ -370,7 +373,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "岛内称特朗普警告“台独”重击赖当局",
@@ -379,11 +382,12 @@
           "ranks": [
             14,
             15,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 09时58分]"
         },
         {
           "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
@@ -398,6 +402,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时43分 ~ 06时42分]"
+        },
+        {
+          "title": "特朗普威胁伊朗，又开始倒计时了",
+          "url": "https://news.ifeng.com/c/8tDfE3dOA2C",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "特朗普访华后续观察",
@@ -425,6 +440,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时49分 ~ 07时45分]"
+        },
+        {
+          "title": "伊朗还剩多少导弹？特朗普称仅18%，伊方称有120%",
+          "url": "https://news.ifeng.com/c/8tCj0YcwzIz",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "特朗普称：如果伊朗不迅速行动，“将一无所有”",
@@ -582,9 +608,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "特朗普访华后，日本慌了？日媒急了！",
+          "url": "https://www.cls.cn/detail/2373281",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "特朗普威胁伊朗：时间在流逝 赶快行动",
@@ -656,7 +693,7 @@
     },
     {
       "keyword_group": "小米 雷军 发布",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "苹果华为小米集体降价",
@@ -672,6 +709,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时59分 ~ 07时45分]"
+        },
+        {
+          "title": "公牛集团起诉小米，双方争夺的到底是什么？",
+          "url": "https://www.zhihu.com/question/2039035324853113870",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "据俄罗斯卫星网：俄罗斯天然气工业股份公司发布消息称，欧洲地下储气设施显示5月12日至14日的气体注入记录，创历史最低水平。",
@@ -710,6 +758,17 @@
           "time_info": "02时49分"
         },
         {
+          "title": "苹果、华为、小米集体官宣降价，如何看待这波降价促销？降价策略还能像以前那样有效拉动销量吗？",
+          "url": "https://www.zhihu.com/question/2038622939864461547",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
           "title": "航运巨头达飞轮船：已决定暂停所有往返古巴的订舱业务，直至另行通知。此项决定是基于美国于5月1日发布的一项行政命令。",
           "url": "https://flash.jin10.com/detail/20260518013351619800",
           "source": "金十数据",
@@ -719,6 +778,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
+        },
+        {
+          "title": "小米汽车：小米YU7 GT 5月21日19:00 正式上市。",
+          "url": "https://wallstreetcn.com/livenews/3104985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "商务部等6部门发布关于加力优化离境退税措施扩大入境消费的通知",
+          "url": "https://wallstreetcn.com/livenews/3104979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
+          "url": "https://wallstreetcn.com/articles/3772335",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 07时45分]"
+        },
+        {
+          "title": "本周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
+          "url": "https://wallstreetcn.com/articles/3772335",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         }
       ]
     },
@@ -762,8 +871,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 09时58分]"
         },
         {
           "title": "福克斯主持人吐槽中国结果“翻车”",
@@ -781,19 +890,19 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
         {
-          "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
-          "url": "https://wallstreetcn.com/articles/3772335",
-          "source": "华尔街见闻",
+          "title": "GPT-5.5 涨价，而 DeepSeek 再次降价？为什么会同时出现「涨价」和「降价」共存的情况？",
+          "url": "https://www.zhihu.com/question/2037925163765691524",
+          "source": "知乎",
           "ranks": [
-            3
+            17
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时45分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         }
       ]
     }
