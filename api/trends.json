@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T04:23:36.894311+08:00",
-  "total_titles_processed": 462,
+  "generated_at": "2026-05-20T06:04:39.492418+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "谷歌新增Android Vibe编程支持到Google AI Studio。",
@@ -48,8 +48,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 04时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 06时04分]"
         },
         {
           "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
@@ -80,7 +80,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
         },
@@ -91,7 +91,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
         },
@@ -102,7 +102,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
         },
@@ -118,13 +118,24 @@
           "time_info": "02时31分"
         },
         {
+          "title": "英伟达(NVDA.O)：与谷歌云助力下一波人工智能开发者。",
+          "url": "https://flash.jin10.com/detail/20260520043717324800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
           "title": "谷歌搜索宣布大改版 AI模式与代理助手全面嵌入",
           "url": "https://flash.jin10.com/detail/20260520032918013800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
         },
@@ -168,7 +179,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
         },
@@ -193,6 +204,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "谷歌高管坚持其“登月级”清洁能源愿景绝不动摇",
+          "url": "https://wallstreetcn.com/livenews/3106253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "英伟达：与谷歌云助力下一波人工智能开发者。",
+          "url": "https://wallstreetcn.com/livenews/3106251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
         },
         {
           "title": "谷歌称Gemini 3.5 Flash可助客户年省超10亿美元",
@@ -234,7 +267,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
         },
@@ -256,7 +289,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
         },
@@ -267,7 +300,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
         },
@@ -278,7 +311,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
         },
@@ -289,7 +322,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
         }
@@ -297,7 +330,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "伊媒：伊朗格什姆岛传出爆炸声",
@@ -307,8 +340,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 04时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 06时04分]"
         },
         {
           "title": "欧洲央行管委Kocher：如果伊朗战争没有改善，预计央行将在6月加息。",
@@ -317,9 +350,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
+        },
+        {
+          "title": "伊朗方面表示，美国关于其击中的伊朗学校位于巡航导弹基地内的说法毫无根据。",
+          "url": "https://flash.jin10.com/detail/20260520051106036800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
         },
         {
           "title": "美国副总统万斯称，“无法说我们对‘将与伊朗达成一份协议’有信心”。WTI原油期货跌幅收窄至0.7%，重返103.65美元一线。",
@@ -354,8 +398,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 04时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 06时04分]"
         },
         {
           "title": "秘密袭击伊朗，野心与压力碰撞下阿联酋正将海湾变成前线",
@@ -366,8 +410,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 04时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 06时04分]"
         },
         {
           "title": "释新闻｜伊朗威胁对霍尔木兹海峡海底电缆收费，可行性有多大？",
@@ -378,8 +422,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 04时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 06时04分]"
         },
         {
           "title": "美国副总统万斯：俄罗斯接管伊朗的浓缩铀并不在计划之内。",
@@ -391,6 +435,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "伊朗：美国关于伊朗学校位于巡航导弹基地内的说法毫无根据。",
+          "url": "https://wallstreetcn.com/livenews/3106260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
         },
         {
           "title": "美国副总统万斯：我不能自信地说我们会与伊朗达成协议。",
@@ -479,12 +534,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "欧洲央行管委科赫尔：如果伊朗战争局面没有改善，预计将在6月加息。",
+          "url": "https://flash.jin10.com/detail/20260520041238784800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "欧洲央行管委Kocher：如果伊朗战争局势没有改善，6月可能不得不加息",
+          "url": "https://wallstreetcn.com/livenews/3106242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "美媒：美军在印度洋扣押一艘伊朗相关油轮",
+          "url": "https://flash.jin10.com/detail/20260520040732136800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
@@ -494,19 +582,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 04时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 06时04分]"
         },
         {
-          "title": "科学家弃用最糟气候情景预测，引发特朗普发文嘲讽",
-          "url": "https://wallstreetcn.com/livenews/3106241",
+          "title": "美国总统特朗普：呼吁国会山出台铁路安全法案（立法草案）。",
+          "url": "https://wallstreetcn.com/livenews/3106268",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时23分"
+          "time_info": "06时04分"
         },
         {
           "title": "美国副总统万斯：刚刚与总统特朗普讨论了伊朗问题。 （美国）与伊朗的关系有两条路可以走。 B计划就是恢复军事袭击伊朗，特朗普不希望对伊朗采取备用计划。 特朗普要求我们与伊朗积极谈判，认为我们与伊朗取得了很大的进展。 希望（只有）少数国家拥有核武器。 伊朗不可以拥有核武器，必须同意不重建核武器。 无法说我们“对于将与伊朗达成一份协议”有信心。",
@@ -518,6 +606,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "白宫：美国总统特朗普今天签署关于银行业的命令。",
+          "url": "https://wallstreetcn.com/livenews/3106266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "为啥特朗普抛涉台“四不”说法？鲁比奥用大白话解释了",
+          "url": "https://news.ifeng.com/c/8tG27n1FK2V",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 06时04分]"
+        },
+        {
+          "title": "科学家弃用最糟气候情景预测，引发特朗普发文嘲讽",
+          "url": "https://wallstreetcn.com/livenews/3106241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时23分 ~ 06时04分]"
         },
         {
           "title": "对标“特朗普金卡”？英国考虑推出“邀请制”投资签证，最低门槛500万英镑",
@@ -532,17 +654,6 @@
           "time_info": "[00时43分 ~ 02时31分]"
         },
         {
-          "title": "为啥特朗普抛涉台“四不”说法？鲁比奥用大白话解释了",
-          "url": "https://news.ifeng.com/c/8tG27n1FK2V",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 04时23分]"
-        },
-        {
           "title": "美防长公开学特朗普讲话，现场一阵哄堂大笑",
           "url": "https://v.ifeng.com/c/8tGCnsxL5HM",
           "source": "凤凰网",
@@ -550,8 +661,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 04时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 06时04分]"
         },
         {
           "title": "赖清德暗怼特朗普后心虚了",
@@ -611,6 +722,28 @@
           "time_info": "00时43分"
         },
         {
+          "title": "特朗普政府拟缩减北约危机响应部队 要求欧洲接棒安全主导权",
+          "url": "https://flash.jin10.com/detail/20260520042923533800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "据美国财经媒体Semafor：特朗普放弃要求银行收集公民身份信息的计划。",
+          "url": "https://flash.jin10.com/detail/20260520042843664800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
           "title": "特朗普：将让沃什按自己的意愿决定利率",
           "url": "https://wallstreetcn.com/livenews/3106151",
           "source": "华尔街见闻-快讯",
@@ -635,6 +768,56 @@
       ]
     },
     {
+      "keyword_group": "小米 雷军 发布",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "武汉市联合调查组发布情况通报",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E5%B8%82%E8%81%94%E5%90%88%E8%B0%83%E6%9F%A5%E7%BB%84%E5%8F%91%E5%B8%83%E6%83%85%E5%86%B5%E9%80%9A%E6%8A%A5%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "美国电网运营商PJM Interconnection LLC.针对5月20日发布最大化发电应急/负荷管理警告。",
+          "url": "https://wallstreetcn.com/livenews/3106250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "*ST闻泰发布股价异动公告",
+          "url": "https://www.toutiao.com/trending/7640622980044881961/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        },
+        {
+          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3106244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
@@ -645,7 +828,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
         },
@@ -656,7 +839,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
         },
@@ -678,7 +861,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
         }
@@ -694,11 +877,12 @@
           "source": "微博",
           "ranks": [
             5,
-            6
+            6,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 04时23分]"
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 06时04分]"
         },
         {
           "title": "DeepSeek：特殊字符引发模型幻觉，不涉及安全问题或隐私泄露",
@@ -709,8 +893,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 04时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 06时04分]"
         }
       ]
     },
@@ -725,7 +909,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
         },
@@ -753,11 +937,12 @@
           "ranks": [
             2,
             6,
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 04时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 06时04分]"
         },
         {
           "title": "柳州网红水池一夜之间几近干涸",
@@ -769,25 +954,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 04时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小米 雷军 发布",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "*ST闻泰发布股价异动公告",
-          "url": "https://www.toutiao.com/trending/7640622980044881961/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 06时04分]"
         }
       ]
     },
@@ -819,7 +987,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
         }
@@ -837,8 +1005,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 04时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 06时04分]"
         }
       ]
     }
