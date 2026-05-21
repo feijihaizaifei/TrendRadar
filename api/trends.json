@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T09:57:41.281391+08:00",
-  "total_titles_processed": 737,
+  "generated_at": "2026-05-21T14:02:30.323337+08:00",
+  "total_titles_processed": 931,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 29,
       "titles": [
         {
           "title": "港大学者李成：我觉得特朗普对台军售政策会调整",
@@ -37,19 +37,31 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 09时57分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 14时02分]"
         },
         {
           "title": "特朗普，“退了一万亿”",
           "url": "https://news.ifeng.com/c/8tIcotw8V5W",
           "source": "凤凰网",
           "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 14时02分]"
+        },
+        {
+          "title": "特朗普回应中俄元首会晤",
+          "url": "https://news.ifeng.com/c/8tIjMNQDlpG",
+          "source": "凤凰网",
+          "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时57分"
+          "time_info": "14时02分"
         },
         {
           "title": "特朗普：我们还记着古巴，起诉前古巴总统卡斯特罗是一个非常重要的时刻。古巴是一个失败的国家，无法预测他们的未来。",
@@ -78,11 +90,35 @@
           "url": "https://wallstreetcn.com/articles/3772754",
           "source": "华尔街见闻",
           "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 14时02分]"
+        },
+        {
+          "title": "特朗普回应中俄元首会晤",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 14时02分]"
+        },
+        {
+          "title": "特朗普：不要中国学生，那可太冒犯了",
+          "url": "https://news.ifeng.com/c/8tIjMNQDlri",
+          "source": "凤凰网",
+          "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时57分"
+          "time_info": "14时02分"
         },
         {
           "title": "美国总统特朗普：关于伊朗的唯一问题是，是我们彻底消灭他们，还是他们签署文件。",
@@ -151,15 +187,26 @@
           "time_info": "03时12分"
         },
         {
-          "title": "特朗普回应中俄元首会晤",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4",
-          "source": "百度热搜",
+          "title": "报道称特朗普政府已开始制定对古巴军事行动方案",
+          "url": "https://wallstreetcn.com/livenews/3107164",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时57分"
+          "time_info": "14时02分"
+        },
+        {
+          "title": "特朗普称愿意多花几天等待伊方消息 SpaceX提交IPO文件 | 环球市场",
+          "url": "https://www.cls.cn/detail/2377369",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "土耳其总统府：土耳其总统埃尔多安与特朗普进行了电话交谈。",
@@ -212,7 +259,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -261,6 +308,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "特朗普回应中俄元首会晤",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "美股三大指数持续拉升，均涨超1%。特朗普表示，与伊朗的谈判已进入“最后阶段”。",
           "url": "https://flash.jin10.com/detail/20260520231849724800",
           "source": "金十数据",
@@ -275,7 +333,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美国已经向伊朗发送新文本。 伊朗正在审阅，尚未做出回应。（伊朗媒体Tasnim）",
@@ -401,6 +459,17 @@
           "time_info": "03时12分"
         },
         {
+          "title": "美以袭击伊朗进入第 83 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2040565738411221984",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "伊朗总统：伊朗始终履行承诺，探索一切途径以避免战争；伊朗方面所有的路径仍然开放。认为可以迫使伊朗投降只是一种幻觉。外交中的相互尊重远比战争更明智、更安全、更可持续。",
           "url": "https://flash.jin10.com/detail/20260521021701103800",
           "source": "金十数据",
@@ -492,7 +561,7 @@
     },
     {
       "keyword_group": "小米 雷军 发布",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "油价走软、海外股市债市携手回暖 英伟达即将发布财报 | 今夜看点",
@@ -514,7 +583,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -541,6 +610,17 @@
           "time_info": "03时12分"
         },
         {
+          "title": "雷军晒YU7GT团队",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E6%99%92YU7GT%E5%9B%A2%E9%98%9F%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "提醒：北京时间02:00，美联储将发布会议纪要。",
           "url": "https://wallstreetcn.com/livenews/3106879",
           "source": "华尔街见闻-快讯",
@@ -552,6 +632,17 @@
           "time_info": "03时12分"
         },
         {
+          "title": "全国首个面向家庭场景的通用机器人在武汉发布：会做饭、洗衣服、叠衣服，武汉家庭可免费申请",
+          "url": "https://www.cls.cn/detail/2377373",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "守望先锋发布致歉声明",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%88%E6%9C%9B%E5%85%88%E9%94%8B%E5%8F%91%E5%B8%83%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E",
           "source": "bilibili 热搜",
@@ -561,6 +652,73 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "网红 翻车",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "百万粉丝女网红上厕所被偷拍",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E5%A5%B3%E7%BD%91%E7%BA%A2%E4%B8%8A%E5%8E%95%E6%89%80%E8%A2%AB%E5%81%B7%E6%8B%8D",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 09时57分]"
+        },
+        {
+          "title": "南太行失窃网红松树被偷偷还回来了",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%97%E5%A4%AA%E8%A1%8C%E5%A4%B1%E7%AA%83%E7%BD%91%E7%BA%A2%E6%9D%BE%E6%A0%91%E8%A2%AB%E5%81%B7%E5%81%B7%E8%BF%98%E5%9B%9E%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            30,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时12分 ~ 09时57分]"
+        },
+        {
+          "title": "白金大神翻车,新书被批毒点",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354465&amp;topic_name=%E7%99%BD%E9%87%91%E5%A4%A7%E7%A5%9E%E7%BF%BB%E8%BD%A6%2C%E6%96%B0%E4%B9%A6%E8%A2%AB%E6%89%B9%E6%AF%92%E7%82%B9",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 14时02分]"
+        },
+        {
+          "title": "10座“网红”城 何以5座在广东",
+          "url": "https://www.baidu.com/s?wd=10%E5%BA%A7%E2%80%9C%E7%BD%91%E7%BA%A2%E2%80%9D%E5%9F%8E+%E4%BD%95%E4%BB%A55%E5%BA%A7%E5%9C%A8%E5%B9%BF%E4%B8%9C",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 07时03分]"
+        },
+        {
+          "title": "湖南石门网红村支书3天仅睡3小时",
+          "url": "https://www.toutiao.com/trending/7642119434199760937/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         }
       ]
     },
@@ -618,61 +776,6 @@
       ]
     },
     {
-      "keyword_group": "网红 翻车",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "百万粉丝女网红上厕所被偷拍",
-          "url": "https://www.baidu.com/s?wd=%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E5%A5%B3%E7%BD%91%E7%BA%A2%E4%B8%8A%E5%8E%95%E6%89%80%E8%A2%AB%E5%81%B7%E6%8B%8D",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 09时57分]"
-        },
-        {
-          "title": "南太行失窃网红松树被偷偷还回来了",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%97%E5%A4%AA%E8%A1%8C%E5%A4%B1%E7%AA%83%E7%BD%91%E7%BA%A2%E6%9D%BE%E6%A0%91%E8%A2%AB%E5%81%B7%E5%81%B7%E8%BF%98%E5%9B%9E%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            30,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时12分 ~ 09时57分]"
-        },
-        {
-          "title": "白金大神翻车,新书被批毒点",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354465&amp;topic_name=%E7%99%BD%E9%87%91%E5%A4%A7%E7%A5%9E%E7%BF%BB%E8%BD%A6%2C%E6%96%B0%E4%B9%A6%E8%A2%AB%E6%89%B9%E6%AF%92%E7%82%B9",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "10座“网红”城 何以5座在广东",
-          "url": "https://www.baidu.com/s?wd=10%E5%BA%A7%E2%80%9C%E7%BD%91%E7%BA%A2%E2%80%9D%E5%9F%8E+%E4%BD%95%E4%BB%A55%E5%BA%A7%E5%9C%A8%E5%B9%BF%E4%B8%9C",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时02分 ~ 07时03分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -713,7 +816,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
