@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T05:56:07.636845+08:00",
-  "total_titles_processed": 532,
+  "generated_at": "2026-05-23T06:47:03.134406+08:00",
+  "total_titles_processed": 549,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 05时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 06时47分]"
+        },
+        {
+          "title": "俄方称，普京与特朗普有可能 11 月在中国见面，美俄关系是否有望迎来转机？中国在这其中会扮演怎样的角色？",
+          "url": "https://www.zhihu.com/question/2040769816697558038",
+          "source": "知乎",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 06时47分]"
         },
         {
           "title": "美国总统特朗普：预计凯文·沃什将是一位伟大的美联储主席。",
@@ -96,28 +108,17 @@
           "time_info": "00时13分"
         },
         {
-          "title": "俄方称，普京与特朗普有可能 11 月在中国见面，美俄关系是否有望迎来转机？中国在这其中会扮演怎样的角色？",
-          "url": "https://www.zhihu.com/question/2040769816697558038",
-          "source": "知乎",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 05时56分]"
-        },
-        {
           "title": "特朗普儿媳再忆中国行直呼震撼",
           "url": "https://www.toutiao.com/trending/7641561881347309611/",
           "source": "今日头条",
           "ranks": [
             18,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时27分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[04时27分 ~ 06时47分]"
         },
         {
           "title": "美国总统特朗普：伊朗非常渴望达成和解。",
@@ -132,6 +133,18 @@
           "time_info": "[04时27分 ~ 05时56分]"
         },
         {
+          "title": "美国总统特朗普：伊朗永远不会拥有核武器，他们知道这一点。",
+          "url": "https://wallstreetcn.com/livenews/3108245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时47分]"
+        },
+        {
           "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
           "url": "https://m.thepaper.cn/newsDetail_forward_33206550",
           "source": "澎湃新闻",
@@ -141,6 +154,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时13分 ~ 02时27分]"
+        },
+        {
+          "title": "特朗普向沃什施压",
+          "url": "https://wallstreetcn.com/livenews/3108239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时47分]"
+        },
+        {
+          "title": "报道：特朗普周五会见了伊朗问题高级顾问",
+          "url": "https://wallstreetcn.com/livenews/3108238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时47分]"
+        },
+        {
+          "title": "美国总统特朗普：我们已经从委内瑞拉攫取了如此多的石油。 等我解决完伊朗问题，油价将暴跌。 我们已经阻止了伊朗拥有核武器。 伊朗问题很快就会结束。",
+          "url": "https://wallstreetcn.com/livenews/3108235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时47分]"
         },
         {
           "title": "美国总统特朗普：美联储是全球金融体系的支柱。",
@@ -231,17 +280,6 @@
           "time_info": "04时27分"
         },
         {
-          "title": "美国总统特朗普：伊朗永远不会拥有核武器，他们知道这一点。",
-          "url": "https://wallstreetcn.com/livenews/3108245",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        },
-        {
           "title": "特朗普：将缺席儿子的婚礼",
           "url": "https://wallstreetcn.com/livenews/3108183",
           "source": "华尔街见闻-快讯",
@@ -253,17 +291,6 @@
           "time_info": "02时27分"
         },
         {
-          "title": "特朗普向沃什施压",
-          "url": "https://wallstreetcn.com/livenews/3108239",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        },
-        {
           "title": "特朗普发文称无法参加儿子婚礼",
           "url": "https://flash.jin10.com/detail/20260523011457636800",
           "source": "金十数据",
@@ -273,28 +300,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
-        },
-        {
-          "title": "报道：特朗普周五会见了伊朗问题高级顾问",
-          "url": "https://wallstreetcn.com/livenews/3108238",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        },
-        {
-          "title": "美国总统特朗普：我们已经从委内瑞拉攫取了如此多的石油。 等我解决完伊朗问题，油价将暴跌。 我们已经阻止了伊朗拥有核武器。 伊朗问题很快就会结束。",
-          "url": "https://wallstreetcn.com/livenews/3108235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
         },
         {
           "title": "美国商务部长卢特尼克捍卫总统特朗普入股英特尔的做法，要求一名法官驳回该公司股东有关这笔交易涉嫌政府非法持股的指控。",
@@ -321,8 +326,41 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 05时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 06时47分]"
+        },
+        {
+          "title": "伊朗“最大内鬼”，原来是他？",
+          "url": "https://news.ifeng.com/c/8tLCbdpnraF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 06时47分]"
+        },
+        {
+          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
+          "url": "https://wallstreetcn.com/articles/3772777",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 06时47分]"
+        },
+        {
+          "title": "伊朗官员：结束战争、解除封锁以及确保霍尔木兹海峡稳定是优先事项",
+          "url": "https://flash.jin10.com/detail/20260523041413545800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时47分]"
         },
         {
           "title": "伊朗外交部发言人：如果我们试图深入探讨与伊朗高度浓缩铀相关的细节，将无法得出结论。",
@@ -336,28 +374,6 @@
           "time_info": "02时27分"
         },
         {
-          "title": "报道：伊朗军方准备好应对美方任何行动",
-          "url": "https://wallstreetcn.com/livenews/3108258",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        },
-        {
-          "title": "伊朗“最大内鬼”，原来是他？",
-          "url": "https://news.ifeng.com/c/8tLCbdpnraF",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 05时56分]"
-        },
-        {
           "title": "伊朗外交部发言人：尚无即将达成的协议。",
           "url": "https://flash.jin10.com/detail/20260523013835680800",
           "source": "金十数据",
@@ -367,17 +383,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
-        },
-        {
-          "title": "伊朗官员：结束战争、解除封锁以及确保霍尔木兹海峡稳定是优先事项",
-          "url": "https://flash.jin10.com/detail/20260523041413545800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
         },
         {
           "title": "伊朗外交部发言人：当前伊美谈判不涉及核问题",
@@ -391,17 +396,6 @@
           "time_info": "02时27分"
         },
         {
-          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
-          "url": "https://wallstreetcn.com/articles/3772777",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 05时56分]"
-        },
-        {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外交部发言人表示，目前阶段未讨论与核问题相关的细节。",
           "url": "https://flash.jin10.com/detail/20260523013343176800",
           "source": "金十数据",
@@ -411,6 +405,41 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
+        },
+        {
+          "title": "报道：伊朗军方准备好应对美方任何行动",
+          "url": "https://wallstreetcn.com/livenews/3108258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时47分]"
+        },
+        {
+          "title": "伊媒：知情人士称伊朗谈判仍在继续 所有争议问题形成共识前不会达成协议",
+          "url": "https://flash.jin10.com/detail/20260523040131039800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时47分]"
+        },
+        {
+          "title": "伊朗外长与联合国秘书长通话，讨论地区局势",
+          "url": "https://wallstreetcn.com/livenews/3108240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时47分]"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外交部发言人称，我们不能说经过几周或几个月的几次访问或会谈之后就一定能够得出结论，外交是需要时间的",
@@ -523,28 +552,6 @@
           "time_info": "02时27分"
         },
         {
-          "title": "伊媒：知情人士称伊朗谈判仍在继续 所有争议问题形成共识前不会达成协议",
-          "url": "https://flash.jin10.com/detail/20260523040131039800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        },
-        {
-          "title": "伊朗外长与联合国秘书长通话，讨论地区局势",
-          "url": "https://wallstreetcn.com/livenews/3108240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        },
-        {
           "title": "据半岛电视台：一位伊朗消息人士表示，目前尚未达成任何最终协议，双方正在努力缩小差距，停止所有战线的战争是未来任何谈判的基本前提。",
           "url": "https://flash.jin10.com/detail/20260523024028629800",
           "source": "金十数据",
@@ -624,8 +631,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 05时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 06时47分]"
         },
         {
           "title": "雷军：“媲美保时捷和特斯拉”不是吹嘘，希望大家有耐心再等小米5年",
@@ -635,8 +642,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 05时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 06时47分]"
         },
         {
           "title": "雷军说手机可能会越来越贵，若计划未来一年换手机，强烈推荐现在就换，现在真是最佳抄底时机吗？",
@@ -648,8 +655,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 05时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 06时47分]"
         },
         {
           "title": "国家统计局发布《2025 年全国 1% 人口抽样调查主要数据公报》，如何解读报告内容？",
@@ -661,8 +668,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 05时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 06时47分]"
         },
         {
           "title": "小米YU7GT独家评测",
@@ -672,11 +679,12 @@
             18,
             14,
             11,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 05时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 06时47分]"
         },
         {
           "title": "多地发布关于杨梅的消费提示，提醒消费者谨慎选购",
@@ -688,8 +696,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 05时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 06时47分]"
         },
         {
           "title": "小米 17Max 手机正式发布，起售价 4799 元，有哪些亮点？你认为值得购买吗？",
@@ -699,8 +707,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 05时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 06时47分]"
         }
       ]
     },
@@ -744,8 +752,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 05时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 06时47分]"
         }
       ]
     },
@@ -761,8 +769,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 05时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 06时47分]"
         }
       ]
     },
@@ -778,8 +786,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 05时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 06时47分]"
         }
       ]
     }
