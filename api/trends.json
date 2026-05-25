@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T10:02:53.024359+08:00",
-  "total_titles_processed": 707,
+  "generated_at": "2026-05-25T15:00:37.397901+08:00",
+  "total_titles_processed": 916,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 44,
+      "match_count": 50,
       "titles": [
         {
           "title": "美媒：协议含放弃浓缩铀 伊朗：暂不谈核问题",
@@ -16,8 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时48分 ~ 10时02分]"
+          "appearance_count": 14,
+          "time_info": "[00时48分 ~ 15时00分]"
         },
         {
           "title": "伊朗最高领袖顾问：管控霍尔木兹海峡是“合法权利”",
@@ -78,6 +78,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时49分 ~ 06时45分]"
+        },
+        {
+          "title": "伊朗称自冲突爆发以来已有20个机场恢复航班运营。（伊朗塔斯尼姆通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3108732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
         },
         {
           "title": "伊朗最高领袖的顾问：管理霍尔木兹海峡是伊朗确保国家安全的“合法权利”。 伊朗对霍尔木兹海峡的管辖结束了波斯湾长达50年的不安全状态。（伊朗媒体Tasnim）",
@@ -394,6 +405,17 @@
           "time_info": "[01时49分 ~ 02时57分]"
         },
         {
+          "title": "伊朗：准备向全世界保证不寻求拥核",
+          "url": "https://www.toutiao.com/trending/7643313675294244883/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时00分]"
+        },
+        {
           "title": "波兰外长：我们拒绝伊朗拥有核弹，并支持重新开放霍尔木兹海峡。",
           "url": "https://flash.jin10.com/detail/20260525005341993800",
           "source": "金十数据",
@@ -406,6 +428,17 @@
           "time_info": "[01时49分 ~ 02时57分]"
         },
         {
+          "title": "美以袭击伊朗进入第 87 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2042012817000067505",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时00分]"
+        },
+        {
           "title": "伊朗塔斯尼姆通讯社：伊朗方面表示，冻结资金的释放与浓缩铀行动无关。",
           "url": "https://flash.jin10.com/detail/20260525044051363800",
           "source": "金十数据",
@@ -415,6 +448,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "中方回应巴总理访华是否提及伊朗",
+          "url": "https://wallstreetcn.com/livenews/3108716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
         },
         {
           "title": "伊朗外交部发言人强烈谴责发生在奎达铁路站的恐怖袭击行为，该事件已导致大量巴基斯坦公民伤亡。",
@@ -456,7 +500,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -470,6 +514,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
+        },
+        {
+          "title": "美媒：伊朗最高领袖通过“信使网络”对外沟通",
+          "url": "https://wallstreetcn.com/livenews/3108700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
         },
         {
           "title": "据福克斯新闻援引美国政府官员的话报道，我们的计划包括处理伊朗的全部浓缩材料库存。",
@@ -527,6 +582,17 @@
           "time_info": "00时49分"
         },
         {
+          "title": "中方回应巴总理访华是否提及伊朗",
+          "url": "https://flash.jin10.com/detail/20260525142547717800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
+        },
+        {
           "title": "伊朗与阿曼举行会议商讨霍尔木兹海峡通行原则",
           "url": "https://flash.jin10.com/detail/20260524232349001800",
           "source": "金十数据",
@@ -552,7 +618,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
@@ -650,6 +716,17 @@
           "time_info": "[00时49分 ~ 06时45分]"
         },
         {
+          "title": "特朗普称美伊协议基本谈成，油价跳水，美股期货、黄金齐涨、日经强势涨破65000点",
+          "url": "https://wallstreetcn.com/articles/3773010",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时00分]"
+        },
+        {
           "title": "1季度做了3711笔交易！高频交易、先买后吹——这是“白宫股神”特朗普的交易策略",
           "url": "https://wallstreetcn.com/articles/3772984",
           "source": "华尔街见闻",
@@ -701,6 +778,18 @@
           "time_info": "[02时57分 ~ 04时56分]"
         },
         {
+          "title": "智胜特朗普？美媒酸了：中国取消对非关税这招太“高明”了",
+          "url": "https://news.ifeng.com/c/8tOEfLcy7On",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 15时00分]"
+        },
+        {
           "title": "以媒：特朗普向以方保证与伊朗协议将解除其核计划",
           "url": "https://wallstreetcn.com/livenews/3108501",
           "source": "华尔街见闻-快讯",
@@ -711,6 +800,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时49分 ~ 02时57分]"
+        },
+        {
+          "title": "又改口？特朗普：美伊尚未“完全谈妥” 美国不急于达成协议",
+          "url": "https://www.cls.cn/detail/2380246",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时00分]"
         },
         {
           "title": "据以色列第13频道：以色列总理内塔尼亚胡在私下谈话中承认，难以对特朗普施加压力。",
@@ -781,23 +881,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时48分 ~ 07时49分]"
-        },
-        {
-          "title": "智胜特朗普？美媒酸了：中国取消对非关税这招太“高明”了",
-          "url": "https://news.ifeng.com/c/8tOEfLcy7On",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
         }
       ]
     },
     {
       "keyword_group": "小米 雷军 发布",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "下周重磅日程：“美联储最爱通胀指标”、中国PMI、长鑫科技上会、拼多多小米财报",
@@ -822,8 +911,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时48分 ~ 10时02分]"
+          "appearance_count": 14,
+          "time_info": "[00时48分 ~ 15时00分]"
         },
         {
           "title": "中疾控发布埃博拉病毒病防控提示",
@@ -862,8 +951,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时48分 ~ 10时02分]"
+          "appearance_count": 14,
+          "time_info": "[00时48分 ~ 15时00分]"
         },
         {
           "title": "山西煤矿瓦斯爆炸事故发布会介绍，目前事故已致 82 人遇难，初步判断涉事企业有重大违法行为，如何看待？",
@@ -875,6 +964,41 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时57分 ~ 07时49分]"
+        },
+        {
+          "title": "本周重磅日程：“美联储最爱通胀指标”、中国PMI、长鑫科技上会、拼多多小米财报",
+          "url": "https://wallstreetcn.com/articles/3772885",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 15时00分]"
+        },
+        {
+          "title": "小米通报空调安装「抽真空」造假，两名涉事师傅被永久拉黑，抽真空环节有多重要？这种造假行为能有效遏制吗？",
+          "url": "https://www.zhihu.com/question/2041463586346849089",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 15时00分]"
+        },
+        {
+          "title": "网警发布防汛抗灾网络文明倡议书",
+          "url": "https://www.douyin.com/hot/2511031",
+          "source": "抖音",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时48分 ~ 15时00分]"
         },
         {
           "title": "张雪机车发布律师函：从未授权出书",
@@ -903,26 +1027,15 @@
           "time_info": "[07时48分 ~ 07时49分]"
         },
         {
-          "title": "本周重磅日程：“美联储最爱通胀指标”、中国PMI、长鑫科技上会、拼多多小米财报",
-          "url": "https://wallstreetcn.com/articles/3772885",
-          "source": "华尔街见闻",
+          "title": "实名购药、严禁AI替代审方 《处方药网络零售合规指南》发布",
+          "url": "https://flash.jin10.com/detail/20260525143618155800",
+          "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "小米通报空调安装「抽真空」造假，两名涉事师傅被永久拉黑，抽真空环节有多重要？这种造假行为能有效遏制吗？",
-          "url": "https://www.zhihu.com/question/2041463586346849089",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "15时00分"
         },
         {
           "title": "网警发布防汛抗灾网络文明倡议书",
@@ -932,19 +1045,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时48分 ~ 10时02分]"
+          "appearance_count": 5,
+          "time_info": "[07时48分 ~ 15时00分]"
+        },
+        {
+          "title": "实名购药、严禁AI替代审方 《处方药网络零售合规指南》发布",
+          "url": "https://wallstreetcn.com/livenews/3108725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
         },
         {
           "title": "网警发布防汛抗灾网络文明倡议书",
-          "url": "https://www.douyin.com/hot/2511031",
-          "source": "抖音",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E8%AD%A6%E5%8F%91%E5%B8%83%E9%98%B2%E6%B1%9B%E6%8A%97%E7%81%BE%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%80%A1%E8%AE%AE%E4%B9%A6",
+          "source": "bilibili 热搜",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时48分 ~ 10时02分]"
+          "time_info": "[10时02分 ~ 15时00分]"
         },
         {
           "title": "国务院台湾事务办公室5月27日举行新闻发布会",
@@ -959,17 +1083,6 @@
           "time_info": "[06时45分 ~ 07时49分]"
         },
         {
-          "title": "网警发布防汛抗灾网络文明倡议书",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E8%AD%A6%E5%8F%91%E5%B8%83%E9%98%B2%E6%B1%9B%E6%8A%97%E7%81%BE%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%80%A1%E8%AE%AE%E4%B9%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
           "title": "金十整理：本周重要事件与数据预告——美国4月核心PCE数据将公布；小米、理想、拼多多等财报来袭",
           "url": "https://flash.jin10.com/detail/20260525065625777800",
           "source": "金十数据",
@@ -979,12 +1092,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
+        },
+        {
+          "title": "马斯克宣布Grok V9-Medium完成训练：引入大量Cursor数据，两到三周内发布",
+          "url": "https://wallstreetcn.com/livenews/3108707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "周末要闻汇总：特朗普称美伊协议基本谈成；DeepSeek宣布永久降价",
@@ -1016,11 +1140,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时48分 ~ 10时02分]"
+          "appearance_count": 14,
+          "time_info": "[00时48分 ~ 15时00分]"
         },
         {
           "title": "deepseek狂降价,友商被卷哭",
@@ -1028,11 +1153,91 @@
           "source": "贴吧",
           "ranks": [
             12,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时48分 ~ 15时00分]"
+        },
+        {
+          "title": "DeepSeek宣布降价，算力租赁概念股放量大跌，多家上市公司回应",
+          "url": "https://wallstreetcn.com/livenews/3108720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
+        },
+        {
+          "title": "DeepSeek宣布降价，算力租赁概念股放量大跌，多家上市公司回应",
+          "url": "https://flash.jin10.com/detail/20260525142932464800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "网红 翻车",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "网红打卡点，女厕所藏针孔摄像头",
+          "url": "https://news.ifeng.com/c/8tPgq5LYr4s",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时00分]"
+        },
+        {
+          "title": "网红主播把假一赔万当成口号",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E4%B8%BB%E6%92%AD%E6%8A%8A%E5%81%87%E4%B8%80%E8%B5%94%E4%B8%87%E5%BD%93%E6%88%90%E5%8F%A3%E5%8F%B7%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时48分 ~ 10时02分]"
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时45分]"
+        },
+        {
+          "title": "台湾网红馆长开启川渝之行",
+          "url": "https://www.toutiao.com/trending/7643167193865715753/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时00分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 创业板 黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "印度财政部长：国际原油价格高企、化肥价格上涨以及金价攀升，给外部经济环境带来了一些挑战。",
+          "url": "https://flash.jin10.com/detail/20260525143213485800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
         }
       ]
     },
@@ -1065,27 +1270,43 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         }
       ]
     },
     {
-      "keyword_group": "网红 翻车",
+      "keyword_group": "战争",
       "match_count": 1,
       "titles": [
         {
-          "title": "网红主播把假一赔万当成口号",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E4%B8%BB%E6%92%AD%E6%8A%8A%E5%81%87%E4%B8%80%E8%B5%94%E4%B8%87%E5%BD%93%E6%88%90%E5%8F%A3%E5%8F%B7%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
+          "title": "美以伊战争启示录｜餐桌危机：不赚钱的冰美式外卖，不油炸的新德里炸鸡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33205033",
+          "source": "澎湃新闻",
           "ranks": [
-            29,
-            13
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时44分 ~ 06时45分]"
+          "time_info": "[14时59分 ~ 15时00分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "预言",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "莫迪发表「末日预言」警示印度经济，称将面临「灾难十年」冲击，将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2040860418759997292",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时00分]"
         }
       ]
     }
