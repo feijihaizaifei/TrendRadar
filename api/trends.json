@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-27T08:02:38.925787+08:00",
-  "total_titles_processed": 607,
+  "generated_at": "2026-05-27T13:08:00.893358+08:00",
+  "total_titles_processed": 831,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
+        {
+          "title": "停火协议形同废纸！伊朗开火，回击美国空袭，小哈梅内伊：中东地区国家将不再庇护美军",
+          "url": "https://wallstreetcn.com/articles/3773148",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时50分 ~ 13时08分]"
+        },
         {
           "title": "伊朗外交部：美国公然违反停火协议",
           "url": "https://www.cls.cn/detail/2382022",
@@ -30,18 +42,6 @@
           "time_info": "[01时50分 ~ 08时02分]"
         },
         {
-          "title": "停火协议形同废纸！伊朗开火，回击美国空袭，小哈梅内伊：中东地区国家将不再庇护美军",
-          "url": "https://wallstreetcn.com/articles/3773148",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时50分 ~ 08时02分]"
-        },
-        {
           "title": "伊朗任命谈判团队发言人，专家：展现外交灵活性",
           "url": "https://v.ifeng.com/c/8tPxP7tkeJv",
           "source": "凤凰网",
@@ -51,6 +51,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时50分 ~ 08时02分]"
+        },
+        {
+          "title": "伊朗是否已请求将高浓缩铀转运至中国？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33236124",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            6,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时50分 ~ 13时08分]"
         },
         {
           "title": "伊朗男足参加美墨世界杯：比赛日跨境入美，踢完就撤回墨西哥",
@@ -89,19 +103,6 @@
           "time_info": "[01时50分 ~ 08时02分]"
         },
         {
-          "title": "伊朗是否已请求将高浓缩铀转运至中国？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33236124",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时50分 ~ 08时02分]"
-        },
-        {
           "title": "美联储卡什卡利：旷日持久的伊朗战争可能引发美国“一系列”加息",
           "url": "https://flash.jin10.com/detail/20260527031819045800",
           "source": "金十数据",
@@ -111,6 +112,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
+        },
+        {
+          "title": "伊朗大不里士国际机场恢复运营",
+          "url": "https://flash.jin10.com/detail/20260527125126650800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         },
         {
           "title": "美联储卡什卡利：旷日持久的伊朗战争可能引发美国“一系列”加息。",
@@ -161,6 +173,17 @@
           "time_info": "[06时59分 ~ 08时02分]"
         },
         {
+          "title": "王毅谈当前伊朗局势僵局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33242584",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
+        },
+        {
           "title": "伊朗伊斯兰革命卫队：过去24小时25艘船只获准通过霍尔木兹海峡",
           "url": "https://flash.jin10.com/detail/20260527023626399800",
           "source": "金十数据",
@@ -189,9 +212,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "伊朗民航组织宣布全国10个机场将实现24小时运营",
+          "url": "https://wallstreetcn.com/livenews/3109828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         },
         {
           "title": "伊朗革命卫队声称正在对霍尔木兹海峡实施“智能控制”，并警告称，任何在该水道的侵略行为将遭到“毁灭性”回应，进一步强化了德黑兰在维护该战略要道主权上的立场。",
@@ -222,7 +256,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -236,6 +270,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "伊朗民航组织宣布全国10个机场将实现24小时运营",
+          "url": "https://flash.jin10.com/detail/20260527121045082800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         },
         {
           "title": "伊朗处决一名替以色列刺探情报的男性间谍。（伊朗媒体Mizan）",
@@ -266,7 +311,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -332,7 +377,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -416,8 +461,322 @@
       ]
     },
     {
+      "keyword_group": "小米 雷军 发布",
+      "match_count": 26,
+      "titles": [
+        {
+          "title": "如何看待小米公布 2026 年第一财季财报，营收 991 亿元、净利润 61 亿，有哪些值得关注？",
+          "url": "https://www.zhihu.com/question/2042667657242076706",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时50分 ~ 08时02分]"
+        },
+        {
+          "title": "想不想买小米汽车？武契奇：买不起",
+          "url": "https://www.toutiao.com/trending/7644103690068069898/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时50分 ~ 06时59分]"
+        },
+        {
+          "title": "武契奇在小米汽车工厂下单 买了啥",
+          "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E5%A5%91%E5%A5%87%E5%9C%A8%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%B7%A5%E5%8E%82%E4%B8%8B%E5%8D%95+%E4%B9%B0%E4%BA%86%E5%95%A5",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时50分 ~ 06时59分]"
+        },
+        {
+          "title": "雷军回应武契奇说小米车漂亮但买不起",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E6%AD%A6%E5%A5%91%E5%A5%87%E8%AF%B4%E5%B0%8F%E7%B1%B3%E8%BD%A6%E6%BC%82%E4%BA%AE%E4%BD%86%E4%B9%B0%E4%B8%8D%E8%B5%B7%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时50分 ~ 08时02分]"
+        },
+        {
+          "title": "小米Q1营收991亿元超预期，宣布200亿港元新回购计划｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3773155",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时50分 ~ 13时08分]"
+        },
+        {
+          "title": "小米发布2026年一季度业绩",
+          "url": "https://www.douyin.com/hot/2513176",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时50分 ~ 13时08分]"
+        },
+        {
+          "title": "【早报】暴涨超19%，美股存储芯片巨头市值首破万亿；兆易创新、沪电股份等热门股发布重要公告",
+          "url": "https://www.cls.cn/detail/2382303",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时02分 ~ 13时08分]"
+        },
+        {
+          "title": "塞尔维亚总统武契奇说小米车漂亮但买不起，雷军回应「YU7 标准版定价 23.35 万」，如何看待这一回应？",
+          "url": "https://www.zhihu.com/question/2042890815265923370",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
+        },
+        {
+          "title": "武契奇说买不起小米汽车 雷军回应",
+          "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E5%A5%91%E5%A5%87%E8%AF%B4%E4%B9%B0%E4%B8%8D%E8%B5%B7%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6+%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "第一大股东近期累计减持633万股 3700亿存储芯片龙头发布异动公告|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2382076",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时50分 ~ 08时02分]"
+        },
+        {
+          "title": "被问想不想买一辆小米汽车，武契奇笑称：买不起，但车很漂亮",
+          "url": "https://v.ifeng.com/c/8tPxP7tkeJs",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时50分 ~ 08时02分]"
+        },
+        {
+          "title": "雷军回应武契奇说小米车漂亮但买不起",
+          "url": "https://www.toutiao.com/trending/7643645124177854510/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时02分 ~ 13时08分]"
+        },
+        {
+          "title": "小米电话会：内存成本短期难降，“做最后涨价、涨幅最小的企业”",
+          "url": "https://wallstreetcn.com/articles/3773158",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时26分 ~ 13时08分]"
+        },
+        {
+          "title": "除了小米，美的格力海尔等品牌是否也应公开通报安装造假案例？",
+          "url": "https://www.zhihu.com/question/2042171361179815968",
+          "source": "知乎",
+          "ranks": [
+            15,
+            19,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时50分 ~ 06时59分]"
+        },
+        {
+          "title": "小米YU7 GT爆单 有门店一天卖11辆",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3YU7+GT%E7%88%86%E5%8D%95+%E6%9C%89%E9%97%A8%E5%BA%97%E4%B8%80%E5%A4%A9%E5%8D%9611%E8%BE%86",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时50分 ~ 06时59分]"
+        },
+        {
+          "title": "如何评价小米 mimo-V2.5 系列模型 5 月 27 日大降价？",
+          "url": "https://www.zhihu.com/question/2042778573321266131",
+          "source": "知乎",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时59分 ~ 13时08分]"
+        },
+        {
+          "title": "武契奇在小米汽车工厂买了啥",
+          "url": "https://www.toutiao.com/trending/7643858808741625894/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时02分 ~ 13时08分]"
+        },
+        {
+          "title": "武契奇在小米工厂下单了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A5%91%E5%A5%87%E5%9C%A8%E5%B0%8F%E7%B1%B3%E5%B7%A5%E5%8E%82%E4%B8%8B%E5%8D%95%E4%BA%86%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时50分 ~ 06时59分]"
+        },
+        {
+          "title": "法拉利首款纯电车型发布后股价大跌",
+          "url": "https://www.toutiao.com/trending/7644397475763162670/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
+        },
+        {
+          "title": "小米汽车又亏了 爆款还能扛多久",
+          "url": "https://www.toutiao.com/trending/7644385423375994374/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
+        },
+        {
+          "title": "小米宣布200亿港元回购计划",
+          "url": "https://www.douyin.com/hot/2513475",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
+        },
+        {
+          "title": "夏奇拉发布世界杯主题曲《Dai Dai》，梅西、姆巴佩出镜 MV，如何评价这个主题曲和 MV？",
+          "url": "https://www.zhihu.com/question/2041893027963262258",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
+        },
+        {
+          "title": "经纬度：“韬定律”发布，中国企业要做规则定义者",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33237048",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
+        },
+        {
+          "title": "法拉利发布首款纯电动车 Luce，起售价 435 万元，如何看待这一定价？这辆车有哪些亮点？",
+          "url": "https://www.zhihu.com/question/2042548059943298621",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时50分 ~ 01时51分]"
+        },
+        {
+          "title": "雷军：YU7 GT本周五开始交付。",
+          "url": "https://flash.jin10.com/detail/20260527122638810800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "沽空机构Citron创始人告诉陪审团 没有法律禁止在发布报告后交易",
+          "url": "https://wallstreetcn.com/livenews/3109811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
@@ -426,11 +785,35 @@
           "ranks": [
             18,
             17,
-            16
+            16,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时50分 ~ 08时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时50分 ~ 13时08分]"
+        },
+        {
+          "title": "特朗普体检后称“结果非常完美”，下个月将迎来80岁生日",
+          "url": "https://news.ifeng.com/c/8tSnrdWGnY5",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
+        },
+        {
+          "title": "特朗普提了一个非分要求",
+          "url": "https://news.ifeng.com/c/8tSb04uTeLk",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时02分 ~ 13时08分]"
         },
         {
           "title": "美国总统特朗普宣称：准备在白宫举办内阁会议，推迟前往戴维营的行程。",
@@ -492,15 +875,15 @@
           "time_info": "[06时59分 ~ 08时02分]"
         },
         {
-          "title": "特朗普提了一个非分要求",
-          "url": "https://news.ifeng.com/c/8tSb04uTeLk",
-          "source": "凤凰网",
+          "title": "国台办回应特朗普称将和赖清德谈军售",
+          "url": "https://www.toutiao.com/trending/7643605127043399699/",
+          "source": "今日头条",
           "ranks": [
-            6
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
         },
         {
           "title": "据AXIOS网站记者：消息人士透露，美国总统特朗普正在与以色列总理内塔尼亚胡通电话。",
@@ -575,7 +958,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -659,229 +1042,6 @@
       ]
     },
     {
-      "keyword_group": "小米 雷军 发布",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "如何看待小米公布 2026 年第一财季财报，营收 991 亿元、净利润 61 亿，有哪些值得关注？",
-          "url": "https://www.zhihu.com/question/2042667657242076706",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时50分 ~ 08时02分]"
-        },
-        {
-          "title": "想不想买小米汽车？武契奇：买不起",
-          "url": "https://www.toutiao.com/trending/7644103690068069898/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时50分 ~ 06时59分]"
-        },
-        {
-          "title": "武契奇在小米汽车工厂下单 买了啥",
-          "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E5%A5%91%E5%A5%87%E5%9C%A8%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%B7%A5%E5%8E%82%E4%B8%8B%E5%8D%95+%E4%B9%B0%E4%BA%86%E5%95%A5",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时50分 ~ 06时59分]"
-        },
-        {
-          "title": "雷军回应武契奇说小米车漂亮但买不起",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E6%AD%A6%E5%A5%91%E5%A5%87%E8%AF%B4%E5%B0%8F%E7%B1%B3%E8%BD%A6%E6%BC%82%E4%BA%AE%E4%BD%86%E4%B9%B0%E4%B8%8D%E8%B5%B7%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时50分 ~ 08时02分]"
-        },
-        {
-          "title": "小米Q1营收991亿元超预期，宣布200亿港元新回购计划｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3773155",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时50分 ~ 08时02分]"
-        },
-        {
-          "title": "小米发布2026年一季度业绩",
-          "url": "https://www.douyin.com/hot/2513176",
-          "source": "抖音",
-          "ranks": [
-            10,
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时50分 ~ 08时02分]"
-        },
-        {
-          "title": "武契奇说买不起小米汽车 雷军回应",
-          "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E5%A5%91%E5%A5%87%E8%AF%B4%E4%B9%B0%E4%B8%8D%E8%B5%B7%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6+%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "第一大股东近期累计减持633万股 3700亿存储芯片龙头发布异动公告|盘后公告集锦",
-          "url": "https://www.cls.cn/detail/2382076",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时50分 ~ 08时02分]"
-        },
-        {
-          "title": "被问想不想买一辆小米汽车，武契奇笑称：买不起，但车很漂亮",
-          "url": "https://v.ifeng.com/c/8tPxP7tkeJs",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时50分 ~ 08时02分]"
-        },
-        {
-          "title": "【早报】暴涨超19%，美股存储芯片巨头市值首破万亿；兆易创新、沪电股份等热门股发布重要公告",
-          "url": "https://www.cls.cn/detail/2382303",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "除了小米，美的格力海尔等品牌是否也应公开通报安装造假案例？",
-          "url": "https://www.zhihu.com/question/2042171361179815968",
-          "source": "知乎",
-          "ranks": [
-            15,
-            19,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时50分 ~ 06时59分]"
-        },
-        {
-          "title": "小米YU7 GT爆单 有门店一天卖11辆",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3YU7+GT%E7%88%86%E5%8D%95+%E6%9C%89%E9%97%A8%E5%BA%97%E4%B8%80%E5%A4%A9%E5%8D%9611%E8%BE%86",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时50分 ~ 06时59分]"
-        },
-        {
-          "title": "小米电话会：内存成本短期难降，“做最后涨价、涨幅最小的企业”",
-          "url": "https://wallstreetcn.com/articles/3773158",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时26分 ~ 08时02分]"
-        },
-        {
-          "title": "武契奇在小米工厂下单了",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A5%91%E5%A5%87%E5%9C%A8%E5%B0%8F%E7%B1%B3%E5%B7%A5%E5%8E%82%E4%B8%8B%E5%8D%95%E4%BA%86%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 06时59分]"
-        },
-        {
-          "title": "如何评价小米 mimo-V2.5 系列模型 5 月 27 日大降价？",
-          "url": "https://www.zhihu.com/question/2042778573321266131",
-          "source": "知乎",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时59分 ~ 08时02分]"
-        },
-        {
-          "title": "法拉利发布首款纯电动车 Luce，起售价 435 万元，如何看待这一定价？这辆车有哪些亮点？",
-          "url": "https://www.zhihu.com/question/2042548059943298621",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 01时51分]"
-        },
-        {
-          "title": "雷军回应武契奇说小米车漂亮但买不起",
-          "url": "https://www.toutiao.com/trending/7643645124177854510/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "武契奇在小米汽车工厂买了啥",
-          "url": "https://www.toutiao.com/trending/7643858808741625894/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "网红 翻车",
       "match_count": 7,
       "titles": [
@@ -955,7 +1115,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -966,7 +1126,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         }
@@ -974,7 +1134,7 @@
     },
     {
       "keyword_group": "战争",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美以伊战争启示录｜5万 vs 200万：无人机的经济消耗战重塑军事逻辑",
@@ -1011,6 +1171,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时50分 ~ 05时26分]"
+        },
+        {
+          "title": "美以伊战争启示录｜旅游天堂等待游客：16道菜套餐变6道，本地人住酒店打六折",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33210539",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
         },
         {
           "title": "为什么哥伦比亚的禁毒战争成功了，而墨西哥的毒贩依旧如此猖獗？",
@@ -1077,7 +1248,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         }
