@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T13:08:00.893358+08:00",
-  "total_titles_processed": 831,
+  "generated_at": "2026-05-27T16:57:23.324811+08:00",
+  "total_titles_processed": 1025,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 40,
+      "match_count": 51,
       "titles": [
         {
           "title": "停火协议形同废纸！伊朗开火，回击美国空袭，小哈梅内伊：中东地区国家将不再庇护美军",
@@ -120,7 +120,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -148,6 +148,18 @@
           "time_info": "[05时26分 ~ 06时59分]"
         },
         {
+          "title": "王毅谈当前伊朗局势僵局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33242584",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时07分 ~ 16时57分]"
+        },
+        {
           "title": "美国对伊朗实施打击，打击目标包括导弹发射阵地以及正试图布设水雷的伊朗船只，美国为何在停火期发动打击？",
           "url": "https://www.zhihu.com/question/2042527297291431958",
           "source": "知乎",
@@ -173,15 +185,15 @@
           "time_info": "[06时59分 ~ 08时02分]"
         },
         {
-          "title": "王毅谈当前伊朗局势僵局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33242584",
-          "source": "澎湃新闻",
+          "title": "伊朗称美将在所有战线停火60天",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E5%B0%86%E5%9C%A8%E6%89%80%E6%9C%89%E6%88%98%E7%BA%BF%E5%81%9C%E7%81%AB60%E5%A4%A9",
+          "source": "百度热搜",
           "ranks": [
-            13
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时07分 ~ 13时08分]"
+          "time_info": "[16时56分 ~ 16时57分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队：过去24小时25艘船只获准通过霍尔木兹海峡",
@@ -223,7 +235,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -237,6 +249,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
+        },
+        {
+          "title": "伊朗支付超7万亿土曼“药品支持计划”相关欠款",
+          "url": "https://wallstreetcn.com/livenews/3109951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗伊斯兰革命卫队海军表示，在过去24小时内，有25艘油轮、集装箱船以及其他商业船只在获得伊朗许可的情况下通过了霍尔木兹海峡。",
@@ -278,7 +301,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -316,6 +339,17 @@
           "time_info": "08时02分"
         },
         {
+          "title": "韩国外交部：将召见伊朗大使以分享调查结果。",
+          "url": "https://flash.jin10.com/detail/20260527162036028800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
           "title": "伊朗总统：毫不动摇捍卫领土与国家主权",
           "url": "https://flash.jin10.com/detail/20260527015929934800",
           "source": "金十数据",
@@ -325,6 +359,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
+        },
+        {
+          "title": "韩国公布霍尔木兹海峡船只遇袭事件调查结果。伊朗导弹或导致船只在霍尔木兹海峡遭袭。韩国将就船只在霍尔木兹海峡遇袭事件召见伊朗大使。彭博）",
+          "url": "https://wallstreetcn.com/livenews/3109941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
         },
         {
           "title": "伊朗总统：已准备好达成“有尊严的”框架协议",
@@ -382,6 +427,17 @@
           "time_info": "08时02分"
         },
         {
+          "title": "伊朗支付超7万亿土曼“药品支持计划”相关欠款",
+          "url": "https://flash.jin10.com/detail/20260527161559718800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
           "title": "伊朗总统：与卡塔尔埃米尔通了电话。",
           "url": "https://flash.jin10.com/detail/20260526235106798800",
           "source": "金十数据",
@@ -391,6 +447,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "伊朗战争加剧市场波动 美英企业外汇对冲比例升至新高",
+          "url": "https://flash.jin10.com/detail/20260527161507239800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
         },
         {
           "title": "伊朗总统：毫不动摇捍卫领土与国家主权",
@@ -404,6 +471,17 @@
           "time_info": "03时51分"
         },
         {
+          "title": "韩国政府表示，击中‘Na Mu号’的发动机与伊朗制造的涡轮喷气发动机相似。",
+          "url": "https://flash.jin10.com/detail/20260527161330089800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
           "title": "美国政府被马斯克掐咽喉：五角大楼与SpaceX就伊朗战争期间“星链”涨价问题爆发激烈争执",
           "url": "https://wallstreetcn.com/livenews/3109568",
           "source": "华尔街见闻-快讯",
@@ -413,6 +491,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "伊朗最高领袖顾问：霍尔木兹海峡是协议存续的现实保障",
+          "url": "https://wallstreetcn.com/livenews/3109933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
         },
         {
           "title": "伊朗总统：与卡塔尔埃米尔通电话。 德黑兰寻求按照“有尊严的框架（协议）”来结束战争。",
@@ -448,6 +537,17 @@
           "time_info": "03时51分"
         },
         {
+          "title": "【伊朗革命卫队官员：伊美战争重启可能性“低”】据伊朗塔斯尼姆通讯社27日报道，伊朗伊斯兰革命卫队海军官员穆罕默德·阿克巴尔扎德表示，与美国重新发生战争的可能性“低”，但伊朗武装力量已“装满弹匣”做好准备。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3109928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
           "title": "伊媒：以无人机袭击阿联酋欲嫁祸伊朗",
           "url": "https://www.toutiao.com/trending/7643203125008105499/",
           "source": "今日头条",
@@ -457,12 +557,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "市场消息：韩国政府计划召见伊朗大使，提出强烈抗议，并要求采取措施以防止此类事件再次发生。",
+          "url": "https://flash.jin10.com/detail/20260527160955491800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
+          "title": "“星链”被指服务于美国针对伊朗的军事行动",
+          "url": "https://wallstreetcn.com/livenews/3109926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
         }
       ]
     },
     {
       "keyword_group": "小米 雷军 发布",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "如何看待小米公布 2026 年第一财季财报，营收 991 亿元、净利润 61 亿，有哪些值得关注？",
@@ -476,6 +598,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时50分 ~ 08时02分]"
+        },
+        {
+          "title": "小米Q1营收991亿元超预期，宣布200亿港元新回购计划｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3773155",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时50分 ~ 16时57分]"
         },
         {
           "title": "想不想买小米汽车？武契奇：买不起",
@@ -514,18 +650,29 @@
           "time_info": "[01时50分 ~ 08时02分]"
         },
         {
-          "title": "小米Q1营收991亿元超预期，宣布200亿港元新回购计划｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3773155",
-          "source": "华尔街见闻",
+          "title": "塞尔维亚总统武契奇说小米车漂亮但买不起，雷军回应「YU7 标准版定价 23.35 万」，如何看待这一回应？",
+          "url": "https://www.zhihu.com/question/2042890815265923370",
+          "source": "知乎",
           "ranks": [
-            8,
-            9,
-            7,
-            6
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时50分 ~ 13时08分]"
+          "appearance_count": 4,
+          "time_info": "[13时07分 ~ 16时57分]"
+        },
+        {
+          "title": "小米电话会：内存成本短期难降，“做最后涨价、涨幅最小的企业”",
+          "url": "https://wallstreetcn.com/articles/3773158",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时26分 ~ 16时57分]"
         },
         {
           "title": "小米发布2026年一季度业绩",
@@ -553,15 +700,17 @@
           "time_info": "[08时02分 ~ 13时08分]"
         },
         {
-          "title": "塞尔维亚总统武契奇说小米车漂亮但买不起，雷军回应「YU7 标准版定价 23.35 万」，如何看待这一回应？",
-          "url": "https://www.zhihu.com/question/2042890815265923370",
-          "source": "知乎",
+          "title": "雷军回应武契奇说小米车漂亮但买不起",
+          "url": "https://www.toutiao.com/trending/7643645124177854510/",
+          "source": "今日头条",
           "ranks": [
-            2
+            6,
+            4,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时07分 ~ 13时08分]"
+          "appearance_count": 5,
+          "time_info": "[08时02分 ~ 16时57分]"
         },
         {
           "title": "武契奇说买不起小米汽车 雷军回应",
@@ -599,31 +748,6 @@
           "time_info": "[01时50分 ~ 08时02分]"
         },
         {
-          "title": "雷军回应武契奇说小米车漂亮但买不起",
-          "url": "https://www.toutiao.com/trending/7643645124177854510/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时02分 ~ 13时08分]"
-        },
-        {
-          "title": "小米电话会：内存成本短期难降，“做最后涨价、涨幅最小的企业”",
-          "url": "https://wallstreetcn.com/articles/3773158",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时26分 ~ 13时08分]"
-        },
-        {
           "title": "除了小米，美的格力海尔等品牌是否也应公开通报安装造假案例？",
           "url": "https://www.zhihu.com/question/2042171361179815968",
           "source": "知乎",
@@ -659,6 +783,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时59分 ~ 13时08分]"
+        },
+        {
+          "title": "小米宣布200亿港元回购计划",
+          "url": "https://www.douyin.com/hot/2513475",
+          "source": "抖音",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时07分 ~ 16时57分]"
+        },
+        {
+          "title": "经纬度：“韬定律”发布，中国企业要做规则定义者",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33237048",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时07分 ~ 16时57分]"
         },
         {
           "title": "武契奇在小米汽车工厂买了啥",
@@ -707,15 +855,15 @@
           "time_info": "[13时07分 ~ 13时08分]"
         },
         {
-          "title": "小米宣布200亿港元回购计划",
-          "url": "https://www.douyin.com/hot/2513475",
-          "source": "抖音",
+          "title": "中信证券发布A股下半年投资策略",
+          "url": "https://www.cls.cn/detail/2382384",
+          "source": "财联社热门",
           "ranks": [
-            10
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时07分 ~ 13时08分]"
+          "time_info": "[16时56分 ~ 16时57分]"
         },
         {
           "title": "夏奇拉发布世界杯主题曲《Dai Dai》，梅西、姆巴佩出镜 MV，如何评价这个主题曲和 MV？",
@@ -723,17 +871,6 @@
           "source": "知乎",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时07分 ~ 13时08分]"
-        },
-        {
-          "title": "经纬度：“韬定律”发布，中国企业要做规则定义者",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33237048",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -751,13 +888,35 @@
           "time_info": "[01时50分 ~ 01时51分]"
         },
         {
+          "title": "问界M9发布会",
+          "url": "https://s.weibo.com/weibo?q=%E9%97%AE%E7%95%8CM9%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 16时57分]"
+        },
+        {
+          "title": "雷军：小米YU7 GT本周五开始交付",
+          "url": "https://www.toutiao.com/trending/7644468066893516338/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 16时57分]"
+        },
+        {
           "title": "雷军：YU7 GT本周五开始交付。",
           "url": "https://flash.jin10.com/detail/20260527122638810800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -768,7 +927,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         }
@@ -786,22 +945,24 @@
             18,
             17,
             16,
-            9
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时50分 ~ 13时08分]"
+          "appearance_count": 10,
+          "time_info": "[01时50分 ~ 16时57分]"
         },
         {
           "title": "特朗普体检后称“结果非常完美”，下个月将迎来80岁生日",
           "url": "https://news.ifeng.com/c/8tSnrdWGnY5",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时07分 ~ 13时08分]"
+          "appearance_count": 4,
+          "time_info": "[13时07分 ~ 16时57分]"
         },
         {
           "title": "特朗普提了一个非分要求",
@@ -812,8 +973,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时02分 ~ 13时08分]"
+          "appearance_count": 5,
+          "time_info": "[08时02分 ~ 16时57分]"
         },
         {
           "title": "美国总统特朗普宣称：准备在白宫举办内阁会议，推迟前往戴维营的行程。",
@@ -1043,7 +1204,7 @@
     },
     {
       "keyword_group": "网红 翻车",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "如何看待美国顶流左翼键政网红哈桑·派克（Hasan Piker）因支援古巴被传唤？",
@@ -1097,6 +1258,17 @@
           "time_info": "[01时50分 ~ 03时51分]"
         },
         {
+          "title": "白鹿原网红“孤独树”被砍掉枝叶",
+          "url": "https://www.toutiao.com/trending/7644371528570470406/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时56分 ~ 16时57分]"
+        },
+        {
           "title": "美国民主党大选败选复盘报告翻车",
           "url": "https://www.toutiao.com/trending/7644151647945362987/",
           "source": "今日头条",
@@ -1134,7 +1306,7 @@
     },
     {
       "keyword_group": "战争",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美以伊战争启示录｜5万 vs 200万：无人机的经济消耗战重塑军事逻辑",
@@ -1177,11 +1349,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33210539",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时07分 ~ 13时08分]"
+          "appearance_count": 4,
+          "time_info": "[13时07分 ~ 16时57分]"
         },
         {
           "title": "为什么哥伦比亚的禁毒战争成功了，而墨西哥的毒贩依旧如此猖獗？",
@@ -1194,6 +1367,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时59分 ~ 08时02分]"
+        },
+        {
+          "title": "欧洲央行：投资者低估战争与通胀风险，市场或出现大幅重新定价",
+          "url": "https://flash.jin10.com/detail/20260527162039883800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
         },
         {
           "title": "美国战争部：海格塞斯明天将前往新加坡。",
@@ -1246,11 +1430,29 @@
           "url": "https://wallstreetcn.com/articles/3773150",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时02分 ~ 16时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌将于7月1日更新在爱尔兰的博彩和游戏政策，以符合新的监管要求。",
+          "url": "https://flash.jin10.com/detail/20260527163129223800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时02分"
+          "time_info": "16时57分"
         }
       ]
     }
