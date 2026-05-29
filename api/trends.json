@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T18:38:05.691452+08:00",
-  "total_titles_processed": 1132,
+  "generated_at": "2026-05-29T21:54:06.571110+08:00",
+  "total_titles_processed": 1313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "伊朗称击落一架美军飞机，美方回应",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时55分 ~ 18时38分]"
+          "appearance_count": 7,
+          "time_info": "[09时55分 ~ 21时54分]"
         },
         {
           "title": "媒体称伊朗愿意将高浓缩铀转运至中国进行处理，国防部回应",
@@ -223,7 +223,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -259,6 +259,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
+        },
+        {
+          "title": "美联储副主席鲍曼：现在判断伊朗冲突对通胀的影响还为时过早",
+          "url": "https://wallstreetcn.com/livenews/3111469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "伊朗国家媒体：Bushehr听到爆炸声。",
@@ -371,6 +382,17 @@
           "time_info": "14时03分"
         },
         {
+          "title": "伊朗议会议长卡利巴夫：在对方采取行动之前，伊朗不会采取任何行动。",
+          "url": "https://wallstreetcn.com/livenews/3111456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
           "title": "知情人士称伊朗方面尚未同意任何谅解备忘录",
           "url": "https://flash.jin10.com/detail/20260529022920185800",
           "source": "金十数据",
@@ -410,9 +432,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
+        },
+        {
+          "title": "美媒透露美伊谈判新细节：为伊朗设立3000亿美元基金，并停止黎巴嫩境内的战斗",
+          "url": "https://flash.jin10.com/detail/20260529212844795800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "伊朗官员称无意将浓缩铀运出伊朗",
@@ -495,7 +528,7 @@
     },
     {
       "keyword_group": "小米 雷军 发布",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "比亚迪 5 月 28 日举办的智能化战略发布会上发布了什么值得关注的新技术？有哪些亮点？",
@@ -522,6 +555,18 @@
           "time_info": "[00时53分 ~ 09时55分]"
         },
         {
+          "title": "如何看待 5 月 29 日发布的 Claude4.8Opus 疑似大量蒸馏国内开源模型？",
+          "url": "https://www.zhihu.com/question/2043515093007303790",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时37分 ~ 21时54分]"
+        },
+        {
           "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
           "url": "https://www.cls.cn/detail/2384785",
           "source": "财联社热门",
@@ -537,22 +582,12 @@
           "url": "https://www.baidu.com/s?wd=%E8%AF%BA%E5%9F%BA%E4%BA%9A%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E5%BE%AE%E8%81%8A%E6%89%8B%E6%9C%BA+%E5%94%AE%E4%BB%B7199%E5%85%83",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 18时38分]"
-        },
-        {
-          "title": "如何看待 5 月 29 日发布的 Claude4.8Opus 疑似大量蒸馏国内开源模型？",
-          "url": "https://www.zhihu.com/question/2043515093007303790",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 18时38分]"
+          "appearance_count": 4,
+          "time_info": "[18时37分 ~ 21时54分]"
         },
         {
           "title": "重磅文件发布 未来城市更新这样推进",
@@ -637,6 +672,18 @@
           "time_info": "[00时53分 ~ 05时49分]"
         },
         {
+          "title": "雷军称被何小鹏李斌骗了",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E7%A7%B0%E8%A2%AB%E4%BD%95%E5%B0%8F%E9%B9%8F%E6%9D%8E%E6%96%8C%E9%AA%97%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时37分 ~ 21时54分]"
+        },
+        {
           "title": "5月“科学”流言榜发布",
           "url": "https://www.toutiao.com/trending/7645136790484172810/",
           "source": "今日头条",
@@ -685,17 +732,6 @@
         },
         {
           "title": "雷军称被何小鹏李斌骗了",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E7%A7%B0%E8%A2%AB%E4%BD%95%E5%B0%8F%E9%B9%8F%E6%9D%8E%E6%96%8C%E9%AA%97%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 18时38分]"
-        },
-        {
-          "title": "雷军称被何小鹏李斌骗了",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A7%B0%E8%A2%AB%E4%BD%95%E5%B0%8F%E9%B9%8F%E6%9D%8E%E6%96%8C%E9%AA%97%E4%BA%86%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
@@ -715,6 +751,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时37分 ~ 18时38分]"
+        },
+        {
+          "title": "雷军直播和舒淇一起交付新车",
+          "url": "https://www.toutiao.com/trending/7644436308169818148/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 21时54分]"
         },
         {
           "title": "比亚迪发布超级智能体“迪迪虾”",
@@ -739,6 +786,17 @@
           "time_info": "[14时02分 ~ 14时03分]"
         },
         {
+          "title": "俄罗斯乌拉尔地区全境发布导弹警报。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3111479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
           "title": "诺基亚发布首款微聊手机 售价199元",
           "url": "https://wallstreetcn.com/livenews/3111155",
           "source": "华尔街见闻-快讯",
@@ -748,6 +806,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
+        },
+        {
+          "title": "万隆光电：发布重组草案，拟以23.25亿元收购中控信息100%股份",
+          "url": "https://wallstreetcn.com/livenews/3111467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "比亚迪AH股齐涨，比亚迪A股涨超3%，比亚迪股份(01211.HK)H股涨超2%；公司日前发布自研4nm制程智驾芯片璇玑A3，这是中国首款4nm智驾芯片，支持L3、L4自动驾驶。",
@@ -772,6 +841,17 @@
           "time_info": "00时53分"
         },
         {
+          "title": "网信办等五部门：明确不得为未满十六周岁的未成年人提供网络直播发布相关服务",
+          "url": "https://wallstreetcn.com/livenews/3111455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌0.48%，报6586.59点，跳空低开之后、早盘形成V形走势，大部分时间高位震荡。 热门中概股里，逸仙电商初步收涨18.2%，微易芯涨8.2%，爱奇艺涨8%，阿特斯太阳能涨6.8%，万国数据涨4.1%，日月光半导体涨3.7%，百度涨1.7%，小米涨0.9%，阿里跌1.3%，腾讯跌1.7%，蔚来跌3.2%，拼多多跌4.1%，美团跌4.8%。 ETF中，德银嘉实沪深300指数ETF（ASHR）收涨0.11%，MSCI新兴市场ex中国ETF（EMXC）收涨0.61%，XtrackersHarvest中证50（ASHS）收涨1.14%，中概互联网指数ETF（KWEB）收跌1.41%，中国科技指数ETF（CQQQ）收涨0.39%。",
           "url": "https://wallstreetcn.com/livenews/3110919",
           "source": "华尔街见闻-快讯",
@@ -786,7 +866,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美媒称美伊达成60天谅解备忘录延长停火、需特朗普最终批准，拟规定霍尔木兹“无限制”通航",
@@ -795,11 +875,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 18时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 21时54分]"
         },
         {
           "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
@@ -824,6 +905,18 @@
           "time_info": "[00时53分 ~ 09时55分]"
         },
         {
+          "title": "黄仁勋披露访华细节：特朗普让我在华盛顿登机，可我在西海岸",
+          "url": "https://news.ifeng.com/c/8tW3etoYczE",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时02分 ~ 21时54分]"
+        },
+        {
           "title": "特朗普的两张稀土王牌，先打上“内战”了",
           "url": "https://news.ifeng.com/c/8tUtQKMFq2T",
           "source": "凤凰网",
@@ -833,18 +926,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时53分 ~ 07时06分]"
-        },
-        {
-          "title": "黄仁勋披露访华细节：特朗普让我在华盛顿登机，可我在西海岸",
-          "url": "https://news.ifeng.com/c/8tW3etoYczE",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时02分 ~ 18时38分]"
         },
         {
           "title": "据福克斯新闻记者：美国消息人士向白宫记者团证实，美国和伊朗已达成一项初步协议，但该协议尚待特朗普总统批准。",
@@ -897,7 +978,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -911,6 +992,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
+        },
+        {
+          "title": "法院命令显示，美国法官暂时阻止了美国总统特朗普政府设立18亿美元“反武器化基金”的计划。",
+          "url": "https://flash.jin10.com/detail/20260529213142304800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "无人机制造商Unusual Machines Inc.（UMAC）维持超过68%的涨幅，持稳于盘中历史新高32美元附近，媒体报道称，美国总统特朗普的政府考虑注资该公司，从而提高美国的产量、降低成本。",
@@ -981,8 +1073,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 18时38分]"
+          "appearance_count": 4,
+          "time_info": "[18时37分 ~ 21时54分]"
         },
         {
           "title": "美光、SK海力士等入局！Anthropic新一轮融资后估值达9650亿美元，超越OpenAI",
@@ -1024,7 +1116,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         }
@@ -1085,6 +1177,20 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "美以伊战争启示录｜从“知心好友”到“偶遇的熟人”：欧美右翼盟友裂痕渐深",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33254066",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时55分 ~ 21时54分]"
+        },
+        {
           "title": "马镫改变古代战争格局",
           "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E9%95%AB%E6%94%B9%E5%8F%98%E5%8F%A4%E4%BB%A3%E6%88%98%E4%BA%89%E6%A0%BC%E5%B1%80",
           "source": "bilibili 热搜",
@@ -1108,19 +1214,6 @@
           "time_info": "[00时53分 ~ 07时06分]"
         },
         {
-          "title": "美以伊战争启示录｜从“知心好友”到“偶遇的熟人”：欧美右翼盟友裂痕渐深",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33254066",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时55分 ~ 18时38分]"
-        },
-        {
           "title": "欧盟委员会主席冯德莱恩：随着罗马尼亚发生的无人机事件，俄罗斯的“侵略战争”再次越过了红线。",
           "url": "https://flash.jin10.com/detail/20260529134644552800",
           "source": "金十数据",
@@ -1130,6 +1223,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "网红 翻车",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "网红狗被盗宰杀如何追责",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E7%BA%A2%E7%8B%97%E8%A2%AB%E7%9B%97%E5%AE%B0%E6%9D%80%E5%A6%82%E4%BD%95%E8%BF%BD%E8%B4%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时02分 ~ 14时03分]"
+        },
+        {
+          "title": "网红边牧被转卖宰杀 狗主人发声",
+          "url": "https://www.toutiao.com/trending/7645191183731297855/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 21时54分]"
+        },
+        {
+          "title": "“中东第一网红”阿波哥开启深圳行",
+          "url": "https://www.toutiao.com/trending/7644537372256370724/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时37分 ~ 18时38分]"
+        },
+        {
+          "title": "百万粉丝网红边牧疑被偷宰杀",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E7%BD%91%E7%BA%A2%E8%BE%B9%E7%89%A7%E7%96%91%E8%A2%AB%E5%81%B7%E5%AE%B0%E6%9D%80%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         }
       ]
     },
@@ -1157,8 +1300,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 18时38分]"
+          "appearance_count": 4,
+          "time_info": "[18时37分 ~ 21时54分]"
         },
         {
           "title": "梁文锋迁移代码到昇腾",
@@ -1170,45 +1313,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时37分 ~ 18时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "网红 翻车",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "网红狗被盗宰杀如何追责",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E7%BA%A2%E7%8B%97%E8%A2%AB%E7%9B%97%E5%AE%B0%E6%9D%80%E5%A6%82%E4%BD%95%E8%BF%BD%E8%B4%A3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 14时03分]"
-        },
-        {
-          "title": "“中东第一网红”阿波哥开启深圳行",
-          "url": "https://www.toutiao.com/trending/7644537372256370724/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 18时38分]"
-        },
-        {
-          "title": "百万粉丝网红边牧疑被偷宰杀",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E7%BD%91%E7%BA%A2%E8%BE%B9%E7%89%A7%E7%96%91%E8%A2%AB%E5%81%B7%E5%AE%B0%E6%9D%80%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
         }
       ]
     },
