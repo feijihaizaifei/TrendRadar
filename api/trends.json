@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T07:06:51.746175+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2026-05-29T09:55:45.695605+08:00",
+  "total_titles_processed": 723,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "美国中央司令部：伊朗国家电视台声称伊朗军队在布什尔附近击落了一架美国飞机为不实消息。事实上没有美国飞机被击落，所有美国空中资产均完好。",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -25,9 +25,22 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "媒体称伊朗愿意将高浓缩铀转运至中国进行处理，国防部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33254948",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 09时55分]"
         },
         {
           "title": "伊朗最高领袖强调维护民族团结",
@@ -39,6 +52,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "伊朗称击落一架美军飞机，美方回应",
+          "url": "https://news.ifeng.com/c/8tVu1gkD4Ca",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         },
         {
           "title": "【伊朗最高领袖强调维护民族团结】伊朗最高领袖穆杰塔巴28日发表书面讲话，强调维护民族团结与社会凝聚力，并呼吁伊朗各界共同维护国家统一。 穆杰塔巴在伊朗伊斯兰议会成立纪念日之际发表书面讲话说，伊朗议会是“民族意志的体现”和国家立法的重要支柱。他感谢议员们，特别是议长卡利巴夫为国家发展所作努力。 穆杰塔巴说，伊朗人民在近期冲突中展现出团结、信仰和韧性，当前最重要任务之一是维护民族团结与社会凝聚力，避免政治和社会分裂。 他还说，敌对势力在军事、经济以及宣传领域持续向伊朗施压，其目的在于制造社会分裂并削弱伊朗。他呼吁各界特别是政治精英和议员，共同维护国家统一。（新华社）",
@@ -63,6 +87,17 @@
           "time_info": "00时53分"
         },
         {
+          "title": "美称敲定“谅解备忘录”遭伊朗否认",
+          "url": "https://www.toutiao.com/trending/7645098099924323890/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
           "title": "伊朗对美国空军基地实施打击",
           "url": "https://www.toutiao.com/trending/7644776648142753286/",
           "source": "今日头条",
@@ -70,18 +105,6 @@
             15,
             7,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 07时06分]"
-        },
-        {
-          "title": "媒体称伊朗愿意将高浓缩铀转运至中国进行处理，国防部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33254948",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -152,7 +175,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -207,7 +230,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -251,7 +274,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -273,7 +296,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -284,7 +307,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -295,7 +318,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -401,6 +424,175 @@
       ]
     },
     {
+      "keyword_group": "小米 雷军 发布",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "比亚迪 5 月 28 日举办的智能化战略发布会上发布了什么值得关注的新技术？有哪些亮点？",
+          "url": "https://www.zhihu.com/question/2043356307420177358",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 09时55分]"
+        },
+        {
+          "title": "比亚迪发布中国首款4nm智驾芯片",
+          "url": "https://www.toutiao.com/trending/7644918296260677126/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 09时55分]"
+        },
+        {
+          "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
+          "url": "https://www.cls.cn/detail/2384785",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "比亚迪发布中国首款4nm智驾芯片",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%8F%91%E5%B8%83%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%AC%BE4nm%E6%99%BA%E9%A9%BE%E8%8A%AF%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 09时55分]"
+        },
+        {
+          "title": "OpenAI发布 OpenAI 的前沿治理框架。",
+          "url": "https://flash.jin10.com/detail/20260529002616429800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时53分"
+        },
+        {
+          "title": "教皇利奥十四世发布AI通谕，撼动硅谷权力格局",
+          "url": "https://wallstreetcn.com/livenews/3110902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时32分"
+        },
+        {
+          "title": "明查｜起底“中国强拆寺庙”AI虚假视频背后：隐秘的协同发布与矩阵传播危害",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33244573",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 07时06分]"
+        },
+        {
+          "title": "阿里达摩院首次发布GPU版本求解器 突破亿级变量“不可解”难题",
+          "url": "https://www.cls.cn/detail/2384059",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 05时49分]"
+        },
+        {
+          "title": "如何看待蔚来 「突袭式」 发布新款，成都提车 9 天变旧款，车主称遭遇「背刺」？你怎么看？",
+          "url": "https://www.zhihu.com/question/2043264595666658269",
+          "source": "知乎",
+          "ranks": [
+            18,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 07时06分]"
+        },
+        {
+          "title": "芒果TV发布2026综艺片单",
+          "url": "https://www.douyin.com/hot/2515229",
+          "source": "抖音",
+          "ranks": [
+            29,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时48分 ~ 07时06分]"
+        },
+        {
+          "title": "比亚迪发布首款4nm智驾芯片，已开始量产，承诺主动承担L2阶段的L3、L4安全责任",
+          "url": "https://wallstreetcn.com/articles/3773371",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "比亚迪AH股齐涨，比亚迪A股涨超3%，比亚迪股份(01211.HK)H股涨超2%；公司日前发布自研4nm制程智驾芯片璇玑A3，这是中国首款4nm智驾芯片，支持L3、L4自动驾驶。",
+          "url": "https://flash.jin10.com/detail/20260529092654174800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "提醒：北京时间00:00，美国能源信息署（EIA）将发布政府版原油库存周报。",
+          "url": "https://wallstreetcn.com/livenews/3110850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时53分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.48%，报6586.59点，跳空低开之后、早盘形成V形走势，大部分时间高位震荡。 热门中概股里，逸仙电商初步收涨18.2%，微易芯涨8.2%，爱奇艺涨8%，阿特斯太阳能涨6.8%，万国数据涨4.1%，日月光半导体涨3.7%，百度涨1.7%，小米涨0.9%，阿里跌1.3%，腾讯跌1.7%，蔚来跌3.2%，拼多多跌4.1%，美团跌4.8%。 ETF中，德银嘉实沪深300指数ETF（ASHR）收涨0.11%，MSCI新兴市场ex中国ETF（EMXC）收涨0.61%，XtrackersHarvest中证50（ASHS）收涨1.14%，中概互联网指数ETF（KWEB）收跌1.41%，中国科技指数ETF（CQQQ）收涨0.39%。",
+          "url": "https://wallstreetcn.com/livenews/3110919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
       "match_count": 13,
       "titles": [
@@ -416,27 +608,17 @@
           "time_info": "[00时53分 ~ 07时06分]"
         },
         {
-          "title": "特朗普的两张稀土王牌，先打上“内战”了",
-          "url": "https://news.ifeng.com/c/8tUtQKMFq2T",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 07时06分]"
-        },
-        {
           "title": "美媒称美伊达成60天谅解备忘录延长停火、需特朗普最终批准，拟规定霍尔木兹“无限制”通航",
           "url": "https://wallstreetcn.com/articles/3773378",
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 07时06分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 09时55分]"
         },
         {
           "title": "特朗普调侃赫格塞思：他热衷战争",
@@ -444,6 +626,17 @@
           "source": "凤凰网",
           "ranks": [
             7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 09时55分]"
+        },
+        {
+          "title": "特朗普的两张稀土王牌，先打上“内战”了",
+          "url": "https://news.ifeng.com/c/8tUtQKMFq2T",
+          "source": "凤凰网",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -551,141 +744,6 @@
       ]
     },
     {
-      "keyword_group": "小米 雷军 发布",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "比亚迪 5 月 28 日举办的智能化战略发布会上发布了什么值得关注的新技术？有哪些亮点？",
-          "url": "https://www.zhihu.com/question/2043356307420177358",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 07时06分]"
-        },
-        {
-          "title": "比亚迪发布中国首款4nm智驾芯片",
-          "url": "https://www.toutiao.com/trending/7644918296260677126/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 07时06分]"
-        },
-        {
-          "title": "OpenAI发布 OpenAI 的前沿治理框架。",
-          "url": "https://flash.jin10.com/detail/20260529002616429800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
-        },
-        {
-          "title": "教皇利奥十四世发布AI通谕，撼动硅谷权力格局",
-          "url": "https://wallstreetcn.com/livenews/3110902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时32分"
-        },
-        {
-          "title": "明查｜起底“中国强拆寺庙”AI虚假视频背后：隐秘的协同发布与矩阵传播危害",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33244573",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 07时06分]"
-        },
-        {
-          "title": "比亚迪发布中国首款4nm智驾芯片",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%8F%91%E5%B8%83%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%AC%BE4nm%E6%99%BA%E9%A9%BE%E8%8A%AF%E7%89%87",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 07时06分]"
-        },
-        {
-          "title": "阿里达摩院首次发布GPU版本求解器 突破亿级变量“不可解”难题",
-          "url": "https://www.cls.cn/detail/2384059",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 05时49分]"
-        },
-        {
-          "title": "如何看待蔚来 「突袭式」 发布新款，成都提车 9 天变旧款，车主称遭遇「背刺」？你怎么看？",
-          "url": "https://www.zhihu.com/question/2043264595666658269",
-          "source": "知乎",
-          "ranks": [
-            18,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 07时06分]"
-        },
-        {
-          "title": "芒果TV发布2026综艺片单",
-          "url": "https://www.douyin.com/hot/2515229",
-          "source": "抖音",
-          "ranks": [
-            29,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时48分 ~ 07时06分]"
-        },
-        {
-          "title": "提醒：北京时间00:00，美国能源信息署（EIA）将发布政府版原油库存周报。",
-          "url": "https://wallstreetcn.com/livenews/3110850",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.48%，报6586.59点，跳空低开之后、早盘形成V形走势，大部分时间高位震荡。 热门中概股里，逸仙电商初步收涨18.2%，微易芯涨8.2%，爱奇艺涨8%，阿特斯太阳能涨6.8%，万国数据涨4.1%，日月光半导体涨3.7%，百度涨1.7%，小米涨0.9%，阿里跌1.3%，腾讯跌1.7%，蔚来跌3.2%，拼多多跌4.1%，美团跌4.8%。 ETF中，德银嘉实沪深300指数ETF（ASHR）收涨0.11%，MSCI新兴市场ex中国ETF（EMXC）收涨0.61%，XtrackersHarvest中证50（ASHS）收涨1.14%，中概互联网指数ETF（KWEB）收跌1.41%，中国科技指数ETF（CQQQ）收涨0.39%。",
-          "url": "https://wallstreetcn.com/livenews/3110919",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时49分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 4,
       "titles": [
@@ -729,9 +787,49 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "战争",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "马镫改变古代战争格局",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E9%95%AB%E6%94%B9%E5%8F%98%E5%8F%A4%E4%BB%A3%E6%88%98%E4%BA%89%E6%A0%BC%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "美以伊战争启示录｜当杀戮被娱乐化：扭曲的信息战中，AI造梗正在去人性化",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33234425",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 07时06分]"
+        },
+        {
+          "title": "美以伊战争启示录｜从“知心好友”到“偶遇的熟人”：欧美右翼盟友裂痕渐深",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33254066",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         }
       ]
     },
@@ -772,11 +870,12 @@
           "url": "https://wallstreetcn.com/articles/3773316",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 07时06分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 09时55分]"
         }
       ]
     },
@@ -798,20 +897,19 @@
       ]
     },
     {
-      "keyword_group": "战争",
+      "keyword_group": "网红 翻车",
       "match_count": 1,
       "titles": [
         {
-          "title": "美以伊战争启示录｜当杀戮被娱乐化：扭曲的信息战中，AI造梗正在去人性化",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33234425",
-          "source": "澎湃新闻",
+          "title": "百万粉丝网红边牧疑被偷宰杀",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E7%BD%91%E7%BA%A2%E8%BE%B9%E7%89%A7%E7%96%91%E8%A2%AB%E5%81%B7%E5%AE%B0%E6%9D%80%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
           "ranks": [
-            7,
-            9
+            21
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 07时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         }
       ]
     }
