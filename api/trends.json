@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T17:40:02.242213+08:00",
-  "total_titles_processed": 936,
+  "generated_at": "2026-06-04T20:36:24.170635+08:00",
+  "total_titles_processed": 1113,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时40分 ~ 17时40分]"
+          "appearance_count": 9,
+          "time_info": "[03时40分 ~ 20时36分]"
         },
         {
           "title": "美众议院通过决议，限制特朗普对伊动武权力",
@@ -50,11 +51,12 @@
           "source": "凤凰网",
           "ranks": [
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时32分 ~ 17时40分]"
+          "appearance_count": 4,
+          "time_info": "[13时32分 ~ 20时36分]"
         },
         {
           "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
@@ -258,6 +260,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
+        },
+        {
+          "title": "特朗普：美国正处于结束伊朗战争的最后谈判阶段。",
+          "url": "https://wallstreetcn.com/livenews/3114408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
+          "title": "美众议院通过决议，限制特朗普对伊动武权力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33304841",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "特朗普称内塔尼亚胡是“伟大的伙伴”",
@@ -582,7 +606,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -612,7 +636,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
@@ -623,8 +647,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时32分 ~ 17时40分]"
+          "appearance_count": 4,
+          "time_info": "[13时32分 ~ 20时36分]"
         },
         {
           "title": "谷歌计划释放3200万只蚊子",
@@ -671,6 +695,17 @@
           "time_info": "06时22分"
         },
         {
+          "title": "谷歌计划投放3200万只蚊子",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E6%8A%95%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "英国监管机构给谷歌AI搜索“立新规”",
           "url": "https://wallstreetcn.com/livenews/3114177",
           "source": "华尔街见闻-快讯",
@@ -685,8 +720,20 @@
     },
     {
       "keyword_group": "小米 雷军 发布",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "小红书出手，发布“抓紧港美股开通”诱导贴、倒卖外资研报等乱象被集中整治",
+          "url": "https://www.cls.cn/detail/2390543",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时39分 ~ 20时36分]"
+        },
         {
           "title": "9分钟看完索尼SOP发布会",
           "url": "https://search.bilibili.com/all?keyword=9%E5%88%86%E9%92%9F%E7%9C%8B%E5%AE%8C%E7%B4%A2%E5%B0%BCSOP%E5%8F%91%E5%B8%83%E4%BC%9A",
@@ -700,17 +747,6 @@
           "time_info": "[03时40分 ~ 06时22分]"
         },
         {
-          "title": "小红书出手，发布“抓紧港美股开通”诱导贴、倒卖外资研报等乱象被集中整治",
-          "url": "https://www.cls.cn/detail/2390543",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 17时40分]"
-        },
-        {
           "title": "美国总统特朗普政府（针对尖端模型发布前须先送审）提议对“可信申请者”免除严格的国家安全许可审查，并同意持续的监督和监测。",
           "url": "https://flash.jin10.com/detail/20260604031751979800",
           "source": "金十数据",
@@ -720,6 +756,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
+        },
+        {
+          "title": "腾讯客服：微信正与华为、小米等多家手机厂商合作推出A2A助手功能",
+          "url": "https://wallstreetcn.com/livenews/3114399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "提醒：北京时间02:00，美联储将发布褐皮书。",
@@ -821,6 +868,35 @@
       ]
     },
     {
+      "keyword_group": "网红 翻车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "网红白虎小孬死亡，青岛市级公园中心致歉：饲养员违规操作，两虎打斗一只伤重不治",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33307001",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时39分 ~ 20时36分]"
+        },
+        {
+          "title": "劣质网红驱蚊产品贴牌“葵花”",
+          "url": "https://www.toutiao.com/trending/7647448815712079414/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 1,
       "titles": [
@@ -851,23 +927,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "网红 翻车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "网红白虎小孬死亡，青岛市级公园中心致歉：饲养员违规操作，两虎打斗一只伤重不治",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33307001",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 17时40分]"
         }
       ]
     }
