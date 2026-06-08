@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T15:20:17.984227+08:00",
-  "total_titles_processed": 978,
+  "generated_at": "2026-06-08T20:21:10.324994+08:00",
+  "total_titles_processed": 1200,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 87,
+      "match_count": 94,
       "titles": [
         {
           "title": "英媒：伊朗收取的海峡通行费用大幅下降",
@@ -101,6 +101,17 @@
           "time_info": "[10时13分 ~ 15时20分]"
         },
         {
+          "title": "伊朗与以色列再次爆发冲突，中方：深表关切",
+          "url": "https://news.ifeng.com/c/8tn47brENEH",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
+        },
+        {
           "title": "伊朗4波导弹袭击以空军基地，发出强硬警告",
           "url": "https://news.ifeng.com/c/8tmavL6b7jm",
           "source": "凤凰网",
@@ -129,7 +140,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -404,6 +415,17 @@
           "time_info": "[04时58分 ~ 06时01分]"
         },
         {
+          "title": "伊朗宣布停止对以色列的军事行动",
+          "url": "https://www.toutiao.com/trending/7648982898397154858/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
+        },
+        {
           "title": "伊朗准备发射的的导弹足够多。（Tasnim）",
           "url": "https://wallstreetcn.com/livenews/3115635",
           "source": "华尔街见闻-快讯",
@@ -426,6 +448,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时58分 ~ 06时01分]"
+        },
+        {
+          "title": "伊朗宣布停止对以色列的军事行动",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E5%81%9C%E6%AD%A2%E5%AF%B9%E4%BB%A5%E8%89%B2%E5%88%97%E7%9A%84%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
         },
         {
           "title": "美以袭击伊朗进入第 101 天，当前局势如何？有哪些值得关注的信息？",
@@ -534,7 +567,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -570,6 +603,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        },
+        {
+          "title": "伊朗宣布停止对以军事行动：若黎巴嫩再受袭将强力反制！",
+          "url": "https://flash.jin10.com/detail/20260608200345226800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "伊朗国足抵达墨西哥",
@@ -611,7 +655,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -644,7 +688,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -743,7 +787,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -757,6 +801,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：我们既没有放弃战场，也没有离开谈判桌。",
+          "url": "https://flash.jin10.com/detail/20260608195514294800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "以色列正在攻击伊朗境内目标",
@@ -801,6 +856,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：我们的首要任务是国家安全和人民的和平。我们将以权威捍卫国家的权利，面对任何威胁都不会退缩。",
+          "url": "https://flash.jin10.com/detail/20260608195452066800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "据伊朗媒体，伊朗首都德黑兰传出数声巨大的爆炸声。 伊朗大不里士和伊斯法罕传出爆炸声。",
@@ -952,7 +1018,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -966,6 +1032,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "【伊朗称对以色列军事打击告一段落】伊朗武装部队哈塔姆·安比亚中央司令部最新宣布，“对以色列的军事打击行动告一段落”。 (CCTV国际时讯)",
+          "url": "https://wallstreetcn.com/livenews/3116129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "伊朗时隔两个月再袭以色列：以军正拦截伊朗来袭导弹，多地拉响防空警报",
@@ -985,7 +1062,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         }
@@ -993,7 +1070,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普：我说了算，以色列总理别无选择",
@@ -1007,6 +1084,18 @@
           "time_info": "[07时04分 ~ 15时20分]"
         },
         {
+          "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
+          "url": "https://wallstreetcn.com/articles/3774049",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时13分 ~ 20时21分]"
+        },
+        {
           "title": "据半岛电视台：以色列第12频道报道称，内塔尼亚胡在通话中试图反对特朗普“不对伊朗进行报复的要求”，但最终还是接受了。",
           "url": "https://flash.jin10.com/detail/20260608065348810800",
           "source": "金十数据",
@@ -1018,18 +1107,6 @@
           "time_info": "07时04分"
         },
         {
-          "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
-          "url": "https://wallstreetcn.com/articles/3774049",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 15时20分]"
-        },
-        {
           "title": "伊朗导弹直击以色列空军基地，特朗普紧急喊停以军：所有事我做主，内塔尼亚胡别无选择",
           "url": "https://flash.jin10.com/detail/20260608064132856800",
           "source": "金十数据",
@@ -1039,6 +1116,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "伊朗“警告性”打击以色列，以色列称“将强力回应”，特朗普警告内塔尼亚胡“不要反击，美伊协议近在咫尺”",
+          "url": "https://wallstreetcn.com/articles/3774055",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时19分 ~ 20时21分]"
         },
         {
           "title": "据半岛电视台：特朗普和内塔尼亚胡正在进行电话交谈。",
@@ -1077,15 +1165,49 @@
           "time_info": "[04时58分 ~ 06时01分]"
         },
         {
-          "title": "伊朗“警告性”打击以色列，以色列称“将强力回应”，特朗普警告内塔尼亚胡“不要反击，美伊协议近在咫尺”",
-          "url": "https://wallstreetcn.com/articles/3774055",
-          "source": "华尔街见闻",
+          "title": "主持人插不进话，特朗普受访暴怒失控：当场“摔麦”走人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33331551",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时19分 ~ 20时21分]"
+        },
+        {
+          "title": "特朗普：伊朗最高领袖伤得很重",
+          "url": "https://news.ifeng.com/c/8tn0EMcDuKL",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
+        },
+        {
+          "title": "美议员焦虑：“特朗普”级战舰，抗不过中国导弹",
+          "url": "https://news.ifeng.com/c/8tmrYIXSZDx",
+          "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时19分 ~ 15时20分]"
+          "time_info": "[20时20分 ~ 20时21分]"
+        },
+        {
+          "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
+          "url": "https://wallstreetcn.com/articles/3774115",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
         },
         {
           "title": "阿尔巴尼亚民众集会，反对政府批准特朗普女婿开发度假村",
@@ -1111,6 +1233,17 @@
           "time_info": "[06时01分 ~ 07时04分]"
         },
         {
+          "title": "中东冲突愈演愈烈！不顾特朗普反对 以色列攻击伊朗境内目标",
+          "url": "https://www.cls.cn/detail/2393222",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
+        },
+        {
           "title": "特朗普告诉以色列不要反击",
           "url": "https://wallstreetcn.com/livenews/3115621",
           "source": "华尔街见闻-快讯",
@@ -1121,17 +1254,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时58分 ~ 06时01分]"
-        },
-        {
-          "title": "主持人插不进话，特朗普受访暴怒失控：当场“摔麦”走人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33331551",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 15时20分]"
         },
         {
           "title": "特朗普称解冻伊朗资产或解除制裁不是协议先决条件",
@@ -1203,6 +1325,17 @@
           "time_info": "06时01分"
         },
         {
+          "title": "据以色列i24新闻台：内塔尼亚胡与特朗普今天进行了通话，随后特朗普在社交平台发帖称伊以双方都希望停火。",
+          "url": "https://flash.jin10.com/detail/20260608200408843800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
           "title": "特朗普力压内塔尼亚胡：美伊协议“我说了算”，他必须接受",
           "url": "https://flash.jin10.com/detail/20260608061944614800",
           "source": "金十数据",
@@ -1220,7 +1353,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -1503,7 +1636,7 @@
     },
     {
       "keyword_group": "小米 雷军 发布",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "新版《药物临床试验质量管理规范》今天发布，将于9月1日实施",
@@ -1512,7 +1645,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -1551,6 +1684,17 @@
           "time_info": "[15时19分 ~ 15时20分]"
         },
         {
+          "title": "6月9日赛豆科技品牌发布会",
+          "url": "https://s.weibo.com/weibo?q=%236%E6%9C%889%E6%97%A5%E8%B5%9B%E8%B1%86%E7%A7%91%E6%8A%80%E5%93%81%E7%89%8C%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
+        },
+        {
           "title": "中央气象台继续发布暴雨橙色预警",
           "url": "https://www.toutiao.com/trending/7648611591676903451/",
           "source": "今日头条",
@@ -1573,15 +1717,48 @@
           "time_info": "01时03分"
         },
         {
+          "title": "小米集团于公开市场增持金山软件，持股比例增至5.39%",
+          "url": "https://wallstreetcn.com/livenews/3116146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "小米17T发布 国补价2549.15元起",
+          "url": "https://wallstreetcn.com/livenews/3116144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
           "title": "新版《药物临床试验质量管理规范》今天发布将于9月1日实施",
           "url": "https://flash.jin10.com/detail/20260608150549966800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        },
+        {
+          "title": "香港天文台发布红色暴雨警告。",
+          "url": "https://flash.jin10.com/detail/20260608195256764800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "中使馆发布紧急通知：提醒在伊朗中国公民加强安全防范",
@@ -1623,7 +1800,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         }
@@ -1639,22 +1816,24 @@
           "source": "贴吧",
           "ranks": [
             5,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 15时20分]"
+          "appearance_count": 5,
+          "time_info": "[10时13分 ~ 20时21分]"
         },
         {
           "title": "战斗拉完了,古剑四pv翻车",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354962&amp;topic_name=%E6%88%98%E6%96%97%E6%8B%89%E5%AE%8C%E4%BA%86%2C%E5%8F%A4%E5%89%91%E5%9B%9Bpv%E7%BF%BB%E8%BD%A6",
           "source": "贴吧",
           "ranks": [
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 15时20分]"
+          "appearance_count": 4,
+          "time_info": "[15时19分 ~ 20时21分]"
         },
         {
           "title": "嘴含“网红花”拍照后中毒",
@@ -1677,6 +1856,47 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时19分 ~ 15时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
+          "url": "https://wallstreetcn.com/articles/3774034",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 15时20分]"
+        },
+        {
+          "title": "Gemini 美国大豆包",
+          "url": "https://s.weibo.com/weibo?q=Gemini%20%E7%BE%8E%E5%9B%BD%E5%A4%A7%E8%B1%86%E5%8C%85&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 15时20分]"
+        },
+        {
+          "title": "苹果AI告急 库克押注谷歌Gemini救场",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9CAI%E5%91%8A%E6%80%A5+%E5%BA%93%E5%85%8B%E6%8A%BC%E6%B3%A8%E8%B0%B7%E6%AD%8CGemini%E6%95%91%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
         }
       ]
     },
@@ -1720,36 +1940,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
-          "url": "https://wallstreetcn.com/articles/3774034",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 15时20分]"
-        },
-        {
-          "title": "Gemini 美国大豆包",
-          "url": "https://s.weibo.com/weibo?q=Gemini%20%E7%BE%8E%E5%9B%BD%E5%A4%A7%E8%B1%86%E5%8C%85&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 15时20分]"
         }
       ]
     },
@@ -1801,11 +1991,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33329131",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 15时20分]"
+          "appearance_count": 4,
+          "time_info": "[15时19分 ~ 20时21分]"
         }
       ]
     },
