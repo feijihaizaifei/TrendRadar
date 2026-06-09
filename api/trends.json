@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T09:51:25.872640+08:00",
-  "total_titles_processed": 741,
+  "generated_at": "2026-06-09T13:58:49.932067+08:00",
+  "total_titles_processed": 934,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 33,
       "titles": [
         {
           "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时13分 ~ 09时51分]"
+          "appearance_count": 7,
+          "time_info": "[03时13分 ~ 13时58分]"
         },
         {
           "title": "主持人插不进话，特朗普受访暴怒失控：当场“摔麦”走人",
@@ -53,8 +53,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 09时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 13时58分]"
+        },
+        {
+          "title": "特朗普：内塔尼亚胡，你最好小心点！",
+          "url": "https://news.ifeng.com/c/8toEUKCFcdF",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 13时58分]"
         },
         {
           "title": "特朗普：伊朗最高领袖伤得很重",
@@ -85,20 +96,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
         {
-          "title": "特朗普：内塔尼亚胡，你最好小心点！",
-          "url": "https://news.ifeng.com/c/8toEUKCFcdF",
+          "title": "特朗普“体面送别”：会想念她",
+          "url": "https://news.ifeng.com/c/8toXpSpAK0f",
           "source": "凤凰网",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时51分"
+          "time_info": "13时58分"
         },
         {
           "title": "24小时惊险内幕：以色列与伊朗如何险些将特朗普拖回战争？",
@@ -110,6 +121,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "洛杉矶市长选情逆转，特朗普、马斯克发声质疑",
+          "url": "https://news.ifeng.com/c/8toKe0HelhI",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "白宫：美国总统特朗普的政府将针对“10万美元H-1B签证费政令遭法官驳回”提出上诉。",
@@ -127,11 +149,12 @@
           "url": "https://news.ifeng.com/c/8toF8SZ3oLR",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 13时58分]"
         },
         {
           "title": "特朗普“积极介入斡旋”后，伊朗宣布对以打击“告一段落”",
@@ -140,9 +163,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 13时58分]"
         },
         {
           "title": "特朗普观战NBA总决赛",
@@ -151,7 +174,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -178,6 +201,17 @@
           "time_info": "03时13分"
         },
         {
+          "title": "特朗普现身尼克斯主场观战",
+          "url": "https://www.douyin.com/hot/2528078",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
           "title": "美国总统特朗普：参议院多数党领袖约翰·图恩应立即解雇议事规则专家。",
           "url": "https://flash.jin10.com/detail/20260609022413974800",
           "source": "金十数据",
@@ -187,6 +221,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "美国总统特朗普：美国对伊朗港口的封锁正在增加达成协议的压力。",
+          "url": "https://flash.jin10.com/detail/20260609130545432800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "美国总统特朗普：非常接近达成一个非常好、强大、有力的协议。",
+          "url": "https://flash.jin10.com/detail/20260609130532741800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "美国总统特朗普：以色列不会与伊朗重启战争。",
@@ -233,6 +289,50 @@
           "time_info": "07时07分"
         },
         {
+          "title": "美国总统特朗普：（被问及尼克斯球迷对他的反应时）我认为大多数是欢呼声。声音很大，气氛非常热烈。",
+          "url": "https://flash.jin10.com/detail/20260609125116958800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "特朗普：我们正处于有望达成一项好协议的最后阵痛阶段，非常接近达成一项强有力的好协议。",
+          "url": "https://wallstreetcn.com/livenews/3116543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "美国总统特朗普：（谈与以色列总理内塔尼亚胡的对话）我们聊得很好。他被打了后进行反击，我不能怪他。",
+          "url": "https://flash.jin10.com/detail/20260609124948265800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "WTI原油期货日内跌超1%。特朗普称，与伊朗的谈判仍在进行中，可能在一两天内对伊朗问题有一个明确的想法（或决定）；封锁仍在继续维持。",
+          "url": "https://wallstreetcn.com/livenews/3116539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
           "title": "法官驳回美国总统特朗普政府的10万美元H-1B签证费用制度。",
           "url": "https://wallstreetcn.com/livenews/3116296",
           "source": "华尔街见闻-快讯",
@@ -264,12 +364,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗经济面临困境，必须达成协议。",
+          "url": "https://flash.jin10.com/detail/20260609123839589800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "伊朗首都国际机场恢复航班运营",
@@ -278,7 +389,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -373,7 +484,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -455,6 +566,17 @@
           "time_info": "00时42分"
         },
         {
+          "title": "伊朗开启世界杯史上最特殊参赛模式",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%BC%80%E5%90%AF%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E7%89%B9%E6%AE%8A%E5%8F%82%E8%B5%9B%E6%A8%A1%E5%BC%8F",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
           "title": "据伊朗学生通讯社：伊朗革命卫队“圣城旅”指挥官卡尼表示，从霍尔木兹海峡到曼德海峡，从波斯湾到红海，将形成一条新的“抵抗阵线安全带”。",
           "url": "https://flash.jin10.com/detail/20260609021321465800",
           "source": "金十数据",
@@ -513,7 +635,7 @@
     },
     {
       "keyword_group": "chatgpt openai 发布",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "OpenAI就IPO事宜向美国SEC秘密递交S-1文件",
@@ -551,6 +673,29 @@
           "time_info": "[05时32分 ~ 07时07分]"
         },
         {
+          "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
+          "url": "https://www.cls.cn/detail/2394212",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 13时58分]"
+        },
+        {
+          "title": "以总理确认暂停袭击伊朗 OpenAI递交上市申请文件 | 环球市场",
+          "url": "https://www.cls.cn/detail/2394236",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 13时58分]"
+        },
+        {
           "title": "“聊天已死”？OpenAI拟大改ChatGPT，打造超级AI应用",
           "url": "https://m.thepaper.cn/newsDetail_forward_33333027",
           "source": "澎湃新闻",
@@ -584,15 +729,15 @@
           "time_info": "05时32分"
         },
         {
-          "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
-          "url": "https://www.cls.cn/detail/2394212",
-          "source": "财联社热门",
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时51分"
+          "time_info": "13时58分"
         },
         {
           "title": "OpenAI首席科学家：OpenAI致力追求的各项核心目标，均围绕着这一使命：确保通用人工智能造福全人类。人工智能应当增强人类的主体性，而非削弱人类在塑造未来中的作用与意义。",
@@ -604,17 +749,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
-        },
-        {
-          "title": "以总理确认暂停袭击伊朗 OpenAI递交上市申请文件 | 环球市场",
-          "url": "https://www.cls.cn/detail/2394236",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
         },
         {
           "title": "OpenAI计划在首次公开募股（IPO）之前启动员工/股东股票要约收购案（Tender Sale）。 据知情人士透露，该公司将在未来几周内正式举行该股票要约收购（Tender）。（彭博）",
@@ -660,11 +794,12 @@
           "url": "https://www.zhihu.com/question/2047324900080051711",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 13时58分]"
         },
         {
           "title": "苹果(AAPL.O)：无论基础设施托管在何处，苹果始终保持对Private Cloud Compute软件的完全控制权。苹果设备仅信任经由苹果加密认证的Private Cloud Compute软件。在Google Cloud上运行的Private Cloud Compute服务，将在整个夏季预览期间逐步落实全套保护措施。",
@@ -678,6 +813,18 @@
           "time_info": "05时32分"
         },
         {
+          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
+          "url": "https://wallstreetcn.com/articles/3774134",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 13时58分]"
+        },
+        {
           "title": "谷歌(GOOG.O)：即日起向拥有Google AI Ultra的用户及使用AI Ultra的Workspace商业版客户，在全球范围内推出网页版更新，并扩大适用范围。",
           "url": "https://flash.jin10.com/detail/20260609001051651800",
           "source": "金十数据",
@@ -687,17 +834,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
-        },
-        {
-          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
-          "url": "https://wallstreetcn.com/articles/3774134",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
         },
         {
           "title": "谷歌(GOOG.O)：将NotebookLM升级至运行在Gemini 3.5和Antigravity上。",
@@ -750,7 +886,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         }
@@ -782,11 +918,12 @@
             14,
             13,
             11,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时13分 ~ 09时51分]"
+          "appearance_count": 7,
+          "time_info": "[03时13分 ~ 13时58分]"
         },
         {
           "title": "恒指低开0.43%，恒生科技指数跌0.26%。智谱跌近5%，比亚迪电子跌1.8%，小米、阿里巴巴跌约1%；华虹宏力涨2.8%。",
@@ -795,7 +932,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -828,7 +965,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         }
@@ -836,18 +973,19 @@
     },
     {
       "keyword_group": "网红 翻车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "不如同人,女神4RE立绘翻车",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354951&amp;topic_name=%E4%B8%8D%E5%A6%82%E5%90%8C%E4%BA%BA%2C%E5%A5%B3%E7%A5%9E4RE%E7%AB%8B%E7%BB%98%E7%BF%BB%E8%BD%A6",
           "source": "贴吧",
           "ranks": [
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 09时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 13时58分]"
         },
         {
           "title": "如何评价网红曾医生呼吁「不要评价同行的手术」？如果你发现病人在外院的手术有问题，你会不会实话实说？",
@@ -855,11 +993,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时06分 ~ 09时51分]"
+          "appearance_count": 4,
+          "time_info": "[07时06分 ~ 13时58分]"
         },
         {
           "title": "网红边牧犬“锄头”被偷走宰杀，警方已刑事立案",
@@ -868,9 +1007,20 @@
           "ranks": [
             12
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 13时58分]"
+        },
+        {
+          "title": "28岁父亲为逃避警方追捕，失控翻车甩飞婴儿",
+          "url": "https://v.ifeng.com/c/8tnUZiabqt8",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时51分"
+          "time_info": "13时58分"
         }
       ]
     },
@@ -974,11 +1124,12 @@
           "url": "https://www.toutiao.com/trending/7649048153247203364/",
           "source": "今日头条",
           "ranks": [
-            12
+            12,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 13时58分]"
         }
       ]
     }
