@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T13:19:06.073805+08:00",
-  "total_titles_processed": 806,
+  "generated_at": "2026-06-11T18:02:15.861170+08:00",
+  "total_titles_processed": 1019,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 81,
+      "match_count": 87,
       "titles": [
         {
           "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时07分 ~ 13时19分]"
+          "appearance_count": 5,
+          "time_info": "[08时07分 ~ 18时02分]"
         },
         {
           "title": "【早报】美军空袭伊朗；黄金、白银继续大跌",
@@ -36,11 +36,12 @@
           "url": "https://news.ifeng.com/c/8trqmYEuo1k",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 13时19分]"
+          "appearance_count": 4,
+          "time_info": "[13时18分 ~ 18时02分]"
         },
         {
           "title": "伊朗战争最新动态丨伊朗彻底关闭霍尔木兹海峡",
@@ -74,6 +75,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
+        },
+        {
+          "title": "伊朗再次称霍尔木兹海峡暂时关闭",
+          "url": "https://wallstreetcn.com/livenews/3118073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗革命卫队已完成第一阶段的导弹和无人机攻势。",
@@ -190,6 +202,18 @@
           "time_info": "[06时46分 ~ 08时07分]"
         },
         {
+          "title": "伊朗宣布对所有船只关闭霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33355478",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时18分 ~ 18时02分]"
+        },
+        {
           "title": "美军对伊朗发动打击",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E6%89%93%E5%87%BB",
           "source": "bilibili 热搜",
@@ -199,6 +223,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时50分 ~ 08时07分]"
+        },
+        {
+          "title": "伊朗宣布对所有船只关闭霍尔木兹海峡，打击两艘非法通过海峡船只，如何解读？可能会带来哪些连锁反应？",
+          "url": "https://www.zhihu.com/question/2048301839200642048",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 18时02分]"
         },
         {
           "title": "伊朗全面关闭霍尔木兹海峡",
@@ -225,26 +261,26 @@
           "time_info": "[08时07分 ~ 13时19分]"
         },
         {
-          "title": "伊朗宣布对所有船只关闭霍尔木兹海峡，打击两艘非法通过海峡船只，如何解读？可能会带来哪些连锁反应？",
-          "url": "https://www.zhihu.com/question/2048301839200642048",
-          "source": "知乎",
+          "title": "伊朗：用12枚导弹摧毁美军大量战机",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%94%A812%E6%9E%9A%E5%AF%BC%E5%BC%B9%E6%91%A7%E6%AF%81%E7%BE%8E%E5%86%9B%E5%A4%A7%E9%87%8F%E6%88%98%E6%9C%BA",
+          "source": "百度热搜",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时18分 ~ 13时19分]"
+          "time_info": "[18时01分 ~ 18时02分]"
         },
         {
-          "title": "伊朗宣布对所有船只关闭霍尔木兹海峡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33355478",
-          "source": "澎湃新闻",
+          "title": "美军对伊朗打击持续4小时左右",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%89%93%E5%87%BB%E6%8C%81%E7%BB%AD4%E5%B0%8F%E6%97%B6%E5%B7%A6%E5%8F%B3%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
           "ranks": [
-            14
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时18分 ~ 13时19分]"
+          "time_info": "[18时01分 ~ 18时02分]"
         },
         {
           "title": "伊朗局势骤然升级，科技股抛售加剧，纳指跌2%，盘后甲骨文跳水9%，黄金暴跌",
@@ -322,6 +358,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "克里姆林宫：（就伊朗局势升级）我们呼吁冲突双方保持克制，继续谈判。",
+          "url": "https://flash.jin10.com/detail/20260611173521905800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "据伊朗媒体：霍尔木兹海峡附近的美国船只已成为伊朗武装部队导弹和无人机袭击的目标。",
@@ -786,6 +833,17 @@
           "time_info": "08时07分"
         },
         {
+          "title": "伊朗称美军炮弹击中阿曼湾一艘伊方货船",
+          "url": "https://wallstreetcn.com/livenews/3118039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "外媒：以色列对伊朗发动打击",
           "url": "https://flash.jin10.com/detail/20260611054244484800",
           "source": "金十数据",
@@ -806,6 +864,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
+        },
+        {
+          "title": "土耳其外交部长：伊朗和美国必须停止攻击，回到谈判桌上达成协议。",
+          "url": "https://flash.jin10.com/detail/20260611172304411800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "伊朗媒体Mehr：在Minab听到爆炸声。",
@@ -869,7 +938,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -902,7 +971,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         }
@@ -920,11 +989,12 @@
             7,
             6,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时50分 ~ 13时19分]"
+          "appearance_count": 8,
+          "time_info": "[01时50分 ~ 18时02分]"
         },
         {
           "title": "美贸易法院：特朗普，快退钱！",
@@ -1385,7 +1455,7 @@
     },
     {
       "keyword_group": "小米 雷军 发布",
-      "match_count": 6,
+      "match_count": 12,
       "titles": [
         {
           "title": "小米 SU7 电吸门夹伤女子致骨折，官方确认无防夹功能，汽车电吸门技术应如何平衡便利与安全？",
@@ -1399,6 +1469,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时50分 ~ 08时07分]"
+        },
+        {
+          "title": "美加墨世界杯主题曲DNA发布",
+          "url": "https://www.douyin.com/hot/2530517",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时01分 ~ 18时02分]"
         },
         {
           "title": "央视发布关于第 23 届国际足联世界杯版权保护的声明，哪些信息值得关注？",
@@ -1423,6 +1504,29 @@
           "time_info": "04时05分"
         },
         {
+          "title": "沪深北交易所发布2026年端午节期间港股通交易日安排",
+          "url": "https://wallstreetcn.com/livenews/3118065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "世界杯官方主题曲《DNA》发布",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AE%98%E6%96%B9%E4%B8%BB%E9%A2%98%E6%9B%B2%E3%80%8ADNA%E3%80%8B%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时18分 ~ 18时02分]"
+        },
+        {
           "title": "苹果 AI 发布史上最大更新国区却不可用，是何原因导致？",
           "url": "https://www.zhihu.com/question/2047598353421170561",
           "source": "知乎",
@@ -1434,15 +1538,48 @@
           "time_info": "[01时50分 ~ 08时07分]"
         },
         {
-          "title": "世界杯官方主题曲《DNA》发布",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AE%98%E6%96%B9%E4%B8%BB%E9%A2%98%E6%9B%B2%E3%80%8ADNA%E3%80%8B%E5%8F%91%E5%B8%83",
-          "source": "百度热搜",
+          "title": "国务院新闻办公室将于2026年6月16日（星期二）上午10时举行新闻发布会，请国家统计局新闻发言人、总经济师、国民经济综合统计司司长付凌晖介绍2026年5月份国民经济运行情况，并答记者问。",
+          "url": "https://wallstreetcn.com/livenews/3118053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "广期所发布关于2026年端午节期间交易时间安排的通知",
+          "url": "https://wallstreetcn.com/livenews/3118043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "小米汽车科技有限公司增加增程式电动乘用车产品品种",
+          "url": "https://wallstreetcn.com/livenews/3118042",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 13时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "广期所发布关于多晶硅期货PS2706合约、碳酸锂期货LC2706合约有关事项的公告",
+          "url": "https://wallstreetcn.com/livenews/3118041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "Anthropic首席执行官阿莫代伊：政府应当有权叫停新人工智能模型的发布。",
@@ -1461,6 +1598,18 @@
       "keyword_group": "chatgpt openai 发布",
       "match_count": 5,
       "titles": [
+        {
+          "title": "“Token价格战”烧到美国？OpenAI被曝考虑大幅降价",
+          "url": "https://www.cls.cn/detail/2396831",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时18分 ~ 18时02分]"
+        },
         {
           "title": "OpenAI与甲骨文构建合作伙伴关系。 双方将围绕面向OCI客户的Codex进行合作。",
           "url": "https://wallstreetcn.com/livenews/3117747",
@@ -1482,17 +1631,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
-        },
-        {
-          "title": "“Token价格战”烧到美国？OpenAI被曝考虑大幅降价",
-          "url": "https://www.cls.cn/detail/2396831",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 13时19分]"
         },
         {
           "title": "AI获“付款授权”：OpenAI联手Visa开启智能体在线购物新时代",
@@ -1573,6 +1711,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "网红 翻车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美网红想拍落后中国却被追问爱泼斯坦",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E7%BD%91%E7%BA%A2%E6%83%B3%E6%8B%8D%E8%90%BD%E5%90%8E%E4%B8%AD%E5%9B%BD%E5%8D%B4%E8%A2%AB%E8%BF%BD%E9%97%AE%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时01分 ~ 18时02分]"
+        },
+        {
+          "title": "翻车了?异度新作角色被评普",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355085&amp;topic_name=%E7%BF%BB%E8%BD%A6%E4%BA%86%3F%E5%BC%82%E5%BA%A6%E6%96%B0%E4%BD%9C%E8%A7%92%E8%89%B2%E8%A2%AB%E8%AF%84%E6%99%AE",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时01分 ~ 18时02分]"
         }
       ]
     },
