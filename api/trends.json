@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T17:52:56.735494+08:00",
-  "total_titles_processed": 1072,
+  "generated_at": "2026-06-12T20:47:50.211567+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 56,
       "titles": [
         {
           "title": "国际油价飙升！特朗普：今晚将重创伊朗，“在不久的将来”将占领哈尔克岛",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时35分 ~ 17时52分]"
+          "appearance_count": 8,
+          "time_info": "[01时35分 ~ 20时47分]"
         },
         {
           "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时13分 ~ 17时52分]"
+          "appearance_count": 4,
+          "time_info": "[08时13分 ~ 20时47分]"
         },
         {
           "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时13分 ~ 17时52分]"
+          "appearance_count": 4,
+          "time_info": "[08时13分 ~ 20时47分]"
         },
         {
           "title": "特朗普称取消打击伊朗行动",
@@ -262,6 +262,41 @@
           "time_info": "[06时45分 ~ 08时13分]"
         },
         {
+          "title": "特朗普涉伊朗表态“大转弯”，以总理“猝不及防”",
+          "url": "https://news.ifeng.com/c/8ttnDWEmW7E",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 20时47分]"
+        },
+        {
+          "title": "内塔尼亚胡：特朗普没提前告诉我",
+          "url": "https://news.ifeng.com/c/8ttf3o3HpAs",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 20时47分]"
+        },
+        {
+          "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33365641",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 20时47分]"
+        },
+        {
           "title": "特朗普取消对伊朗“猛烈打击”",
           "url": "https://www.toutiao.com/trending/7650278567816728102/",
           "source": "今日头条",
@@ -317,17 +352,6 @@
           "time_info": "04时07分"
         },
         {
-          "title": "特朗普涉伊朗表态“大转弯”，以总理“猝不及防”",
-          "url": "https://news.ifeng.com/c/8ttnDWEmW7E",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
           "title": "特朗普称有望周末签署美伊协议 伊朗称尚未达成最终结论 | 环球市场",
           "url": "https://www.cls.cn/detail/2397778",
           "source": "财联社热门",
@@ -359,17 +383,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
-        },
-        {
-          "title": "内塔尼亚胡：特朗普没提前告诉我",
-          "url": "https://news.ifeng.com/c/8ttf3o3HpAs",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
         },
         {
           "title": "美国总统特朗普：与以色列总理内塔尼亚胡通了电话。",
@@ -471,17 +484,6 @@
           "time_info": "04时07分"
         },
         {
-          "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33365641",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
           "title": "特朗普暗示协议即将达成，新兴市场货币与股票ETF集体大涨",
           "url": "https://wallstreetcn.com/livenews/3118418",
           "source": "华尔街见闻-快讯",
@@ -499,7 +501,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -532,7 +534,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -557,6 +559,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
+        },
+        {
+          "title": "据CNN：内塔尼亚胡与特朗普保持定期通话，包括在特朗普声称以色列是中东地区支持停火协议的几个国家之一之后的周四晚间也进行了通话。",
+          "url": "https://flash.jin10.com/detail/20260612201004240800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "特朗普提名原SEC主席为美国国家情报总监",
@@ -628,7 +641,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 45,
+      "match_count": 50,
       "titles": [
         {
           "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
@@ -761,6 +774,18 @@
           "time_info": "[01时35分 ~ 08时13分]"
         },
         {
+          "title": "伊朗战争推高通胀压力，欧洲央行近三年来首次加息！",
+          "url": "https://wallstreetcn.com/articles/3774438",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时13分 ~ 20时47分]"
+        },
+        {
           "title": "伊朗媒体：已故最高领袖葬礼推迟举行",
           "url": "https://flash.jin10.com/detail/20260612063056623800",
           "source": "金十数据",
@@ -785,16 +810,15 @@
           "time_info": "[06时46分 ~ 08时13分]"
         },
         {
-          "title": "伊朗战争推高通胀压力，欧洲央行近三年来首次加息！",
-          "url": "https://wallstreetcn.com/articles/3774438",
-          "source": "华尔街见闻",
+          "title": "伊朗方面公布伊美谅解备忘录新细节",
+          "url": "https://news.ifeng.com/c/8ttmPg8dMjP",
+          "source": "凤凰网",
           "ranks": [
-            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时13分 ~ 17时52分]"
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 20时47分]"
         },
         {
           "title": "据伊朗法尔斯通讯社：伊朗部队阻止一艘未经协调的“违规油轮”进入霍尔木兹海峡。",
@@ -845,17 +869,6 @@
           "time_info": "[01时35分 ~ 04时07分]"
         },
         {
-          "title": "伊朗方面公布伊美谅解备忘录新细节",
-          "url": "https://news.ifeng.com/c/8ttmPg8dMjP",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
           "title": "伊朗武装部队：若美再度袭击，将遭受更猛烈回击",
           "url": "https://flash.jin10.com/detail/20260612004808039800",
           "source": "金十数据",
@@ -876,6 +889,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
+        },
+        {
+          "title": "油价下挫5%！伊朗公布伊美谅解备忘录新细节，霍尔木兹海峡或30天内重开",
+          "url": "https://wallstreetcn.com/articles/3774522",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "伊朗武装部队：如果美国再次企图对伊朗发动攻击，将会遭到比以往更加严厉的回应。 石油和天然气出口要么对所有人开放，要么对任何人都不开放。",
@@ -909,6 +933,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
+        },
+        {
+          "title": "内塔尼亚胡称绝不会让伊朗有核武器",
+          "url": "https://wallstreetcn.com/livenews/3118879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "伊朗革命卫队：我们将继续监视霍尔木兹海峡，并将对任何试图通过的船只采取严厉措施。",
@@ -994,9 +1029,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
+        },
+        {
+          "title": "美媒：以色列施压阻止解冻伊朗资产作为停火协议的一部分",
+          "url": "https://flash.jin10.com/detail/20260612201341026800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "联合国秘书长古特雷斯敦促各方恢复全面停火的实施，避免进一步恶化局势。呼吁美国和伊朗加倍努力达成和平、全面和持久的协议。",
@@ -1027,7 +1073,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -1038,7 +1084,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -1082,7 +1128,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -1093,7 +1139,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -1107,6 +1153,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
+        },
+        {
+          "title": "据CNN援引消息人士称，以色列正施压阻止在停火协议中解冻伊朗资产的部分。",
+          "url": "https://flash.jin10.com/detail/20260612200843219800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "伊朗外交部发言人：如果伊朗打算在压力和威胁下放弃其原则立场，那我们在一年前就会这么做了。",
@@ -1137,16 +1194,49 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
+        },
+        {
+          "title": "伊媒称伊朗未就放弃霍尔木兹海峡管理权作出承诺",
+          "url": "https://wallstreetcn.com/livenews/3118852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         }
       ]
     },
     {
       "keyword_group": "小米 雷军 发布",
-      "match_count": 9,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "伊朗发布“头骨世界杯”海报",
+          "url": "https://www.toutiao.com/trending/7650111233802731539/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
+          "title": "市场监管总局发布两项管理体系认证新规，9月1日起实施",
+          "url": "https://wallstreetcn.com/livenews/3118895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
         {
           "title": "网信办发布公约整治涉企侵权信息",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BF%A1%E5%8A%9E%E5%8F%91%E5%B8%83%E5%85%AC%E7%BA%A6%E6%95%B4%E6%B2%BB%E6%B6%89%E4%BC%81%E4%BE%B5%E6%9D%83%E4%BF%A1%E6%81%AF%23&t=31&band_rank=3&Refer=top",
@@ -1159,15 +1249,39 @@
           "time_info": "13时24分"
         },
         {
+          "title": "华为发布鸿蒙7操作系统",
+          "url": "https://www.toutiao.com/trending/7650113709931593734/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "RED迷你二辑影发布会",
           "url": "https://search.bilibili.com/all?keyword=RED%E8%BF%B7%E4%BD%A0%E4%BA%8C%E8%BE%91%E5%BD%B1%E5%8F%91%E5%B8%83%E4%BC%9A",
           "source": "bilibili 热搜",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
+        },
+        {
+          "title": "严管侮辱谩骂、造谣诽谤企业家言论，“优化营商网络环境自律公约”发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33364051",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 20时47分]"
         },
         {
           "title": "日产汽车将在未来一年左右发布七款新车。 公司将新车研发周期减半，至两年。（日经新闻）",
@@ -1180,18 +1294,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时46分 ~ 08时13分]"
-        },
-        {
-          "title": "严管侮辱谩骂、造谣诽谤企业家言论，“优化营商网络环境自律公约”发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33364051",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 17时52分]"
         },
         {
           "title": "智源研究院发布全球首个通用世界基座模型“悟界·Physis-v0.1”",
@@ -1216,15 +1318,37 @@
           "time_info": "01时35分"
         },
         {
+          "title": "市场监管总局发布两项管理体系认证新规 9月1日起实施",
+          "url": "https://flash.jin10.com/detail/20260612203056476800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "国家网信办发布《中国个人信息保护报告（2025年）》",
           "url": "https://wallstreetcn.com/livenews/3118762",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
+        },
+        {
+          "title": "小米SU7一拆一个不吱声",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3SU7%E4%B8%80%E6%8B%86%E4%B8%80%E4%B8%AA%E4%B8%8D%E5%90%B1%E5%A3%B0&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "广汽传祺发布“祺享计划”，两款全新插混MPV正式上市",
@@ -1233,9 +1357,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
+        },
+        {
+          "title": "对于即将发布的 GLM-5.2，你抱有什么期待？",
+          "url": "https://www.zhihu.com/question/2047588334327837644",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
+          "title": "胖东来发布情况说明",
+          "url": "https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E5%8F%91%E5%B8%83%E6%83%85%E5%86%B5%E8%AF%B4%E6%98%8E",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "鸿蒙7开发者Beta正式发布",
@@ -1244,7 +1390,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         }
@@ -1305,7 +1451,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         }
@@ -1408,7 +1554,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         }
@@ -1436,7 +1582,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -1520,7 +1666,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         }
@@ -1537,9 +1683,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 20时47分]"
         }
       ]
     },
@@ -1571,7 +1717,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         }
