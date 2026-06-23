@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T18:27:15.420948+08:00",
-  "total_titles_processed": 1228,
+  "generated_at": "2026-06-23T21:34:40.522021+08:00",
+  "total_titles_processed": 1391,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 59,
+      "match_count": 62,
       "titles": [
         {
           "title": "伊朗谈判团队称伊美谈判达成5项要点",
@@ -70,8 +70,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时23分 ~ 18时27分]"
+          "appearance_count": 12,
+          "time_info": "[01时23分 ~ 21时34分]"
         },
         {
           "title": "伊朗议长：霍尔木兹海峡将按伊方制定的机制进行管理",
@@ -267,7 +267,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -316,6 +316,17 @@
           "time_info": "10时42分"
         },
         {
+          "title": "为期60天，美国暂时解除对伊朗石油制裁，这是过去数十年来第一次！",
+          "url": "https://wallstreetcn.com/articles/3775244",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
           "title": "伊朗副外长披露伊美谈判后续技术层面磋商机制",
           "url": "https://wallstreetcn.com/livenews/3123064",
           "source": "华尔街见闻-快讯",
@@ -325,6 +336,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬与巴基斯坦陆军参谋长穆尼尔讨论防务合作。",
+          "url": "https://wallstreetcn.com/livenews/3123462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "土耳其总统埃尔多安告诉伊朗总统佩泽希齐扬，土耳其欢迎伊朗和美国达成的协议。",
@@ -432,7 +454,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -454,7 +476,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -503,6 +525,17 @@
           "time_info": "06时31分"
         },
         {
+          "title": "美财政部放宽对伊朗能源相关交易限制",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33431377",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
           "title": "伊朗谈判团队启程前往Muscat（阿曼首都马斯喀特）。 伊朗将在Muscat讨论霍尔木兹海峡的行政管理方案。（伊朗媒体IRNA）",
           "url": "https://wallstreetcn.com/livenews/3122950",
           "source": "华尔街见闻-快讯",
@@ -531,7 +564,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -553,7 +586,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -608,7 +641,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -674,7 +707,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         }
@@ -682,7 +715,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
@@ -753,6 +786,19 @@
           "time_info": "01时23分"
         },
         {
+          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2052711074215081192",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时37分 ~ 21时34分]"
+        },
+        {
           "title": "美国总统特朗普：油价大幅下跌。",
           "url": "https://wallstreetcn.com/livenews/3123017",
           "source": "华尔街见闻-快讯",
@@ -777,16 +823,15 @@
           "time_info": "[04时29分 ~ 06时31分]"
         },
         {
-          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2052711074215081192",
-          "source": "知乎",
+          "title": "美部长拍特朗普马屁，当场被打脸",
+          "url": "https://news.ifeng.com/c/8uBxMmUnV4m",
+          "source": "凤凰网",
           "ranks": [
-            16,
-            15
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时37分 ~ 18时27分]"
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 21时34分]"
         },
         {
           "title": "特朗普政府加码量子战略！设定2028年科研级量子计算机突破目标",
@@ -821,17 +866,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时37分 ~ 14时38分]"
-        },
-        {
-          "title": "美部长拍特朗普马屁，当场被打脸",
-          "url": "https://news.ifeng.com/c/8uBxMmUnV4m",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 18时27分]"
         },
         {
           "title": "特朗普点名英意德差劲",
@@ -1005,7 +1039,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -1030,12 +1064,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "【特朗普称允许霍尔木兹海峡保持开放】美国总统特朗普23日在社交媒体发文说，基于伊朗作出的让步，他已同意允许霍尔木兹海峡保持开放，不再实施海上封锁。“不过，所有船只仍将原地待命，以备必要时重新实施封锁。尽管目前看来，这种可能性极低。”（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3123433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "特朗普：昨天有1900万桶石油从霍尔木兹海峡流出",
+          "url": "https://wallstreetcn.com/livenews/3123432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         }
       ]
     },
     {
       "keyword_group": "小米 雷军 发布",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
         {
           "title": "美伊谈判联合声明发布：各方达成路线图，力争在60天内达成最终协议",
@@ -1050,17 +1106,6 @@
           "time_info": "[01时23分 ~ 07时59分]"
         },
         {
-          "title": "如何看待懂车帝直播测试小米 SU7 和尚界 Z7 北京到上海 1300 公里续航？",
-          "url": "https://www.zhihu.com/question/2052352706862388110",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时37分 ~ 18时27分]"
-        },
-        {
           "title": "网友按压胳膊冒出一排小米粒",
           "url": "https://www.toutiao.com/trending/7653621212706914358/",
           "source": "今日头条",
@@ -1073,6 +1118,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时23分 ~ 10时42分]"
+        },
+        {
+          "title": "如何看待懂车帝直播测试小米 SU7 和尚界 Z7 北京到上海 1300 公里续航？",
+          "url": "https://www.zhihu.com/question/2052352706862388110",
+          "source": "知乎",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时37分 ~ 21时34分]"
         },
         {
           "title": "雷军再谈与董明珠赌约直言后悔，称本是玩笑董大姐当真了，小米被逼做空调，如何看待当年赌约对小米布局影响？",
@@ -1135,6 +1192,17 @@
           "time_info": "10时42分"
         },
         {
+          "title": "英伟达发布BioNeMo Agent工具包。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3123473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
           "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报157900元/吨，较上日16:30价格上涨750元/吨。",
           "url": "https://wallstreetcn.com/livenews/3123138",
           "source": "华尔街见闻-快讯",
@@ -1185,7 +1253,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -1207,9 +1275,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
+        },
+        {
+          "title": "英伟达(NVDA.O)发布BIONEMO智能体工具包，一个旨在助力智能体加速科学发现的工具。",
+          "url": "https://flash.jin10.com/detail/20260623210454021800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "加强数据期刊建设 中国科学院发布新刊",
+          "url": "https://wallstreetcn.com/livenews/3123458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "中央气象台6月23日18时继续发布台风蓝色预警",
@@ -1218,9 +1308,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
+        },
+        {
+          "title": "远景科技集团发布三大能源系统解决方案，面向AI数据中心等场景",
+          "url": "https://wallstreetcn.com/livenews/3123454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "A股汽车服务板块短线拉升，德众汽车直线拉升涨超12%，申华控股、交运股份、中汽股份等个股跟涨。消息面上，商务部等9部门发布关于培育壮大汽车后市场消费若干措施的通知。",
@@ -1245,13 +1346,35 @@
           "time_info": "07时59分"
         },
         {
+          "title": "小米 假预警",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%20%E5%81%87%E9%A2%84%E8%AD%A6&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "两部门联合发布橙色山洪灾害预警",
+          "url": "https://www.toutiao.com/trending/7654531604487864371/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
           "title": "自然资源部与中国气象局6月23日18时联合发布橙色地质灾害气象风险预警",
           "url": "https://flash.jin10.com/detail/20260623180014552800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         }
@@ -1259,7 +1382,7 @@
     },
     {
       "keyword_group": "网红 翻车",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "凡人动画翻车,导演急眼甩锅商战",
@@ -1394,6 +1517,17 @@
           "time_info": "[18时26分 ~ 18时27分]"
         },
         {
+          "title": "合肥网红店“七万卤菜店”被拍到生肉食材遭狗啃食，市监部门：已介入调查，门店已闭店",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33436482",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
           "title": "低龄粉跨作拉踩，五条悟饭圈化翻车",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355400&amp;topic_name=%E4%BD%8E%E9%BE%84%E7%B2%89%E8%B7%A8%E4%BD%9C%E6%8B%89%E8%B8%A9%EF%BC%8C%E4%BA%94%E6%9D%A1%E6%82%9F%E9%A5%AD%E5%9C%88%E5%8C%96%E7%BF%BB%E8%BD%A6",
           "source": "贴吧",
@@ -1414,6 +1548,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "不准问价的网红卤菜店已闭店",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8D%E5%87%86%E9%97%AE%E4%BB%B7%E7%9A%84%E7%BD%91%E7%BA%A2%E5%8D%A4%E8%8F%9C%E5%BA%97%E5%B7%B2%E9%97%AD%E5%BA%97",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "新剧情翻车!绝区零遭玩家开团",
@@ -1550,11 +1695,12 @@
           "url": "https://wallstreetcn.com/articles/3775254",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 18时27分]"
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 21时34分]"
         },
         {
           "title": "大模型横评:多款AI翻车实录",
@@ -1564,8 +1710,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 18时27分]"
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 21时34分]"
         },
         {
           "title": "火山引擎总裁谭待：豆包大模型日均Tokens使用量已突破180万亿",
@@ -1617,8 +1763,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 18时27分]"
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 21时34分]"
         },
         {
           "title": "丑闻、叛乱与战争：谁击垮了斯塔默政府？｜907编辑部",
@@ -1653,11 +1799,12 @@
           "url": "https://wallstreetcn.com/articles/3775250",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 18时27分]"
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 21时34分]"
         },
         {
           "title": "苏醒 预言家",
@@ -1715,11 +1862,12 @@
           "url": "https://www.zhihu.com/question/2044875348719005741",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时37分 ~ 18时27分]"
+          "appearance_count": 5,
+          "time_info": "[14时37分 ~ 21时34分]"
         },
         {
           "title": "DeepSeek新部门疯狂招人，负责人否认“不招外国人”",
@@ -1728,7 +1876,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         }
