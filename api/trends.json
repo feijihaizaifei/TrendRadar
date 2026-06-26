@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T18:12:45.133711+08:00",
-  "total_titles_processed": 1127,
+  "generated_at": "2026-06-26T21:03:08.542451+08:00",
+  "total_titles_processed": 1311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 雷军 发布",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "小米股价跌至 22.5 港元，股民「破防」怒骂雷军，这反映了投资者怎样的心态？",
@@ -30,11 +30,12 @@
             9,
             10,
             15,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时01分 ~ 18时12分]"
+          "appearance_count": 11,
+          "time_info": "[02时01分 ~ 21时03分]"
         },
         {
           "title": "环境部发布部分海水浴场水质概况，北海银滩等2个场地近期水质“差”",
@@ -106,13 +107,24 @@
           "time_info": "10时02分"
         },
         {
+          "title": "vivo X Fold6发布，开售价格7999起",
+          "url": "https://wallstreetcn.com/livenews/3125325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
           "title": "我国科研团队发布海洋关键材料AI科研助手",
           "url": "https://wallstreetcn.com/livenews/3125194",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -145,7 +157,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -178,7 +190,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -189,7 +201,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -225,12 +237,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
+        },
+        {
+          "title": "优必选正式发布轮式工业人形机器人Cruzr Y1",
+          "url": "https://wallstreetcn.com/livenews/3125280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
@@ -242,6 +265,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时01分 ~ 07时06分]"
+        },
+        {
+          "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
+          "url": "https://news.ifeng.com/c/8uHCasu8tQC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时03分]"
         },
         {
           "title": "据AXIOS网站：美国众议院议长约翰逊表示，将在与特朗普会晤后将住房法案提交给白宫。",
@@ -418,7 +452,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
@@ -434,15 +468,38 @@
           "time_info": "[02时01分 ~ 07时06分]"
         },
         {
-          "title": "意大利协助美国打伊朗？梅洛尼：吕特你别乱说",
-          "url": "https://news.ifeng.com/c/8uGv7gSoz4a",
-          "source": "凤凰网",
+          "title": "据伊朗Press TV：美国与伊朗在霍尔木兹海峡的沟通旨在防止军事升级。",
+          "url": "https://flash.jin10.com/detail/20260626205040361800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "伊朗和美国开设沟通渠道，就霍尔木兹海峡进行协调。美伊霍尔木兹沟通渠道将防止军事升级。（伊朗Press TV）",
+          "url": "https://wallstreetcn.com/livenews/3125327",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时12分"
+          "time_info": "21时03分"
+        },
+        {
+          "title": "意大利协助美国打伊朗？梅洛尼：吕特你别乱说",
+          "url": "https://news.ifeng.com/c/8uGv7gSoz4a",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时12分 ~ 21时03分]"
         },
         {
           "title": "霍尔木兹波澜又起！有船只遭袭、疏散行动暂停 伊朗再发警告",
@@ -466,8 +523,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时12分 ~ 18时12分]"
+          "appearance_count": 4,
+          "time_info": "[14时12分 ~ 21时03分]"
         },
         {
           "title": "霍尔木兹海峡再起波澜：伊朗被曝谋求一年400亿“买路钱”，船只遇袭后疏散行动暂停",
@@ -476,9 +533,20 @@
           "ranks": [
             10
           ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时12分 ~ 21时03分]"
+        },
+        {
+          "title": "伊朗外交部谴责美国与海合会联合声明",
+          "url": "https://wallstreetcn.com/livenews/3125318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时12分"
+          "time_info": "21时03分"
         },
         {
           "title": "据伊朗学生通讯社：伊朗外长今日与韩国外长通话，双方就地区最新局势及双边关系交换了意见。",
@@ -487,9 +555,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
+        },
+        {
+          "title": "以色列国防部长：如果伊朗攻击以色列，将“犯下最大的错误”。",
+          "url": "https://flash.jin10.com/detail/20260626203708830800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "消息人士：以军撤离黎巴嫩是伊朗重要“红线”",
@@ -617,7 +696,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -722,7 +801,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "全速扩容！DeepSeek“招兵买马”扩编一倍",
@@ -741,11 +820,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时12分 ~ 18时12分]"
+          "appearance_count": 4,
+          "time_info": "[14时12分 ~ 21时03分]"
         },
         {
           "title": "DeepSeek大规模招聘",
@@ -758,6 +838,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时02分 ~ 14时12分]"
+        },
+        {
+          "title": "DeepSeek为何大规模招人",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%B8%BA%E4%BD%95%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E4%BA%BA%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时03分]"
         },
         {
           "title": "DeepSeek大规模招聘：至少扩大一倍",
@@ -823,6 +914,61 @@
       ]
     },
     {
+      "keyword_group": "网红 翻车",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "狗啃食材被举报,网红店翻车",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355612&amp;topic_name=%E7%8B%97%E5%95%83%E9%A3%9F%E6%9D%90%E8%A2%AB%E4%B8%BE%E6%8A%A5%2C%E7%BD%91%E7%BA%A2%E5%BA%97%E7%BF%BB%E8%BD%A6",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            23,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时01分 ~ 10时02分]"
+        },
+        {
+          "title": "污蔑中国抽走“梯子”，美媒翻车了",
+          "url": "https://news.ifeng.com/c/8uGLx4GEgzJ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 14时12分]"
+        },
+        {
+          "title": "“网红”钟美美努力向上的姿态，值得我们给予更多的掌声",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33448373",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 07时06分]"
+        },
+        {
+          "title": "网红峰哥卸载同花顺：万念俱灰了",
+          "url": "https://www.toutiao.com/trending/7655345211119910975/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时03分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -864,50 +1010,6 @@
       ]
     },
     {
-      "keyword_group": "网红 翻车",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "狗啃食材被举报,网红店翻车",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355612&amp;topic_name=%E7%8B%97%E5%95%83%E9%A3%9F%E6%9D%90%E8%A2%AB%E4%B8%BE%E6%8A%A5%2C%E7%BD%91%E7%BA%A2%E5%BA%97%E7%BF%BB%E8%BD%A6",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            23,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时01分 ~ 10时02分]"
-        },
-        {
-          "title": "污蔑中国抽走“梯子”，美媒翻车了",
-          "url": "https://news.ifeng.com/c/8uGLx4GEgzJ",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 14时12分]"
-        },
-        {
-          "title": "“网红”钟美美努力向上的姿态，值得我们给予更多的掌声",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33448373",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时01分 ~ 07时06分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "大模型",
       "match_count": 1,
       "titles": [
@@ -918,7 +1020,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         }
