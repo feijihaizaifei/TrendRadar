@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T07:06:14.020170+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-06-26T10:02:35.788414+08:00",
+  "total_titles_processed": 719,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
@@ -90,13 +90,46 @@
           "time_info": "02时02分"
         },
         {
+          "title": "据白宫官员透露，特朗普将首次乘坐卡塔尔政府赠送的新总统专机，计划于7月1日前往北达科他州参加活动。",
+          "url": "https://wallstreetcn.com/livenews/3124934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "美最高法院裁决支持特朗普强硬移民政策",
+          "url": "https://news.ifeng.com/c/8uFtfSi0LYE",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "曾嘲讽泽连斯基“无牌可打”，如今特朗普又夸“打得不错”",
+          "url": "https://news.ifeng.com/c/8uFlkiiXNU5",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "美国众议长约翰逊：与总统特朗普进行了富有成效的会谈。",
           "url": "https://wallstreetcn.com/livenews/3124865",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -107,7 +140,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -143,12 +176,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "特朗普称将用伊朗的钱买美国农产品",
+          "url": "https://wallstreetcn.com/livenews/3124906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         }
       ]
     },
     {
       "keyword_group": "小米 雷军 发布",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "小米股价跌至 22.5 港元，股民「破防」怒骂雷军，这反映了投资者怎样的心态？",
@@ -160,8 +204,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时01分 ~ 07时06分]"
+          "appearance_count": 7,
+          "time_info": "[02时01分 ~ 10时02分]"
         },
         {
           "title": "AI机器女友发布,仿真拉满",
@@ -170,22 +214,35 @@
           "ranks": [
             6,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时01分 ~ 07时06分]"
+          "appearance_count": 7,
+          "time_info": "[02时01分 ~ 10时02分]"
         },
         {
           "title": "环境部发布部分海水浴场水质概况，北海银滩等2个场地近期水质“差”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33449614",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时01分 ~ 07时06分]"
+          "appearance_count": 7,
+          "time_info": "[02时01分 ~ 10时02分]"
+        },
+        {
+          "title": "疑似小米员工发文《置身米内》，将雷军比作项羽，有哪些看点？",
+          "url": "https://www.zhihu.com/question/2052883811151745057",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "伊拉克国家石油营销组织SOMO已发布7月装油销售招标。",
@@ -205,7 +262,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -222,13 +279,35 @@
           "time_info": "[02时02分 ~ 03时59分]"
         },
         {
+          "title": "港股科网股盘初走低，BOSS直聘(02076.HK)、阿里巴巴(09988.HK)跌超4%，携程集团-S(09961.HK)跌超3%，小米集团(01810.HK)、哔哩哔哩(09626.HK)跌近3%。",
+          "url": "https://flash.jin10.com/detail/20260626093356391800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "剑指内存墙问题 高通发布HBC架构 带宽较HBM大幅提升",
+          "url": "https://www.cls.cn/detail/2409266",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "报道：美国政府要求OpenAI分阶段发布最新模型GPT 5.6",
           "url": "https://wallstreetcn.com/livenews/3124869",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -269,7 +348,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
@@ -283,6 +362,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时01分 ~ 07时06分]"
+        },
+        {
+          "title": "霍尔木兹波澜又起！有船只遭袭、疏散行动暂停 伊朗再发警告",
+          "url": "https://www.cls.cn/detail/2409704",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "消息人士：以军撤离黎巴嫩是伊朗重要“红线”",
@@ -353,6 +443,80 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
+          "url": "https://www.zhihu.com/question/2053015352347293676",
+          "source": "知乎",
+          "ranks": [
+            8,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时01分 ~ 07时06分]"
+        },
+        {
+          "title": "周四（6月25日），美股超大规模云服务商（Hyperscalers）跌2.27%，报87.43点，6月1日达到106.56点之后，持续回撤，逼近4月7日顶部82.45点。 成分股全线溃败，微软收跌3.46%，甲骨文跌3.22%，亚马逊跌3.10%，Meta Platforms跌2.65%，谷歌A跌0.46%。",
+          "url": "https://wallstreetcn.com/livenews/3124866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "网传 Google 内部称 Gemini 模型竞争力下降至行业第四，具体情况如何？下降原因可能有哪些？",
+          "url": "https://www.zhihu.com/question/2052444159282082405",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "纳斯达克100指数涨幅扩大至1%，美股早盘呈现出V形反转，成分股闪迪目前涨18.1%，美光涨16.1%，应用材料涨10.1%，西部数据涨8.1%，高通涨7.9%，阿斯麦ADR涨4.5%，谷歌A跌0.8%，英伟达跌幅收窄至1.1%，Meta跌1.7%，亚马逊跌2.2%，微软跌3.4%，苹果仍然重挫超5.6%，Strategy跌6.9%。 半导体指数涨超4.1%。",
+          "url": "https://wallstreetcn.com/livenews/3124781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "据The Information：谷歌的人工智能项目推动出版商允许内容用于人工智能模型训练。",
+          "url": "https://flash.jin10.com/detail/20260626040729452800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "谷歌公司为安卓系统推出新款谷歌理财（Google Finance）APP。",
+          "url": "https://wallstreetcn.com/livenews/3124775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai 发布",
       "match_count": 6,
       "titles": [
@@ -410,7 +574,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -424,69 +588,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
-          "url": "https://www.zhihu.com/question/2053015352347293676",
-          "source": "知乎",
-          "ranks": [
-            8,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时01分 ~ 07时06分]"
-        },
-        {
-          "title": "周四（6月25日），美股超大规模云服务商（Hyperscalers）跌2.27%，报87.43点，6月1日达到106.56点之后，持续回撤，逼近4月7日顶部82.45点。 成分股全线溃败，微软收跌3.46%，甲骨文跌3.22%，亚马逊跌3.10%，Meta Platforms跌2.65%，谷歌A跌0.46%。",
-          "url": "https://wallstreetcn.com/livenews/3124866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "纳斯达克100指数涨幅扩大至1%，美股早盘呈现出V形反转，成分股闪迪目前涨18.1%，美光涨16.1%，应用材料涨10.1%，西部数据涨8.1%，高通涨7.9%，阿斯麦ADR涨4.5%，谷歌A跌0.8%，英伟达跌幅收窄至1.1%，Meta跌1.7%，亚马逊跌2.2%，微软跌3.4%，苹果仍然重挫超5.6%，Strategy跌6.9%。 半导体指数涨超4.1%。",
-          "url": "https://wallstreetcn.com/livenews/3124781",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "据The Information：谷歌的人工智能项目推动出版商允许内容用于人工智能模型训练。",
-          "url": "https://flash.jin10.com/detail/20260626040729452800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "谷歌公司为安卓系统推出新款谷歌理财（Google Finance）APP。",
-          "url": "https://wallstreetcn.com/livenews/3124775",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
         }
       ]
     },
@@ -541,6 +642,45 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "全速扩容！DeepSeek“招兵买马”扩编一倍",
+          "url": "https://www.cls.cn/detail/2409672",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "DeepSeek大规模招聘",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E8%81%98%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "DeepSeek大规模招聘：至少扩大一倍",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E8%81%98%EF%BC%9A%E8%87%B3%E5%B0%91%E6%89%A9%E5%A4%A7%E4%B8%80%E5%80%8D",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -583,20 +723,8 @@
     },
     {
       "keyword_group": "网红 翻车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "“网红”钟美美努力向上的姿态，值得我们给予更多的掌声",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33448373",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时01分 ~ 07时06分]"
-        },
         {
           "title": "狗啃食材被举报,网红店翻车",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355612&amp;topic_name=%E7%8B%97%E5%95%83%E9%A3%9F%E6%9D%90%E8%A2%AB%E4%B8%BE%E6%8A%A5%2C%E7%BD%91%E7%BA%A2%E5%BA%97%E7%BF%BB%E8%BD%A6",
@@ -604,7 +732,31 @@
           "ranks": [
             22,
             23,
-            25
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时01分 ~ 10时02分]"
+        },
+        {
+          "title": "污蔑中国抽走“梯子”，美媒翻车了",
+          "url": "https://news.ifeng.com/c/8uGLx4GEgzJ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "“网红”钟美美努力向上的姿态，值得我们给予更多的掌声",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33448373",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10
           ],
           "is_new": false,
           "appearance_count": 6,
