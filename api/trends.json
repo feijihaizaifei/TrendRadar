@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T06:07:10.155789+08:00",
-  "total_titles_processed": 566,
+  "generated_at": "2026-07-01T07:57:06.679883+08:00",
+  "total_titles_processed": 702,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
         {
           "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时14分 ~ 06时07分]"
+        },
+        {
+          "title": "美国驻印大使爆料：特朗普想早上6点给莫迪打电话",
+          "url": "https://v.ifeng.com/c/8uNtTRMWXNr",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时56分 ~ 07时57分]"
         },
         {
           "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
@@ -36,9 +47,31 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "特朗普政府，遭全美半数州集体起诉",
+          "url": "https://news.ifeng.com/c/8uO4jG3X5zq",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时56分 ~ 07时57分]"
+        },
+        {
+          "title": "特朗普再遭打击！美最高法院驳回限制“出生公民权”行政令",
+          "url": "https://news.ifeng.com/c/8uOA3e74QUL",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时56分 ~ 07时57分]"
         },
         {
           "title": "美伊谈判前途未卜：特朗普称周二将在多哈谈，伊朗否认计划会谈，以防长称以伊明天就可能重开战火",
@@ -58,7 +91,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -80,9 +113,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "特朗普已听取关于对伊朗战争方案的简报，但选择继续进行谈判。 特朗普目前将坚持对伊朗进行外交谈判。 特朗普告诉助手，如果谈判超过8月18日的截止日期，他也觉得可以接受。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3127028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
         },
         {
           "title": "美国内政部长：美国总统特朗普实际上阻止了第三次世界大战的发生。",
@@ -91,7 +135,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -102,7 +146,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -118,13 +162,24 @@
           "time_info": "00时14分"
         },
         {
+          "title": "特朗普927页财报曝光：三度加仓苹果、微软、英伟达，金条持仓同步现身",
+          "url": "https://flash.jin10.com/detail/20260701065240508800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
           "title": "美国总统特朗普2025年度的财务报告称，其至少买入10万零1美元以上的Palantir(PLTR.N)股票。",
           "url": "https://flash.jin10.com/detail/20260701050003787800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -135,7 +190,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -146,7 +201,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -168,7 +223,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -201,7 +256,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -215,6 +270,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "美国总统特朗普：Pierre Yared辞去经济顾问委员会的代理主席。 其将重返哥伦比亚大学研究生院。",
+          "url": "https://wallstreetcn.com/livenews/3127002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
         }
       ]
     },
@@ -347,7 +413,7 @@
     },
     {
       "keyword_group": "小米 雷军 发布",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "教育部发布高考招生防诈骗预警",
@@ -359,6 +425,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "净利同比最高增超4.6倍！220亿锂电池概念股发布上半年业绩预告|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2413372",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时56分 ~ 07时57分]"
         },
         {
           "title": "观察机构认为：美国劳工统计局（BLS）自2024年以来采取的数据发布措施是不适当的。 BLX仍然需要增强其数据测试和CPI来源。 72家网站服务商接触了2024年年初的美国CPI数据。",
@@ -378,7 +455,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -394,6 +471,17 @@
           "time_info": "00时14分"
         },
         {
+          "title": "多地发布脑机接口产业专项扶持政策",
+          "url": "https://wallstreetcn.com/livenews/3127012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
           "title": "市场消息：Anthropic发布Claude Science测试版工具，旨在帮助科学家自动化科研流程，减少重复性工作。",
           "url": "https://flash.jin10.com/detail/20260701010526378800",
           "source": "金十数据",
@@ -403,6 +491,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
+        },
+        {
+          "title": "巴西国家石油公司发布声明称，将于7月1日起将每升柴油价格下调0.35雷亚尔。",
+          "url": "https://flash.jin10.com/detail/20260701062853451800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
         }
       ]
     },
@@ -439,7 +538,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -468,11 +567,25 @@
             25,
             8,
             16,
-            19
+            19,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 06时07分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 07时57分]"
+        },
+        {
+          "title": "凉凉!百万粉网红诋毁袁隆平被拘",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355711&amp;topic_name=%E5%87%89%E5%87%89%21%E7%99%BE%E4%B8%87%E7%B2%89%E7%BD%91%E7%BA%A2%E8%AF%8B%E6%AF%81%E8%A2%81%E9%9A%86%E5%B9%B3%E8%A2%AB%E6%8B%98",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 07时57分]"
         },
         {
           "title": "网红博主李雨禅被行拘",
@@ -483,18 +596,6 @@
             18,
             22,
             21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 06时07分]"
-        },
-        {
-          "title": "凉凉!百万粉网红诋毁袁隆平被拘",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355711&amp;topic_name=%E5%87%89%E5%87%89%21%E7%99%BE%E4%B8%87%E7%B2%89%E7%BD%91%E7%BA%A2%E8%AF%8B%E6%AF%81%E8%A2%81%E9%9A%86%E5%B9%B3%E8%A2%AB%E6%8B%98",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            24
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -542,11 +643,12 @@
           "ranks": [
             2,
             1,
-            3
+            3,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 06时07分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 07时57分]"
         }
       ]
     },
