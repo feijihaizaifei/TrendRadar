@@ -1,282 +1,59 @@
 {
-  "generated_at": "2026-07-01T21:33:06.517499+08:00",
-  "total_titles_processed": 1424,
+  "generated_at": "2026-07-02T00:14:19.357149+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 33,
+      "keyword_group": "伊朗",
+      "match_count": 5,
       "titles": [
         {
-          "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
-          "url": "https://news.ifeng.com/c/8uNrdCXnoF5",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 06时07分]"
-        },
-        {
-          "title": "美国驻印大使爆料：特朗普想早上6点给莫迪打电话",
-          "url": "https://v.ifeng.com/c/8uNtTRMWXNr",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时56分 ~ 15时03分]"
-        },
-        {
-          "title": "特朗普在最高法院输了，为什么又扯上中国？",
-          "url": "https://news.ifeng.com/c/8uOgMuQGNSM",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时05分 ~ 15时03分]"
-        },
-        {
-          "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
-          "url": "https://news.ifeng.com/c/8uNYuN5imVw",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 06时07分]"
-        },
-        {
-          "title": "德国提出在欧洲生产美国武器的计划 以争取特朗普的继续支持",
-          "url": "https://flash.jin10.com/detail/20260701144532076800",
+          "title": "美国副总统万斯：如果伊朗试图重建核计划，美国有应对方案。",
+          "url": "https://flash.jin10.com/detail/20260701235319689800",
           "source": "金十数据",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "特朗普927页超10亿美元“吸金”财务报告：世界杯门票、和解费尽数收入囊中",
-          "url": "https://flash.jin10.com/detail/20260701054713686800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
-          "url": "https://wallstreetcn.com/articles/3775893",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时02分 ~ 21时33分]"
-        },
-        {
-          "title": "特朗普政府，遭全美半数州集体起诉",
-          "url": "https://news.ifeng.com/c/8uO4jG3X5zq",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时56分 ~ 10时06分]"
-        },
-        {
-          "title": "特朗普再遭打击！美最高法院驳回限制“出生公民权”行政令",
-          "url": "https://news.ifeng.com/c/8uOA3e74QUL",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时56分 ~ 07时57分]"
-        },
-        {
-          "title": "美伊谈判前途未卜：特朗普称周二将在多哈谈，伊朗否认计划会谈，以防长称以伊明天就可能重开战火",
-          "url": "https://wallstreetcn.com/articles/3775765",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 02时27分]"
-        },
-        {
-          "title": "美最高法院驳回特朗普的限制「出生公民权」行政令，维持在美出生即美国公民，这项政策利弊该怎么权衡？",
-          "url": "https://www.zhihu.com/question/2055584524273185650",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时32分 ~ 21时33分]"
-        },
-        {
-          "title": "美国总统特朗普：中期选举大会预计将于9月9日至10日进行。",
-          "url": "https://flash.jin10.com/detail/20260701054226191800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "特朗普称美伊处得很好",
-          "url": "https://wallstreetcn.com/livenews/3127437",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
-          "title": "市场消息：美国一名法官裁定，阻止特朗普政府出台的一项限制联邦学生贷款减免的政策规则生效。",
-          "url": "https://flash.jin10.com/detail/20260701042824758800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "美国总统特朗普：共和党将在美国德克萨斯州达拉斯举行中期大会。",
-          "url": "https://flash.jin10.com/detail/20260701054029812800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "特朗普已听取关于对伊朗战争方案的简报，但选择继续进行谈判。 特朗普目前将坚持对伊朗进行外交谈判。 特朗普告诉助手，如果谈判超过8月18日的截止日期，他也觉得可以接受。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3127028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "美国内政部长：美国总统特朗普实际上阻止了第三次世界大战的发生。",
-          "url": "https://flash.jin10.com/detail/20260701052059560800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "信披：特朗普对苹果、英伟达持股分别至少500万美元",
-          "url": "https://wallstreetcn.com/livenews/3126986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "据华尔街日报：特朗普政府正试图遏制创纪录高位的牛肉价格。特朗普政府计划向较小型肉类加工商提供资金，鼓励其继续屠宰牛只；美国农业部计划提供最高5亿美元款项，以支持牛肉加工。",
-          "url": "https://flash.jin10.com/detail/20260630235100163800",
-          "source": "金十数据",
-          "ranks": [
-            14
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
         },
         {
-          "title": "美国总统特朗普：与伊朗谈判进展顺利。 因为股市上涨，每个人都在获利。 正在美国建设很多汽车工厂和人工智能基地。 到我卸任时，我们可能占据芯片市场50%的份额。",
-          "url": "https://wallstreetcn.com/livenews/3127425",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
-          "title": "特朗普927页财报曝光：三度加仓苹果、微软、英伟达，金条持仓同步现身",
-          "url": "https://flash.jin10.com/detail/20260701065240508800",
+          "title": "美国副总统万斯重申伊朗的海军和军事力量已被摧毁。",
+          "url": "https://flash.jin10.com/detail/20260701235128031800",
           "source": "金十数据",
           "ranks": [
-            15
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时57分"
+          "time_info": "00时14分"
         },
         {
-          "title": "美国总统特朗普2025年度的财务报告称，其至少买入10万零1美元以上的Palantir(PLTR.N)股票。",
-          "url": "https://flash.jin10.com/detail/20260701050003787800",
+          "title": "美国副总统万斯：几天前，在伊朗向船只开火后，美方实施了空袭并投下了炸弹。",
+          "url": "https://flash.jin10.com/detail/20260701235048629800",
           "source": "金十数据",
           "ranks": [
-            18
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时07分"
+          "time_info": "00时14分"
         },
         {
-          "title": "美国总统特朗普2025年度的财务报告称，其至少持有500万美元的苹果(AAPL.O)公司股票。",
-          "url": "https://flash.jin10.com/detail/20260701045910278800",
+          "title": "据伊朗官方通讯社Shana：伊朗准备向除以色列以外的所有国家出售石油。",
+          "url": "https://flash.jin10.com/detail/20260701234611975800",
           "source": "金十数据",
           "ranks": [
-            19
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时07分"
+          "time_info": "00时14分"
         },
         {
-          "title": "美国总统特朗普2025年度的财务报告称，其从与多家媒体公司的和解协议中获得超过8000万美元收入。",
-          "url": "https://flash.jin10.com/detail/20260701045751619800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "美最高法院驳回特朗普的限制“出生公民权”行政令",
-          "url": "https://wallstreetcn.com/livenews/3126889",
+          "title": "欧洲央行管委Kaasik：“再加息一次”是合理的预期。 （美国+以色列对伊朗发动的）战争可能会造成长期性的影响。 可能会在秋季围绕薪资问题获得更多透明度。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3127503",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
@@ -284,100 +61,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
-        },
-        {
-          "title": "美国总统特朗普2025年度的财务报告称，其从“迷因币”相关的授权或收益分成获得6.35亿美元收入。",
-          "url": "https://flash.jin10.com/detail/20260701045159164800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "美国总统特朗普称赞最高法院关于政治支出的裁决。",
-          "url": "https://wallstreetcn.com/livenews/3126888",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "美国总统特朗普回应“最高法院推翻特朗普限制‘出生公民权’行政令”，称：最高法院的裁决对美国来说太糟糕了。 国会山应该着手废除出生公民权。",
-          "url": "https://wallstreetcn.com/livenews/3126924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "市场消息：美国总统特朗普提交2025年度财务披露报告，披露其通过加密货币获得数亿美元收入。",
-          "url": "https://flash.jin10.com/detail/20260701044849105800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "白宫称特朗普加密币获利无利益冲突",
-          "url": "https://wallstreetcn.com/livenews/3127169",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-01）",
-          "url": "https://flash.jin10.com/detail/20260701181938280800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
-          "title": "美国最高法院推翻总统特朗普限制出生公民权的措施。",
-          "url": "https://wallstreetcn.com/livenews/3126877",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "美国总统特朗普：Pierre Yared辞去经济顾问委员会的代理主席。 其将重返哥伦比亚大学研究生院。",
-          "url": "https://wallstreetcn.com/livenews/3127002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
         }
       ]
     },
     {
       "keyword_group": "小米 雷军 发布",
-      "match_count": 21,
+      "match_count": 4,
       "titles": [
         {
           "title": "6 月鸿蒙智行交付超 5 万台，小米汽车再破 3 万台，如何看待各家车企表现？行业下半年走势如何？",
@@ -387,8 +76,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时43分 ~ 21时33分]"
+          "appearance_count": 1,
+          "time_info": "00时14分"
         },
         {
           "title": "“新汽车”上半年收官：鸿蒙智行锁定200万辆目标 小米前6月交付超18万",
@@ -396,28 +85,6 @@
           "source": "财联社热门",
           "ranks": [
             5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时32分 ~ 21时33分]"
-        },
-        {
-          "title": "三星预热Galaxy Z Fold8等折叠手机，有望7月22日发布",
-          "url": "https://flash.jin10.com/detail/20260701144400075800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "教育部发布高考招生防诈骗预警",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%83%E9%AB%98%E8%80%83%E6%8B%9B%E7%94%9F%E9%98%B2%E8%AF%88%E9%AA%97%E9%A2%84%E8%AD%A6%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -428,119 +95,44 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355803&amp;topic_name=%E5%AE%9D%E9%A9%AC%E9%94%80%E5%94%AE%E6%8A%B9%E9%BB%91%E5%B0%8F%E7%B1%B3%E8%A2%AB%E7%BD%9A40%E4%B8%87",
           "source": "贴吧",
           "ranks": [
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时43分 ~ 21时33分]"
-        },
-        {
-          "title": "小米高层重大调整",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%AB%98%E5%B1%82%E9%87%8D%E5%A4%A7%E8%B0%83%E6%95%B4%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时43分 ~ 21时33分]"
-        },
-        {
-          "title": "Openclaw 移动版APP发布",
-          "url": "https://search.bilibili.com/all?keyword=Openclaw%20%E7%A7%BB%E5%8A%A8%E7%89%88APP%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时43分 ~ 21时33分]"
-        },
-        {
-          "title": "净利同比最高增超4.6倍！220亿锂电池概念股发布上半年业绩预告|盘后公告集锦",
-          "url": "https://www.cls.cn/detail/2413372",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时56分 ~ 10时06分]"
-        },
-        {
-          "title": "小米高层重大调整",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E9%AB%98%E5%B1%82%E9%87%8D%E5%A4%A7%E8%B0%83%E6%95%B4",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时32分 ~ 21时33分]"
-        },
-        {
-          "title": "小米汽车6月交付超30000台",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A66%E6%9C%88%E4%BA%A4%E4%BB%98%E8%B6%8530000%E5%8F%B0%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 10时06分]"
-        },
-        {
-          "title": "如何评价 Anthropic 最新发布的 Claude Sonnet5？",
-          "url": "https://www.zhihu.com/question/2055567821904547893",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时02分 ~ 15时03分]"
-        },
-        {
-          "title": "观察机构认为：美国劳工统计局（BLS）自2024年以来采取的数据发布措施是不适当的。 BLX仍然需要增强其数据测试和CPI来源。 72家网站服务商接触了2024年年初的美国CPI数据。",
-          "url": "https://wallstreetcn.com/livenews/3126901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
         },
         {
-          "title": "加强纺织工业水污染物排放管控 两部门联合发布行业标准",
-          "url": "https://flash.jin10.com/detail/20260701183106425800",
+          "title": "小米高层重大调整",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%AB%98%E5%B1%82%E9%87%8D%E5%A4%A7%E8%B0%83%E6%95%B4%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国参议院民主党成员Warren：需要立法来防止总统特朗普从加密货币中进一步获利。",
+          "url": "https://wallstreetcn.com/livenews/3127518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        },
+        {
+          "title": "受特朗普关税推动，美密苏里州铝冶炼厂停产两年后将于年底前复产",
+          "url": "https://flash.jin10.com/detail/20260701233647134800",
           "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
-          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
-          "url": "https://wallstreetcn.com/livenews/3126981",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "美国最高法院声明：我们尚未就大法官Alito退休问题发布公告。",
-          "url": "https://wallstreetcn.com/livenews/3126894",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
@@ -549,464 +141,28 @@
           "time_info": "00时14分"
         },
         {
-          "title": "多地发布脑机接口产业专项扶持政策",
-          "url": "https://wallstreetcn.com/livenews/3127012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "市场消息：Anthropic发布Claude Science测试版工具，旨在帮助科学家自动化科研流程，减少重复性工作。",
-          "url": "https://flash.jin10.com/detail/20260701010526378800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "索尼将于2028年1月停止生产PlayStation实体光盘，未来将以仅数字形式发布新游戏。",
-          "url": "https://wallstreetcn.com/livenews/3127417",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
-          "title": "小米公司：6月小米汽车交付量持续超过30000台。",
-          "url": "https://wallstreetcn.com/livenews/3127058",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "巴西国家石油公司发布声明称，将于7月1日起将每升柴油价格下调0.35雷亚尔。",
-          "url": "https://flash.jin10.com/detail/20260701062853451800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "纳睿雷达：发布超460公里探测范围S波段全极化相控阵雷达及AI大模型",
-          "url": "https://wallstreetcn.com/livenews/3127315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "伊朗：未来几天暂无与美方会晤计划",
-          "url": "https://news.ifeng.com/c/8uNt8EVi3KV",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 06时07分]"
-        },
-        {
-          "title": "凤凰女记者：伊朗对霍尔木兹海峡态度十分强硬，只能美国做出妥协",
-          "url": "https://news.ifeng.com/c/8uNZON3SysC",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 06时07分]"
-        },
-        {
-          "title": "据油轮追踪机构：数据显示，伊朗6月出口量折算约166万桶/日，自制裁放松以来累计出口约5000万桶。机构指出，该地区多数国家出口仍未恢复至战前水平。",
-          "url": "https://flash.jin10.com/detail/20260701015640337800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "据油轮追踪机构：自美国制裁放松以来，伊朗已出口约5000万桶石油。",
-          "url": "https://flash.jin10.com/detail/20260701015529200800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "伊朗足协主席发声",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%B6%B3%E5%8D%8F%E4%B8%BB%E5%B8%AD%E5%8F%91%E5%A3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时27分 ~ 06时07分]"
-        },
-        {
-          "title": "美官员：伊朗尚未收到60亿美元的冻结资金 且在其履约前也不会收到",
-          "url": "https://flash.jin10.com/detail/20260701043007688800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "据知情人士透露，伊朗革命卫队已告知调解方，如果在多哈会谈中无法获得伊朗对霍尔木兹海峡拥有唯一控制权的保证，将再次关闭这条航道。 革命卫队还要求美国及其他国家放弃让船只经由靠近阿曼一侧海峡南部水域航行的计划。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3126906",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：以色列和黎巴嫩一致认为，真主党和伊朗必须离开。",
-          "url": "https://wallstreetcn.com/livenews/3126900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "伊朗石油出口在美国封锁解除后超过4000万桶",
-          "url": "https://wallstreetcn.com/livenews/3126957",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "伊朗国防部长：在与国会经济委员会成员们的会议中，我强调，伊朗伊斯兰共和国的防御、导弹和无人机能力是国家安全的红线，这些能力不可谈判，永远不会被谈判。这些能力将依靠国内力量进行发展。",
-          "url": "https://flash.jin10.com/detail/20260701142410501800",
+          "title": "特朗普的顾问哈塞特敦促美联储不要加息",
+          "url": "https://flash.jin10.com/detail/20260701233401857800",
           "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "据纽约邮报：美国政府官员称，美国尚未按照谅解备忘录的规定，释放被冻结的60亿美元伊朗资金用于人道主义物资，并且在德黑兰方面履约之前也不会解冻这些资金。",
-          "url": "https://flash.jin10.com/detail/20260701040559259800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "伊朗队启程回国",
-          "url": "https://wallstreetcn.com/livenews/3126925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "网红 翻车",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "网红李雨禅被警方行政拘留",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E6%9D%8E%E9%9B%A8%E7%A6%85%E8%A2%AB%E8%AD%A6%E6%96%B9%E8%A1%8C%E6%94%BF%E6%8B%98%E7%95%99",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            8,
-            16,
-            19,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 10时06分]"
-        },
-        {
-          "title": "凉凉!百万粉网红诋毁袁隆平被拘",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355711&amp;topic_name=%E5%87%89%E5%87%89%21%E7%99%BE%E4%B8%87%E7%B2%89%E7%BD%91%E7%BA%A2%E8%AF%8B%E6%AF%81%E8%A2%81%E9%9A%86%E5%B9%B3%E8%A2%AB%E6%8B%98",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            24,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 10时06分]"
-        },
-        {
-          "title": "网红博主李雨禅被行拘",
-          "url": "https://www.toutiao.com/trending/7656690346428416042/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            18,
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 06时07分]"
-        },
-        {
-          "title": "千万网红臻臻中考634分",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E7%BD%91%E7%BA%A2%E8%87%BB%E8%87%BB%E4%B8%AD%E8%80%83634%E5%88%86%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时02分 ~ 15时03分]"
-        },
-        {
-          "title": "印网红父母因“熊孩子”大闹越南餐厅",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E7%BD%91%E7%BA%A2%E7%88%B6%E6%AF%8D%E5%9B%A0%E2%80%9C%E7%86%8A%E5%AD%A9%E5%AD%90%E2%80%9D%E5%A4%A7%E9%97%B9%E8%B6%8A%E5%8D%97%E9%A4%90%E5%8E%85",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时02分 ~ 15时03分]"
-        },
-        {
-          "title": "网红程序员回应炒股1年亏130万",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E7%A8%8B%E5%BA%8F%E5%91%98%E5%9B%9E%E5%BA%94%E7%82%92%E8%82%A11%E5%B9%B4%E4%BA%8F130%E4%B8%87%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 10时06分]"
-        },
-        {
-          "title": "网红出租车甘A88888招手即停",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%87%BA%E7%A7%9F%E8%BD%A6%E7%94%98A88888%E6%8B%9B%E6%89%8B%E5%8D%B3%E5%81%9C%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
-          "url": "https://wallstreetcn.com/articles/3775727",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 06时07分]"
-        },
-        {
-          "title": "谷歌公司：现在可以在移动端通过Drive Now向Gemini提问。",
-          "url": "https://wallstreetcn.com/livenews/3126939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：发布适用于macOS的Gemini Spark，并扩展了应用程序集成。",
-          "url": "https://flash.jin10.com/detail/20260701050716207800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "谷歌公司：在Google Slides中使用Gemini生成多页演示文稿。",
-          "url": "https://wallstreetcn.com/livenews/3126892",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
           "time_info": "00时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "现货黄金短线拉升20美元，向上触及4040美元/盎司，日内涨0.83%。纽约期金站上4050美元/盎司，日内涨0.28%。美元指数DXY短线走低近10点，报101.45。",
-          "url": "https://flash.jin10.com/detail/20260701212358203800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
-          "title": "美元指数在6月份涨超2.2%",
-          "url": "https://wallstreetcn.com/livenews/3126960",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 06时07分]"
-        },
-        {
-          "title": "美元指数30日上涨",
-          "url": "https://flash.jin10.com/detail/20260701040422983800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "如何评价 deepseek2026 年 6 月 29 日再次调整收费标准？",
-          "url": "https://www.zhihu.com/question/2055040930516824522",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1,
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 07时57分]"
-        },
         {
           "title": "如何看待 DeepSeek 招聘多处点名要求 Rust？",
           "url": "https://www.zhihu.com/question/2054320593491715458",
           "source": "知乎",
           "ranks": [
-            19,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时43分 ~ 21时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大模型",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "大模型领域技术专家孙天祥就任百度基础模型研发部负责人",
-          "url": "https://wallstreetcn.com/livenews/3127436",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
-        },
-        {
-          "title": "美团开源万亿参数大模型 longcat-2.0，将对大模型领域和 AI 行业产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2055252813568119737",
-          "source": "知乎",
-          "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai 发布",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI首席经济学家称AI不会取代人类劳动者",
-          "url": "https://wallstreetcn.com/livenews/3126913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1023,12 +179,11 @@
           "url": "https://www.zhihu.com/question/2053257491765581754",
           "source": "知乎",
           "ranks": [
-            20,
-            17
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时43分 ~ 21时33分]"
+          "appearance_count": 1,
+          "time_info": "00时14分"
         }
       ]
     }
