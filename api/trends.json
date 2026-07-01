@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T07:57:06.679883+08:00",
-  "total_titles_processed": 702,
+  "generated_at": "2026-07-01T10:06:01.707718+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
@@ -23,11 +23,12 @@
           "url": "https://v.ifeng.com/c/8uNtTRMWXNr",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时56分 ~ 07时57分]"
+          "appearance_count": 4,
+          "time_info": "[07时56分 ~ 10时06分]"
         },
         {
           "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
@@ -59,8 +60,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时56分 ~ 07时57分]"
+          "appearance_count": 4,
+          "time_info": "[07时56分 ~ 10时06分]"
         },
         {
           "title": "特朗普再遭打击！美最高法院驳回限制“出生公民权”行政令",
@@ -72,6 +73,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时56分 ~ 07时57分]"
+        },
+        {
+          "title": "特朗普在最高法院输了，为什么又扯上中国？",
+          "url": "https://news.ifeng.com/c/8uOgMuQGNSM",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
         },
         {
           "title": "美伊谈判前途未卜：特朗普称周二将在多哈谈，伊朗否认计划会谈，以防长称以伊明天就可能重开战火",
@@ -124,7 +136,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -168,7 +180,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -278,7 +290,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         }
@@ -413,7 +425,7 @@
     },
     {
       "keyword_group": "小米 雷军 发布",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "教育部发布高考招生防诈骗预警",
@@ -431,11 +443,23 @@
           "url": "https://www.cls.cn/detail/2413372",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时56分 ~ 10时06分]"
+        },
+        {
+          "title": "小米汽车6月交付超30000台",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A66%E6%9C%88%E4%BA%A4%E4%BB%98%E8%B6%8530000%E5%8F%B0%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时56分 ~ 07时57分]"
+          "time_info": "[10时05分 ~ 10时06分]"
         },
         {
           "title": "观察机构认为：美国劳工统计局（BLS）自2024年以来采取的数据发布措施是不适当的。 BLX仍然需要增强其数据测试和CPI来源。 72家网站服务商接触了2024年年初的美国CPI数据。",
@@ -477,7 +501,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -493,13 +517,24 @@
           "time_info": "02时27分"
         },
         {
+          "title": "小米公司：6月小米汽车交付量持续超过30000台。",
+          "url": "https://wallstreetcn.com/livenews/3127058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "巴西国家石油公司发布声明称，将于7月1日起将每升柴油价格下调0.35雷亚尔。",
           "url": "https://flash.jin10.com/detail/20260701062853451800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         }
@@ -557,7 +592,7 @@
     },
     {
       "keyword_group": "网红 翻车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "网红李雨禅被警方行政拘留",
@@ -571,8 +606,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 07时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 10时06分]"
         },
         {
           "title": "凉凉!百万粉网红诋毁袁隆平被拘",
@@ -581,11 +616,12 @@
           "ranks": [
             23,
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 07时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 10时06分]"
         },
         {
           "title": "网红博主李雨禅被行拘",
@@ -600,6 +636,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时14分 ~ 06时07分]"
+        },
+        {
+          "title": "网红程序员回应炒股1年亏130万",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E7%A8%8B%E5%BA%8F%E5%91%98%E5%9B%9E%E5%BA%94%E7%82%92%E8%82%A11%E5%B9%B4%E4%BA%8F130%E4%B8%87%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
         }
       ]
     },
