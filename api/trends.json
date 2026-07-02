@@ -1,96 +1,11 @@
 {
-  "generated_at": "2026-07-03T04:50:24.230034+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2026-07-03T05:57:22.020470+08:00",
+  "total_titles_processed": 537,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "小米 雷军 发布",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "据以色列媒体：此前发布的防空警报为误报，是在以色列部队开火后启动的。",
-          "url": "https://flash.jin10.com/detail/20260703005922157800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "月供五百开SU7?小米拿捏年轻人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355844&amp;topic_name=%E6%9C%88%E4%BE%9B%E4%BA%94%E7%99%BE%E5%BC%80SU7%3F%E5%B0%8F%E7%B1%B3%E6%8B%BF%E6%8D%8F%E5%B9%B4%E8%BD%BB%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 04时50分]"
-        },
-        {
-          "title": "小米卢伟冰称「失控的成本已经席卷了整个手机市场，而千元机毫无疑问受伤最严重」，如何看待这一言论？",
-          "url": "https://www.zhihu.com/question/2055964863189537048",
-          "source": "知乎",
-          "ranks": [
-            7,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 04时50分]"
-        },
-        {
-          "title": "宝马销售抹黑小米被罚40万",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355803&amp;topic_name=%E5%AE%9D%E9%A9%AC%E9%94%80%E5%94%AE%E6%8A%B9%E9%BB%91%E5%B0%8F%E7%B1%B3%E8%A2%AB%E7%BD%9A40%E4%B8%87",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 04时50分]"
-        },
-        {
-          "title": "Meta Platforms(META.O)CTO：鼠标追踪软件在发布前经过了隐私、法律和其他方面的审查。",
-          "url": "https://flash.jin10.com/detail/20260703040521349800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌1.77%，结束此前连续四个交易日反弹的趋势，报5912.23点，本周迄今累涨3.18%。 热门中概股里，百度初步收跌约4%，蔚来、小鹏跌超3%，日月光半导体跌2.7%，网易跌1.9%，腾讯跌1.8%，阿里跌1.5%，美团涨1.6%，小米涨2.7%，比亚迪涨3.1%。 ETF中，中国科技指数ETF（CQQQ）收跌5.26%，本周迄今累跌0.37%； XtrackersHarvest中证50（ASHS）收跌4.31%，本周迄今累跌1.32%； 德银嘉实沪深300指数ETF（ASHR）收跌3.25%，本周迄今累跌1.96%，延续上周跌1.29%的表现； MSCI新兴市场ex中国ETF（EMXC）收跌1.57%，本周迄今累跌3.07%，延续上周回撤5.39%的表现； 中概互联网指数ETF（KWEB）收跌0.52%，本周迄今反弹4.39%。",
-          "url": "https://wallstreetcn.com/livenews/3128207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "奕境汽车发布“天穹智盾”安全架构，新车将于三季度上市交付",
-          "url": "https://wallstreetcn.com/livenews/3128130",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 29,
       "titles": [
         {
           "title": "美国财政部：财政部与国税局将接受大型上市公司股票捐赠，为“特朗普账户”儿童金融账户计划提供支持。",
@@ -104,6 +19,72 @@
           "time_info": "03时05分"
         },
         {
+          "title": "美国总统特朗普：不管人工智能是好是坏， 我们已经用上这项技术了。",
+          "url": "https://flash.jin10.com/detail/20260703053547693800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
+          "title": "美国总统特朗普：（关于住房法案）没问题。",
+          "url": "https://flash.jin10.com/detail/20260703053454150800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
+          "title": "特朗普谈伊朗：这是无核化，我认为这是政权更迭",
+          "url": "https://wallstreetcn.com/livenews/3128242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
+          "title": "美国总统特朗普：我在做同样的关税，但形势更加严峻了。",
+          "url": "https://wallstreetcn.com/livenews/3128241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
+          "title": "特朗普：将通过“打赢官司”继续推动解雇美联储理事库克",
+          "url": "https://flash.jin10.com/detail/20260703053345539800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
+          "title": "美国总统特朗普被问及国会山已经表决通过的住房立法草案（但他本人迟迟没有签字生效为法律），称：情况不错。 其中存在大量由民主党议员们提出的观点。 在国会山通过选民身份问题之前，我不想签署住房草案。",
+          "url": "https://wallstreetcn.com/livenews/3128240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
           "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
           "source": "澎湃新闻",
@@ -112,19 +93,119 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 04时50分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 05时57分]"
         },
         {
           "title": "特朗普参加活动后直接拿走剪刀",
           "url": "https://www.toutiao.com/trending/7656820359463518259/",
           "source": "今日头条",
           "ranks": [
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 05时57分]"
+        },
+        {
+          "title": "美国总统特朗普：美国必须在人工智能领域领先。",
+          "url": "https://flash.jin10.com/detail/20260703053041502800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
+          "title": "美国总统特朗普：我在英伟达(NVDA.O)中持有非常少量的股票。",
+          "url": "https://flash.jin10.com/detail/20260703053013791800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
+          "title": "美国总统特朗普：（被问及加密货币收益）我对此一无所知。",
+          "url": "https://flash.jin10.com/detail/20260703052841893800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
+          "title": "美国总统特朗普：无论好坏，我们都有AI。",
+          "url": "https://wallstreetcn.com/livenews/3128236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
+          "title": "美国总统特朗普：我在任职总统前就涉足加密货币领域。",
+          "url": "https://flash.jin10.com/detail/20260703052743163800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
+          "title": "美国总统特朗普谈家族加密货币生意，声称：在（再次）担任总统之前就有了。 我希望我们在加密货币领域是第一的，事实上也是如此。 我们必须在加密货币领域领先。 对于加密货币收益，我一无所知；这样的收益并不违法。",
+          "url": "https://wallstreetcn.com/livenews/3128235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
+          "title": "美国总统特朗普：我的生意都是我孩子在打理，我一点儿也不插手。",
+          "url": "https://flash.jin10.com/detail/20260703052511433800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
+          "title": "美国总统特朗普：我持有一些英伟达股票，但我认为很少。 赞赏英伟达CEO黄仁勋。",
+          "url": "https://wallstreetcn.com/livenews/3128234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
+          "title": "美国总统特朗普：我根本不参与我的生意。",
+          "url": "https://flash.jin10.com/detail/20260703052510223800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
         },
         {
           "title": "特朗普经济幕僚哈塞特批评鲍威尔继续留在美联储",
@@ -138,6 +219,39 @@
           "time_info": "03时05分"
         },
         {
+          "title": "特朗普：美联储主席沃什必须做他必须做的事",
+          "url": "https://wallstreetcn.com/livenews/3128233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
+          "title": "美国总统特朗普：（被问及财务状况时）盛赞股市。",
+          "url": "https://flash.jin10.com/detail/20260703052505649800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
+          "title": "美国总统特朗普赞赏股市上涨。 被问及财务状况时，再次赞赏股市。 “我的生意都是我孩子打理的，（担任总统期间）我不参与”。 “我让别人投资我的钱，我不知道他们是谁。”（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3128232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
           "title": "市场消息：美国上诉法院撤销了要求特朗普政府重新安装从国家公园移除的、涉及奴隶制和气候变化等主题的展览的命令。",
           "url": "https://flash.jin10.com/detail/20260703004136398800",
           "source": "金十数据",
@@ -149,13 +263,57 @@
           "time_info": "01时24分"
         },
         {
+          "title": "美国总统特朗普：将开始启动将美联储理事库克从美联储“移除”的程序。",
+          "url": "https://flash.jin10.com/detail/20260703052127745800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
+          "title": "美国总统特朗普：（关于最高法院驳回解雇联储美联储理事库克的请求）我们可以通过赢得案件让她离开。",
+          "url": "https://flash.jin10.com/detail/20260703052048384800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
+          "title": "美国总统特朗普：美国GDP（增速）应在12%至13%之间。",
+          "url": "https://flash.jin10.com/detail/20260703052019481800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
+          "title": "美国总统特朗普：美联储主席沃什有一个稍显敌对的理事会。",
+          "url": "https://flash.jin10.com/detail/20260703051818744800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
           "title": "美国官员称：面向新生儿的“特朗普账户”将接受股票捐赠",
           "url": "https://wallstreetcn.com/livenews/3128200",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         },
@@ -173,8 +331,118 @@
       ]
     },
     {
+      "keyword_group": "小米 雷军 发布",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "美国电网运营巨头PJM互联公司（PJM Interconnection LLC）因为高温高热天气而发布二级电网紧急警报。",
+          "url": "https://wallstreetcn.com/livenews/3128243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
+          "title": "月供五百开SU7?小米拿捏年轻人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355844&amp;topic_name=%E6%9C%88%E4%BE%9B%E4%BA%94%E7%99%BE%E5%BC%80SU7%3F%E5%B0%8F%E7%B1%B3%E6%8B%BF%E6%8D%8F%E5%B9%B4%E8%BD%BB%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 05时57分]"
+        },
+        {
+          "title": "据以色列媒体：此前发布的防空警报为误报，是在以色列部队开火后启动的。",
+          "url": "https://flash.jin10.com/detail/20260703005922157800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "小米卢伟冰称「失控的成本已经席卷了整个手机市场，而千元机毫无疑问受伤最严重」，如何看待这一言论？",
+          "url": "https://www.zhihu.com/question/2055964863189537048",
+          "source": "知乎",
+          "ranks": [
+            7,
+            11,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 05时57分]"
+        },
+        {
+          "title": "宝马销售抹黑小米被罚40万",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355803&amp;topic_name=%E5%AE%9D%E9%A9%AC%E9%94%80%E5%94%AE%E6%8A%B9%E9%BB%91%E5%B0%8F%E7%B1%B3%E8%A2%AB%E7%BD%9A40%E4%B8%87",
+          "source": "贴吧",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 05时57分]"
+        },
+        {
+          "title": "Meta Platforms(META.O)CTO：鼠标追踪软件在发布前经过了隐私、法律和其他方面的审查。",
+          "url": "https://flash.jin10.com/detail/20260703040521349800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.77%，结束此前连续四个交易日反弹的趋势，报5912.23点，本周迄今累涨3.18%。 热门中概股里，百度初步收跌约4%，蔚来、小鹏跌超3%，日月光半导体跌2.7%，网易跌1.9%，腾讯跌1.8%，阿里跌1.5%，美团涨1.6%，小米涨2.7%，比亚迪涨3.1%。 ETF中，中国科技指数ETF（CQQQ）收跌5.26%，本周迄今累跌0.37%； XtrackersHarvest中证50（ASHS）收跌4.31%，本周迄今累跌1.32%； 德银嘉实沪深300指数ETF（ASHR）收跌3.25%，本周迄今累跌1.96%，延续上周跌1.29%的表现； MSCI新兴市场ex中国ETF（EMXC）收跌1.57%，本周迄今累跌3.07%，延续上周回撤5.39%的表现； 中概互联网指数ETF（KWEB）收跌0.52%，本周迄今反弹4.39%。",
+          "url": "https://wallstreetcn.com/livenews/3128207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "美国电网运营巨头PJM互联公司（PJM Interconnection LLC）更新炎热天气的运营情况。 针对7月3日发布“最大化发电警报”。 现阶段针对7月3日发布电网负荷管理警告。 针对炎热天气的（用电）警报有效期至少将持续至7月4日。",
+          "url": "https://wallstreetcn.com/livenews/3128225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
+          "title": "奕境汽车发布“天穹智盾”安全架构，新车将于三季度上市交付",
+          "url": "https://wallstreetcn.com/livenews/3128130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "韩国 KOSPI 指数大跌 8%，SK 海力士暴跌 14%，单日蒸发 1600 亿美元市值，如何解读？",
@@ -183,11 +451,24 @@
           "ranks": [
             11,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 04时50分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 05时57分]"
+        },
+        {
+          "title": "北美科技软件股指数ETF涨0.25%，报93.57美元，整体高开低走。 Global X网络安全ETF涨0.38%，纳斯达克网络安全ETF跌0.48%，ETFMG网络安全ETF跌0.12%",
+          "url": "https://wallstreetcn.com/livenews/3128214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时57分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.05%，暂报2187.21点，整体持续震荡上行。 MarketVectorTM数字资产100中盘指数涨3.35%，报2532.09点。 MarketVector数字资产100指数涨3.33%，报12304.78点。 目前，Solana涨4.41%，狗狗币涨2.28%，XRP涨2.96%。 比特币涨2.59%，暂报61616.63美元，整体呈现出长尾W形走势；以太坊涨5.05%，暂报1699美元。",
@@ -202,26 +483,26 @@
           "time_info": "[01时24分 ~ 03时05分]"
         },
         {
-          "title": "北美科技软件股指数ETF涨0.25%，报93.57美元，整体高开低走。 Global X网络安全ETF涨0.38%，纳斯达克网络安全ETF跌0.48%，ETFMG网络安全ETF跌0.12%",
-          "url": "https://wallstreetcn.com/livenews/3128214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
           "title": "美元指数在非农日跌超0.4%",
           "url": "https://wallstreetcn.com/livenews/3128198",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "美元指数2日下跌",
+          "url": "https://flash.jin10.com/detail/20260703050814356800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
         },
         {
           "title": "周四（7月2日）纽约尾盘，彭博谷物分类指数涨0.04%，报29.5199点，亚太早盘维持微幅上涨状态，北京时间15:00过后持续扩大涨幅，21:42刷新日高至29.7725点，随后持续回吐涨幅并多次转跌。 CBOT玉米期货跌0.34%，报4.4075美元/蒲式耳。 CBOT小麦期货涨0.04%，报6.0025美元/蒲式耳。 CBOT大豆期货跌0.22%，报11.4675美元/蒲式耳，豆粕期货跌0.10%，豆油期货涨0.21%。",
@@ -230,7 +511,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         }
@@ -247,7 +528,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         },
@@ -280,7 +561,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         }
@@ -297,11 +578,12 @@
           "ranks": [
             13,
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 04时50分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 05时57分]"
         },
         {
           "title": "出现性能下降问题 DeepSeek回应",
@@ -310,11 +592,12 @@
           "ranks": [
             24,
             25,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 04时50分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 05时57分]"
         },
         {
           "title": "为什么现在 DeepSeek 快速模式豆包化？",
@@ -322,18 +605,41 @@
           "source": "知乎",
           "ranks": [
             16,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时05分 ~ 04时50分]"
+          "appearance_count": 3,
+          "time_info": "[03时05分 ~ 05时57分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai 发布",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美国总统特朗普被问及OpenAI股份时，提到了英特尔(INTC.O)股份（美国政府入股了英特尔）。",
+          "url": "https://flash.jin10.com/detail/20260703053218844800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
+          "title": "美国总统特朗普被问及入股OpenAI，拿英特尔举例。",
+          "url": "https://wallstreetcn.com/livenews/3128237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
         {
           "title": "传特朗普政府未与Anthropic讨论入股 OpenAI曾涉5%股权提议",
           "url": "https://flash.jin10.com/detail/20260703004456845800",
