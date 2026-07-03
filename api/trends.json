@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T19:24:10.380671+08:00",
-  "total_titles_processed": 1372,
+  "generated_at": "2026-07-03T21:29:10.310732+08:00",
+  "total_titles_processed": 1509,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 66,
       "titles": [
         {
           "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
@@ -55,6 +55,20 @@
           "time_info": "05时57分"
         },
         {
+          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时40分 ~ 21时29分]"
+        },
+        {
           "title": "美国总统特朗普：（关于住房法案）没问题。",
           "url": "https://flash.jin10.com/detail/20260703053454150800",
           "source": "金十数据",
@@ -86,6 +100,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
+        },
+        {
+          "title": "特朗普说自己是对以色列最好的总统",
+          "url": "https://wallstreetcn.com/livenews/3128731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
+          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
+          "url": "https://wallstreetcn.com/articles/3776099",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时44分 ~ 21时29分]"
         },
         {
           "title": "特朗普谈伊朗：这是无核化，我认为这是政权更迭",
@@ -124,30 +160,6 @@
           "time_info": "[05时57分 ~ 06时55分]"
         },
         {
-          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时40分 ~ 19时24分]"
-        },
-        {
-          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
-          "url": "https://wallstreetcn.com/articles/3776099",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时44分 ~ 19时24分]"
-        },
-        {
           "title": "特朗普参加活动后直接拿走剪刀",
           "url": "https://www.toutiao.com/trending/7656820359463518259/",
           "source": "今日头条",
@@ -158,6 +170,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时23分 ~ 05时57分]"
+        },
+        {
+          "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
+          "url": "https://news.ifeng.com/c/8uSuVg66mIs",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
         },
         {
           "title": "特朗普重申：伊朗将从美国购买食品",
@@ -732,7 +755,7 @@
     },
     {
       "keyword_group": "小米 雷军 发布",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "月供五百开SU7?小米拿捏年轻人",
@@ -747,8 +770,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时23分 ~ 19时24分]"
+          "appearance_count": 15,
+          "time_info": "[01时23分 ~ 21时29分]"
         },
         {
           "title": "国家发改委价格监测中心副主任刘刚带队赴小米集团开展工作调研，哪些信息值得关注？",
@@ -757,11 +780,12 @@
           "ranks": [
             11,
             5,
-            3
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时29分 ~ 19时24分]"
+          "appearance_count": 7,
+          "time_info": "[09时29分 ~ 21时29分]"
         },
         {
           "title": "宝马销售抹黑小米被罚40万",
@@ -837,6 +861,18 @@
           "time_info": "[05时57分 ~ 06时55分]"
         },
         {
+          "title": "小米高管评老企业不敢承诺十年包修",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E8%AF%84%E8%80%81%E4%BC%81%E4%B8%9A%E4%B8%8D%E6%95%A2%E6%89%BF%E8%AF%BA%E5%8D%81%E5%B9%B4%E5%8C%85%E4%BF%AE%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时23分 ~ 21时29分]"
+        },
+        {
           "title": "3人发布涉赛格坠楼事件谣言被罚",
           "url": "https://www.douyin.com/hot/2556198",
           "source": "抖音",
@@ -858,17 +894,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时55分 ~ 07时54分]"
-        },
-        {
-          "title": "小米高管评老企业不敢承诺十年包修",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E8%AF%84%E8%80%81%E4%BC%81%E4%B8%9A%E4%B8%8D%E6%95%A2%E6%89%BF%E8%AF%BA%E5%8D%81%E5%B9%B4%E5%8C%85%E4%BF%AE%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时23分 ~ 19时24分]"
         },
         {
           "title": "人社部拟发布12个新职业",
@@ -902,6 +927,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "申万菱信基金发布公告称，副总经理贾成东因个人原因而离任，付娟新任公司总经理助理。",
+          "url": "https://wallstreetcn.com/livenews/3128722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         },
         {
           "title": "Meta Platforms(META.O)CTO：鼠标追踪软件在发布前经过了隐私、法律和其他方面的审查。",
@@ -970,6 +1006,28 @@
           "time_info": "16时44分"
         },
         {
+          "title": "中国结算发布《债券通用质押式回购交易结算委托协议必备条款（试行）》和《债券通用质押式回购交易结算风险揭示书必备条款（试行）》的通知。",
+          "url": "https://wallstreetcn.com/livenews/3128707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
+          "title": "市场监管总局发布多项宇航领域国家标准",
+          "url": "https://wallstreetcn.com/livenews/3128706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
           "title": "雷军称小米YU7少量现车1至5周交付",
           "url": "https://www.toutiao.com/trending/7657917551999795236/",
           "source": "今日头条",
@@ -995,29 +1053,53 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
           "url": "https://v.ifeng.com/c/8uSml4XgzRh",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时23分 ~ 19时24分]"
+          "appearance_count": 4,
+          "time_info": "[19时23分 ~ 21时29分]"
+        },
+        {
+          "title": "伊朗议长：霍尔木兹海峡应由伊朗和阿曼共同管理",
+          "url": "https://wallstreetcn.com/livenews/3128732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         },
         {
           "title": "伊朗革命卫队总司令现身",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%E6%80%BB%E5%8F%B8%E4%BB%A4%E7%8E%B0%E8%BA%AB",
           "source": "百度热搜",
           "ranks": [
-            7
+            7,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时23分 ~ 19时24分]"
+          "appearance_count": 4,
+          "time_info": "[19时23分 ~ 21时29分]"
+        },
+        {
+          "title": "伊朗议长：霍尔木兹海峡应由伊朗和阿曼共同管理",
+          "url": "https://flash.jin10.com/detail/20260703210217525800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         },
         {
           "title": "伊朗为已故最高领袖哈梅内伊举行遗体告别仪式",
@@ -1053,6 +1135,17 @@
           "time_info": "04时50分"
         },
         {
+          "title": "伊朗总统出席已故最高领袖告别仪式",
+          "url": "https://wallstreetcn.com/livenews/3128721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
           "title": "学者警告：伊朗正将霍尔木兹海峡控制常态化",
           "url": "https://flash.jin10.com/detail/20260703021810181800",
           "source": "金十数据",
@@ -1062,6 +1155,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "伊朗已开始就向日本企业出售石油进行谈判。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3128714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         },
         {
           "title": "国际原子能机构：尚未获准进入伊朗核设施",
@@ -1324,7 +1428,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         }
