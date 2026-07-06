@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T19:20:35.235352+08:00",
-  "total_titles_processed": 1151,
+  "generated_at": "2026-07-06T22:51:15.653794+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
@@ -52,8 +52,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 19时20分]"
+          "appearance_count": 6,
+          "time_info": "[09时50分 ~ 22时51分]"
         },
         {
           "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
@@ -80,6 +80,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时50分 ~ 14时16分]"
+        },
+        {
+          "title": "特朗普称其与普京进行了“非常好的通话”",
+          "url": "https://flash.jin10.com/detail/20260706222955103800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "特朗普称其与普京进行了“非常好的通话”",
+          "url": "https://wallstreetcn.com/livenews/3129447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "多数美国选民认为特朗普对伊朗开战得不偿失",
@@ -113,6 +135,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "美国总统特朗普：我是加密货币的死忠（big fan）。 我不会与子女们讨论加密货币投资。",
+          "url": "https://wallstreetcn.com/livenews/3129440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "特朗普称已就美国队球员红牌判罚与国际足联主席通话",
+          "url": "https://wallstreetcn.com/livenews/3129439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "美国总统特朗普：我要向“Freedom 250”、伟大的白宫委员会以及Pyrotecnico公司表示祝贺，感谢你们呈现了我所见过的最壮观的烟花表演——我可是几乎看过所有大型烟花秀。祝贺你们出色完成了这项工作！",
@@ -273,6 +317,17 @@
           "time_info": "[02时56分 ~ 04时06分]"
         },
         {
+          "title": "特朗普插手世界杯红牌",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%92%E6%89%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BA%A2%E7%89%8C%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 22时51分]"
+        },
+        {
           "title": "特朗普将自己头像加在林肯旁边",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E8%87%AA%E5%B7%B1%E5%A4%B4%E5%83%8F%E5%8A%A0%E5%9C%A8%E6%9E%97%E8%82%AF%E6%97%81%E8%BE%B9%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -283,6 +338,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时04分 ~ 07时54分]"
+        },
+        {
+          "title": "美国总统特朗普称赞国际足联主席凡蒂诺是个聪明人。",
+          "url": "https://flash.jin10.com/detail/20260706222335455800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "民调：美伊冲突被指“得不偿失”，特朗普支持率跌至36%",
@@ -296,6 +362,28 @@
           "time_info": "14时16分"
         },
         {
+          "title": "美国总统特朗普：裁判对巴洛贡的红牌判罚真是糟糕。",
+          "url": "https://flash.jin10.com/detail/20260706222154844800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "美国总统特朗普：国际足联做出了正确的决定。",
+          "url": "https://flash.jin10.com/detail/20260706222034528800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "特朗普一个电话改写世界杯？FIFA撤销红牌引爆“政治干预体育”风暴",
           "url": "https://flash.jin10.com/detail/20260706065107849800",
           "source": "金十数据",
@@ -305,6 +393,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "美国总统特朗普：我没有告诉国际足联该怎么做。",
+          "url": "https://flash.jin10.com/detail/20260706222029033800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "美国总统特朗普：我们已经在伊朗问题上获得（对方）让步。 更倾向于达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3129432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "美国总统特朗普：要求国际足联对巴洛贡的红牌进行复审。",
+          "url": "https://flash.jin10.com/detail/20260706221803596800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "白宫新闻秘书莱维特：财政部已正式推出特朗普账户项目，本届政府希望借助该项目提升下一代民众的金融素养，帮助他们理解投资的价值。",
@@ -329,6 +450,39 @@
           "time_info": "09时50分"
         },
         {
+          "title": "特朗普：早期投资是关键 股市将“一飞冲天”",
+          "url": "https://flash.jin10.com/detail/20260706221724274800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "美国总统特朗普称他看过比赛了，巴洛贡没有犯规。",
+          "url": "https://flash.jin10.com/detail/20260706221723051800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "美国总统特朗普：与国际足联主席因凡蒂诺谈了红牌问题。",
+          "url": "https://flash.jin10.com/detail/20260706221520447800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "特朗普发文感谢国际足联",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -351,6 +505,28 @@
           "time_info": "01时04分"
         },
         {
+          "title": "美国总统特朗普证实其致电国际足联主席。",
+          "url": "https://flash.jin10.com/detail/20260706221344903800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "美国总统特朗普：我们没有给伊朗任何资金。",
+          "url": "https://flash.jin10.com/detail/20260706221021791800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "白宫官员：特朗普将在北约之行期间与土耳其总统埃尔多安举行会晤。",
           "url": "https://flash.jin10.com/detail/20260706011411437800",
           "source": "金十数据",
@@ -360,6 +536,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）要么达成协议，要么完成任务。更愿意达成协议。",
+          "url": "https://flash.jin10.com/detail/20260706221015120800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "白宫：特朗普将在北约峰会期间与乌克兰和叙利亚领导人举行双边会晤。",
@@ -379,9 +566,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
+        },
+        {
+          "title": "美国总统特朗普：股市将迎来大涨。 美国财长贝森特表现出色。",
+          "url": "https://wallstreetcn.com/livenews/3129419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我和特朗普在愿景上意见一致，虽然可能会出现分歧，但我们坦率而公开地讨论它们，并且通常能达成解决方案。",
@@ -395,6 +593,39 @@
           "time_info": "01时04分"
         },
         {
+          "title": "美国总统特朗普：（关于伊朗）不寻求政权更迭。",
+          "url": "https://flash.jin10.com/detail/20260706220832682800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "戴尔涨幅扩大至3%，特朗普称赞戴尔公司对特朗普账户的捐款，让大家去买戴尔电脑",
+          "url": "https://wallstreetcn.com/livenews/3129418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）我们已获得让步。",
+          "url": "https://flash.jin10.com/detail/20260706220805560800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：（谈到与特朗普的关系）我不认为我们之间有裂痕。与其他盟友不同，我们与美国并肩作战，在99%的情况下，我和美国总统的看法是一致的。",
           "url": "https://flash.jin10.com/detail/20260705231132842800",
           "source": "金十数据",
@@ -404,12 +635,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "美国总统特朗普：（谈俄乌冲突）我认为我们正在越来越接近（结束冲突）。",
+          "url": "https://flash.jin10.com/detail/20260706220649466800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "美国总统特朗普：将与北约讨论俄罗斯-乌克兰问题。",
+          "url": "https://flash.jin10.com/detail/20260706220630651800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "伊拉克女信众：哈梅内伊不仅属于伊朗，是所有人的领袖",
@@ -438,6 +691,17 @@
           "time_info": "[02时55分 ~ 07时54分]"
         },
         {
+          "title": "现场：伊朗民众向灵车抛投鲜花、头巾",
+          "url": "https://news.ifeng.com/c/8uXrYG1lG4D",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 22时51分]"
+        },
+        {
           "title": "伊朗官员称该国已恢复与卡塔尔的海上贸易",
           "url": "https://wallstreetcn.com/livenews/3129009",
           "source": "华尔街见闻-快讯",
@@ -451,13 +715,24 @@
           "time_info": "[01时04分 ~ 07时54分]"
         },
         {
+          "title": "“不为棒棒糖放弃钻石” 分析称伊朗势必放慢谈判并巩固海峡控制",
+          "url": "https://flash.jin10.com/detail/20260706222931845800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "伊朗借哈梅内伊国葬释放3个政治讯息",
           "url": "https://news.ifeng.com/c/8uXROeZKlPw",
           "source": "凤凰网",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -571,7 +846,7 @@
     },
     {
       "keyword_group": "小米 雷军 发布",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "【早报】华为发布V2版“韬定律”论文；豆包、千问：智能体功能将下线",
@@ -584,6 +859,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时04分 ~ 09时50分]"
+        },
+        {
+          "title": "伊朗最高领袖发布任免令",
+          "url": "https://news.ifeng.com/c/8uX0AQwmuwO",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时50分 ~ 22时51分]"
         },
         {
           "title": "广东一医院发布2型糖尿病干预新方案",
@@ -601,26 +890,13 @@
           "time_info": "[01时04分 ~ 06时46分]"
         },
         {
-          "title": "伊朗最高领袖发布任免令",
-          "url": "https://news.ifeng.com/c/8uX0AQwmuwO",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 19时20分]"
-        },
-        {
           "title": "广西升级发布洪水橙色预警，六蓝水库坝体出现缺口，有当地人能讲讲洪水具体情况吗？基本生活保障还跟得上吗？",
           "url": "https://www.zhihu.com/question/2057468723867526509",
           "source": "知乎",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -650,6 +926,17 @@
           "time_info": "[14时15分 ~ 19时20分]"
         },
         {
+          "title": "如何评价腾讯 7 月 6 日发布的混元 Hy3 ？",
+          "url": "https://www.zhihu.com/question/2057495402358596554",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 22时51分]"
+        },
+        {
           "title": "二季度净利环比增长114%-240%！近800亿光纤龙头发布上半年业绩预告|盘后公告集锦",
           "url": "https://www.cls.cn/detail/2417364",
           "source": "财联社热门",
@@ -661,15 +948,37 @@
           "time_info": "[14时15分 ~ 14时16分]"
         },
         {
+          "title": "贵港发布通报澄清水库险情谣言",
+          "url": "https://www.douyin.com/hot/2560639",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 22时51分]"
+        },
+        {
           "title": "“最懂苹果分析师”郭明錤：折叠屏iPhone或“联合发布但推迟上市，年底前供货紧张”",
           "url": "https://wallstreetcn.com/articles/3776239",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
+        },
+        {
+          "title": "香港天文台发布红色暴雨警告。",
+          "url": "https://wallstreetcn.com/livenews/3129424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "广西发布洪水橙色预警，65条河流82个站超警",
@@ -681,6 +990,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "网红 翻车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "网红董太太采访的太阳宫月亮宫小少爷平儿，摒弃数理化，不上学，在家学易经奇门遁甲，如何看待这种教育方式？",
+          "url": "https://www.zhihu.com/question/2055157666142541293",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 22时51分]"
+        },
+        {
+          "title": "网红回应西藏文旅奖50万：捐赠48万",
+          "url": "https://www.toutiao.com/trending/7658945797161012763/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
         }
       ]
     },
@@ -732,26 +1069,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "网红 翻车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "网红回应西藏文旅奖50万：捐赠48万",
-          "url": "https://www.toutiao.com/trending/7658945797161012763/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时04分"
+          "time_info": "19时20分"
         }
       ]
     }
