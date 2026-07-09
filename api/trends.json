@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T14:44:10.220753+08:00",
-  "total_titles_processed": 1021,
+  "generated_at": "2026-07-09T18:17:28.918857+08:00",
+  "total_titles_processed": 1220,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 84,
+      "match_count": 88,
       "titles": [
         {
           "title": "战火重燃，伊朗革命卫队处境艰难",
@@ -182,7 +182,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -242,6 +242,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "伊朗革命卫队指挥官：美以图谋在伊境内建立反政府组织",
+          "url": "https://wallstreetcn.com/livenews/3131288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "美军连续第二天袭击伊朗",
@@ -329,6 +340,19 @@
           "time_info": "[05时57分 ~ 06时54分]"
         },
         {
+          "title": "美军称再次对伊朗发起打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33546490",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 18时17分]"
+        },
+        {
           "title": "美军再袭伊朗致多人受伤，伊朗总统启程回国，强度是 10 天前四五倍，如何看待此轮打击？",
           "url": "https://www.zhihu.com/question/2058125610363401206",
           "source": "知乎",
@@ -340,16 +364,16 @@
           "time_info": "[04时53分 ~ 06时54分]"
         },
         {
-          "title": "美军称再次对伊朗发起打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33546490",
-          "source": "澎湃新闻",
+          "title": "美军对伊朗发动新一轮打击，伊朗称将很快反击，美伊为何突然再次撕破脸？美方军事行动背后有何盘算？",
+          "url": "https://www.zhihu.com/question/2058455554222027217",
+          "source": "知乎",
           "ranks": [
-            20,
-            12
+            13,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时10分 ~ 14时44分]"
+          "time_info": "[14时43分 ~ 18时17分]"
         },
         {
           "title": "伊朗：将大规模打击美军基地",
@@ -459,17 +483,6 @@
           "time_info": "[05时57分 ~ 06时54分]"
         },
         {
-          "title": "美军对伊朗发动新一轮打击，伊朗称将很快反击，美伊为何突然再次撕破脸？美方军事行动背后有何盘算？",
-          "url": "https://www.zhihu.com/question/2058455554222027217",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时43分 ~ 14时44分]"
-        },
-        {
           "title": "花旗：预计2026年第四季度布伦特原油均价为70美元/桶，2027年均价为65美元/桶，前提是假设美国与伊朗最终达成协议，霍尔木兹海峡恢复开放。",
           "url": "https://flash.jin10.com/detail/20260709042848554800",
           "source": "金十数据",
@@ -509,7 +522,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -608,7 +621,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -666,6 +679,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
+        },
+        {
+          "title": "伊朗媒体说布什尔传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3131270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "伊朗外交部发言人：伊朗与美国之间的谅解备忘录并非基于信任，而是基于明确的“承诺换承诺”机制。",
@@ -844,6 +868,17 @@
           "time_info": "10时10分"
         },
         {
+          "title": "卡塔尔外交部：首相接到阿联酋外长的电话，讨论美国与伊朗之间的紧张局势发展。",
+          "url": "https://flash.jin10.com/detail/20260709175744061800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "伊拉克同意，停止向支持伊朗的那些武装人员提供美元资金。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3130864",
           "source": "华尔街见闻-快讯",
@@ -916,7 +951,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -943,6 +978,17 @@
           "time_info": "04时53分"
         },
         {
+          "title": "英国中东事务大臣：伊朗对我们在海湾地区伙伴发动的袭击是严重升级，是公然违反国际法的行为。",
+          "url": "https://flash.jin10.com/detail/20260709175306484800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "美军动用巡航导弹袭击伊朗北部两座铁路桥",
           "url": "https://wallstreetcn.com/livenews/3130974",
           "source": "华尔街见闻-快讯",
@@ -957,7 +1003,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 62,
       "titles": [
         {
           "title": "美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”",
@@ -973,6 +1019,20 @@
           "time_info": "[01时16分 ~ 14时44分]"
         },
         {
+          "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
+          "url": "https://wallstreetcn.com/articles/3776487",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[05时56分 ~ 18时17分]"
+        },
+        {
           "title": "特朗普：今晚可能再打伊朗",
           "url": "https://www.cls.cn/detail/2420856",
           "source": "财联社热门",
@@ -985,19 +1045,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时16分 ~ 10时10分]"
-        },
-        {
-          "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
-          "url": "https://wallstreetcn.com/articles/3776487",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时56分 ~ 14时44分]"
         },
         {
           "title": "特朗普称美伊停火结束 美股期指集体下挫 国际油价飙升 | 今夜看点",
@@ -1039,6 +1086,34 @@
           "time_info": "[01时16分 ~ 06时54分]"
         },
         {
+          "title": "特朗普称“今夜可能再打伊朗”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33544015",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            15,
+            14,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[03时02分 ~ 18时17分]"
+        },
+        {
+          "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
+          "url": "https://wallstreetcn.com/articles/3776425",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时58分 ~ 18时17分]"
+        },
+        {
           "title": "特朗普要求切断美国与西班牙贸易往来",
           "url": "https://m.thepaper.cn/newsDetail_forward_33542019",
           "source": "澎湃新闻",
@@ -1048,11 +1123,12 @@
             20,
             17,
             16,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时16分 ~ 14时44分]"
+          "appearance_count": 11,
+          "time_info": "[01时16分 ~ 18时17分]"
         },
         {
           "title": "国际油价大涨6%金银跳水！特朗普一言引爆全球市场",
@@ -1077,33 +1153,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时16分 ~ 07时58分]"
-        },
-        {
-          "title": "特朗普称“今夜可能再打伊朗”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33544015",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            15,
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时02分 ~ 14时44分]"
-        },
-        {
-          "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
-          "url": "https://wallstreetcn.com/articles/3776425",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时58分 ~ 14时44分]"
         },
         {
           "title": "美股收盘：特朗普一句话挽回跌势 阿里巴巴闪耀全球市场",
@@ -1135,11 +1184,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 14时44分]"
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 18时17分]"
         },
         {
           "title": "特朗普称“今夜可能再打伊朗”",
@@ -1489,7 +1539,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -1599,9 +1649,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
+        },
+        {
+          "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33547226",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "特朗普称自己是“伊朗头号暗杀目标” 改乘旧空军一号",
@@ -1673,7 +1734,7 @@
     },
     {
       "keyword_group": "小米 雷军 发布",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "OpenAI：在发布初期，GPT-Live将在后台使用GPT-5.5。GPT-Live在ChatGPT中将不支持带视频或屏幕共享功能的语音交互。",
@@ -1767,6 +1828,17 @@
           "time_info": "[14时43分 ~ 14时44分]"
         },
         {
+          "title": "中央气象台7月9日18时继续发布台风橙色预警",
+          "url": "https://flash.jin10.com/detail/20260709180240572800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "提醒：北京时间02:00，美联储将发布6月16-17日FOMC货币政策会议的纪要文件。",
           "url": "https://wallstreetcn.com/livenews/3130846",
           "source": "华尔街见闻-快讯",
@@ -1800,6 +1872,17 @@
           "time_info": "10时10分"
         },
         {
+          "title": "广西贵港动物园上百只动物因洪水走失，园方发布紧急寻物启事",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33547355",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
           "title": "雷军坦言车内空间不应该固定",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9D%A6%E8%A8%80%E8%BD%A6%E5%86%85%E7%A9%BA%E9%97%B4%E4%B8%8D%E5%BA%94%E8%AF%A5%E5%9B%BA%E5%AE%9A%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -1831,6 +1914,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "小米openvela装机量突破1.8亿",
+          "url": "https://wallstreetcn.com/livenews/3131253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "OpenAI：发布国家安全原则文件。",
@@ -2015,6 +2109,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
+          "url": "https://wallstreetcn.com/articles/3776526",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         }
       ]
     },
