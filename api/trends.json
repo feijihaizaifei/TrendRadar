@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T06:35:51.006999+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2026-07-12T07:41:41.679853+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 07时41分]"
         },
         {
           "title": "伊朗议长：致阿里·哈梅内伊遇难的责任方必将受到惩罚",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 07时41分]"
         },
         {
           "title": "伊朗方面公布被导弹击中的约旦美军基地卫星图像",
@@ -38,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时39分 ~ 06时35分]"
+          "appearance_count": 4,
+          "time_info": "[04时39分 ~ 07时41分]"
         },
         {
           "title": "穆杰塔巴称对美以追责是伊朗人民的共同要求",
@@ -50,8 +50,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 07时41分]"
         },
         {
           "title": "伊朗消息人士：美国不放弃现有立场就“免谈”",
@@ -62,8 +62,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 07时41分]"
         },
         {
           "title": "报道：伊朗两名安全人员在哈梅内伊葬礼期间遇袭身亡",
@@ -74,8 +74,22 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 07时41分]"
+        },
+        {
+          "title": "阿曼提议霍尔木兹“双航道”管理 伊朗航道需事先获批",
+          "url": "https://flash.jin10.com/detail/20260712030241916800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            4,
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时57分 ~ 07时41分]"
         },
         {
           "title": "据伊朗Press TV：一位伊朗高级情报消息人士称，美国正在对伊朗展开一场协调一致的施压、威胁和媒体虚假信息宣传行动。",
@@ -110,20 +124,6 @@
           "time_info": "[00时40分 ~ 05时38分]"
         },
         {
-          "title": "阿曼提议霍尔木兹“双航道”管理 伊朗航道需事先获批",
-          "url": "https://flash.jin10.com/detail/20260712030241916800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            4,
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时57分 ~ 06时35分]"
-        },
-        {
           "title": "阿曼与伊朗将继续谈判 以达成霍尔木兹海峡通航协议",
           "url": "https://flash.jin10.com/detail/20260712024237763800",
           "source": "金十数据",
@@ -134,8 +134,34 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时57分 ~ 06时35分]"
+          "appearance_count": 5,
+          "time_info": "[03时57分 ~ 07时41分]"
+        },
+        {
+          "title": "美官员称美国团队未前往阿曼参加与伊朗的谈判",
+          "url": "https://flash.jin10.com/detail/20260712041548582800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时38分 ~ 07时41分]"
+        },
+        {
+          "title": "美国驻以色列大使：以色列已通知我们有关伊朗策划刺杀美国总统一事。伊朗的威胁并不新鲜，其行为也没有改变。我们没有看到伊朗存在温和派的真实证据。",
+          "url": "https://flash.jin10.com/detail/20260712021317281800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            9,
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时57分 ~ 07时41分]"
         },
         {
           "title": "伊朗代表称若美继续违反其义务 伊将不再遵守谅解备忘录",
@@ -151,32 +177,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时40分 ~ 04时39分]"
-        },
-        {
-          "title": "美官员称美国团队未前往阿曼参加与伊朗的谈判",
-          "url": "https://flash.jin10.com/detail/20260712041548582800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时38分 ~ 06时35分]"
-        },
-        {
-          "title": "美国驻以色列大使：以色列已通知我们有关伊朗策划刺杀美国总统一事。伊朗的威胁并不新鲜，其行为也没有改变。我们没有看到伊朗存在温和派的真实证据。",
-          "url": "https://flash.jin10.com/detail/20260712021317281800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            9,
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时57分 ~ 06时35分]"
         },
         {
           "title": "伊朗最高领袖就哈梅内伊之死号召复仇，为新谈判前景增添变数",
@@ -221,7 +221,7 @@
     },
     {
       "keyword_group": "小米 雷军 发布",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "中科星图：空天创新产品矩阵即将发布",
@@ -232,8 +232,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 07时41分]"
         },
         {
           "title": "智谱创始人唐杰发布内部信：将开启 Touch High（摸高）计划，“不登顶，就是失败”",
@@ -244,8 +244,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 07时41分]"
         },
         {
           "title": "台风“巴威”正快速逼近，浙江多地发布《告全体市民书》",
@@ -257,8 +257,43 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 07时41分]"
+        },
+        {
+          "title": "“巴威”即将登陆，国家海洋预报台继续发布海浪红色预警、风暴潮橙色预警。",
+          "url": "https://wallstreetcn.com/livenews/3132339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 07时41分]"
+        },
+        {
+          "title": "台风“巴威”或将提前登陆，中央气象台继续发布台风橙色预警",
+          "url": "https://wallstreetcn.com/livenews/3132337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 07时41分]"
+        },
+        {
+          "title": "中央气象台7月12日06时发布台风黄色预警",
+          "url": "https://flash.jin10.com/detail/20260712060507022800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时41分]"
         },
         {
           "title": "上海发布台风黄色预警信号，全市防汛防台应急响应行动更新为三级",
@@ -274,41 +309,6 @@
           "time_info": "[00时40分 ~ 06时35分]"
         },
         {
-          "title": "“巴威”即将登陆，国家海洋预报台继续发布海浪红色预警、风暴潮橙色预警。",
-          "url": "https://wallstreetcn.com/livenews/3132339",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时35分]"
-        },
-        {
-          "title": "台风“巴威”或将提前登陆，中央气象台继续发布台风橙色预警",
-          "url": "https://wallstreetcn.com/livenews/3132337",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时35分]"
-        },
-        {
-          "title": "中央气象台7月12日06时发布台风黄色预警",
-          "url": "https://flash.jin10.com/detail/20260712060507022800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
           "title": "GPT-5.6发布之际 马斯克与奥尔特曼隔空互怼",
           "url": "https://flash.jin10.com/detail/20260712013158657800",
           "source": "金十数据",
@@ -320,8 +320,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时41分 ~ 06时35分]"
+          "appearance_count": 6,
+          "time_info": "[02时41分 ~ 07时41分]"
         },
         {
           "title": "河南发布防范台风巴威安全提醒",
@@ -331,11 +331,12 @@
             23,
             26,
             20,
-            19
+            19,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 06时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 07时41分]"
         },
         {
           "title": "智谱创始人唐杰发布内部信：将开启 Touch High（摸高）计划，“不登顶，就是失败”",
@@ -343,11 +344,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时57分 ~ 06时35分]"
+          "appearance_count": 5,
+          "time_info": "[03时57分 ~ 07时41分]"
         },
         {
           "title": "北京大兴区升级发布暴雨红色预警信号",
@@ -371,6 +373,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 01时44分]"
+        },
+        {
+          "title": "中国民办本科科研竞争力排名发布",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B0%91%E5%8A%9E%E6%9C%AC%E7%A7%91%E7%A7%91%E7%A0%94%E7%AB%9E%E4%BA%89%E5%8A%9B%E6%8E%92%E5%90%8D%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         },
         {
           "title": "中科星图：空天创新产品矩阵即将发布",
@@ -398,8 +411,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 07时41分]"
         },
         {
           "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
@@ -409,8 +422,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 07时41分]"
         },
         {
           "title": "美国总统特朗普：我刚在沃尔特·里德医院完成了一次完美的体检。我每六个月做一次体检，此外，我还要求了另一项认知测试，我是唯一一位这样做的总统，三次测试我都通过了——每个问题都答对了。",
@@ -450,9 +463,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时41分]"
         },
         {
           "title": "美国总统特朗普：即便所有媒体都对我极尽抹黑、充斥虚假新闻，我依旧以压倒性大胜拿下总统大选。由此可见，主流媒体毫无公信力可言！",
@@ -461,20 +474,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时41分]"
         },
         {
           "title": "伊朗最高领袖称将报复美以，特朗普：1000枚导弹已瞄准伊朗",
           "url": "https://wallstreetcn.com/articles/3776705",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时38分 ~ 06时35分]"
+          "appearance_count": 3,
+          "time_info": "[05时38分 ~ 07时41分]"
         }
       ]
     },
@@ -490,11 +504,12 @@
             13,
             10,
             8,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时41分 ~ 06时35分]"
+          "appearance_count": 6,
+          "time_info": "[02时41分 ~ 07时41分]"
         }
       ]
     },
@@ -511,8 +526,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时38分 ~ 06时35分]"
+          "appearance_count": 3,
+          "time_info": "[05时38分 ~ 07时41分]"
         }
       ]
     }
