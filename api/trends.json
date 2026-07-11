@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T20:46:22.850906+08:00",
-  "total_titles_processed": 1392,
+  "generated_at": "2026-07-11T22:17:02.945403+08:00",
+  "total_titles_processed": 1482,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 81,
+      "match_count": 85,
       "titles": [
         {
           "title": "内塔尼亚胡：过去一年，我们杀死了伊朗20名核专家",
@@ -24,11 +24,12 @@
           "url": "https://news.ifeng.com/c/8uftNlwm3k6",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时51分 ~ 20时46分]"
+          "appearance_count": 7,
+          "time_info": "[18时51分 ~ 22时17分]"
         },
         {
           "title": "多个弹坑正被修复，美媒称卫星图像显示伊朗或正重建核设施",
@@ -196,6 +197,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
+        },
+        {
+          "title": "伊朗议长：致阿里·哈梅内伊遇难的责任方必将受到惩罚",
+          "url": "https://wallstreetcn.com/livenews/3132361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "据Axios：一位美国官员表示，“如果明天他们（伊朗）不作出相关表态，那明天对他们来说可不会是个好日子。”",
@@ -375,6 +387,19 @@
           "time_info": "[05时48分 ~ 07时46分]"
         },
         {
+          "title": "穆杰塔巴称对美以追责是伊朗人民的共同要求",
+          "url": "https://wallstreetcn.com/livenews/3132344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时42分 ~ 22时17分]"
+        },
+        {
           "title": "伊朗德黑兰东部传出爆炸声",
           "url": "https://wallstreetcn.com/livenews/3132316",
           "source": "华尔街见闻-快讯",
@@ -411,6 +436,32 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时04分 ~ 18时52分]"
+        },
+        {
+          "title": "伊朗消息人士：美国不放弃现有立场就“免谈”",
+          "url": "https://wallstreetcn.com/livenews/3132342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时42分 ~ 22时17分]"
+        },
+        {
+          "title": "报道：伊朗两名安全人员在哈梅内伊葬礼期间遇袭身亡",
+          "url": "https://wallstreetcn.com/livenews/3132340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时42分 ~ 22时17分]"
         },
         {
           "title": "伊朗外交部：从未提出与美谈判诉求 同意调解方访伊",
@@ -497,36 +548,12 @@
           "time_info": "[12时51分 ~ 15时04分]"
         },
         {
-          "title": "穆杰塔巴称对美以追责是伊朗人民的共同要求",
-          "url": "https://wallstreetcn.com/livenews/3132344",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时42分 ~ 20时46分]"
-        },
-        {
           "title": "伊朗最高领袖称将报复美以",
           "url": "https://flash.jin10.com/detail/20260711184746436800",
           "source": "金十数据",
           "ranks": [
             10,
             22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时42分 ~ 20时46分]"
-        },
-        {
-          "title": "伊朗消息人士：美国不放弃现有立场就“免谈”",
-          "url": "https://wallstreetcn.com/livenews/3132342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            14
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -551,18 +578,6 @@
           "ranks": [
             12,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时42分 ~ 20时46分]"
-        },
-        {
-          "title": "报道：伊朗两名安全人员在哈梅内伊葬礼期间遇袭身亡",
-          "url": "https://wallstreetcn.com/livenews/3132340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            16
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -624,6 +639,17 @@
           "time_info": "04时11分"
         },
         {
+          "title": "伊朗议长：致阿里·哈梅内伊遇难的责任方必将受到惩罚",
+          "url": "https://flash.jin10.com/detail/20260711213701077800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "消息人士：美国、伊朗、巴基斯坦与卡塔尔将举行四方通话",
           "url": "https://flash.jin10.com/detail/20260711031010328800",
           "source": "金十数据",
@@ -644,6 +670,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
+        },
+        {
+          "title": "伊朗学者：美国的胁迫外交仍在继续，伊朗试图打破“胡萝卜与大棒”循环",
+          "url": "https://flash.jin10.com/detail/20260711212852417800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "美官员称伊朗私下就近期袭击商船认错",
@@ -888,6 +925,17 @@
           "time_info": "05时48分"
         },
         {
+          "title": "伊朗代理国防部长：我们已经准确识别了敌人的弱点，并知道如何、何时以及在什么程度上对其施压。",
+          "url": "https://flash.jin10.com/detail/20260711205254358800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "据CNN：卫星图像显示，伊朗可能正在重建部分核设施。",
           "url": "https://flash.jin10.com/detail/20260711024000715800",
           "source": "金十数据",
@@ -957,8 +1005,23 @@
     },
     {
       "keyword_group": "小米 雷军 发布",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
+        {
+          "title": "时隔两年发布的暴雨红警意味什么",
+          "url": "https://www.toutiao.com/trending/7661142159105527342/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            10,
+            24,
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时04分 ~ 22时17分]"
+        },
         {
           "title": "上海海事局启动Ⅱ级防台应急响应，多区发布台风黄色预警",
           "url": "https://m.thepaper.cn/newsDetail_forward_33561180",
@@ -970,8 +1033,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时15分 ~ 20时46分]"
+          "appearance_count": 15,
+          "time_info": "[02时15分 ~ 22时17分]"
         },
         {
           "title": "功夫女足发布首支长预告",
@@ -1001,19 +1064,19 @@
           "time_info": "[00时12分 ~ 05时48分]"
         },
         {
-          "title": "时隔两年发布的暴雨红警意味什么",
-          "url": "https://www.toutiao.com/trending/7661142159105527342/",
-          "source": "今日头条",
+          "title": "河南发布防范台风巴威安全提醒",
+          "url": "https://www.douyin.com/hot/2566809",
+          "source": "抖音",
           "ranks": [
+            17,
+            15,
+            19,
             23,
-            10,
-            24,
-            22,
-            28
+            11
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[15时04分 ~ 20时46分]"
+          "time_info": "[15时04分 ~ 22时17分]"
         },
         {
           "title": "雷军让卖车的和卖房的都沉默了",
@@ -1028,18 +1091,17 @@
           "time_info": "[15时04分 ~ 20时46分]"
         },
         {
-          "title": "河南发布防范台风巴威安全提醒",
-          "url": "https://www.douyin.com/hot/2566809",
-          "source": "抖音",
+          "title": "小米澎程起售价预测",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E8%B5%B7%E5%94%AE%E4%BB%B7%E9%A2%84%E6%B5%8B&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            17,
-            15,
             19,
-            23
+            29,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时04分 ~ 20时46分]"
+          "appearance_count": 7,
+          "time_info": "[18时51分 ~ 22时17分]"
         },
         {
           "title": "北京大兴区升级发布暴雨红色预警信号",
@@ -1049,11 +1111,37 @@
             1,
             6,
             18,
-            22
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时14分 ~ 22时17分]"
+        },
+        {
+          "title": "中科星图：空天创新产品矩阵即将发布",
+          "url": "https://wallstreetcn.com/livenews/3132362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
+          "title": "“巴威”即将登陆，国家海洋预报台继续发布海浪红色预警、风暴潮橙色预警。",
+          "url": "https://wallstreetcn.com/livenews/3132339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13,
+            17,
+            25
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时14分 ~ 20时46分]"
+          "time_info": "[18时52分 ~ 22时17分]"
         },
         {
           "title": "上海升级发布台风黄色预警，全市防汛防台应急响应行动更新为三级。",
@@ -1070,6 +1158,20 @@
           "time_info": "[15时04分 ~ 19时42分]"
         },
         {
+          "title": "台风“巴威”或将提前登陆，中央气象台继续发布台风橙色预警",
+          "url": "https://wallstreetcn.com/livenews/3132337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15,
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时52分 ~ 22时17分]"
+        },
+        {
           "title": "浙江温州发布《告全体市民书》",
           "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E6%B8%A9%E5%B7%9E%E5%8F%91%E5%B8%83%E3%80%8A%E5%91%8A%E5%85%A8%E4%BD%93%E5%B8%82%E6%B0%91%E4%B9%A6%E3%80%8B",
           "source": "百度热搜",
@@ -1082,55 +1184,17 @@
           "time_info": "[00时12分 ~ 07时46分]"
         },
         {
-          "title": "小米澎程起售价预测",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E8%B5%B7%E5%94%AE%E4%BB%B7%E9%A2%84%E6%B5%8B&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            29,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时51分 ~ 20时46分]"
-        },
-        {
           "title": "智谱创始人唐杰发布内部信：将开启 Touch High（摸高）计划，“不登顶，就是失败”",
           "url": "https://wallstreetcn.com/livenews/3132350",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时42分 ~ 20时46分]"
-        },
-        {
-          "title": "“巴威”即将登陆，国家海洋预报台继续发布海浪红色预警、风暴潮橙色预警。",
-          "url": "https://wallstreetcn.com/livenews/3132339",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13,
-            17
+            6,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时52分 ~ 20时46分]"
-        },
-        {
-          "title": "台风“巴威”或将提前登陆，中央气象台继续发布台风橙色预警",
-          "url": "https://wallstreetcn.com/livenews/3132337",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时52分 ~ 20时46分]"
+          "time_info": "[19时42分 ~ 22时17分]"
         },
         {
           "title": "局地可达40℃ 重庆发布高温橙色预警信号",
@@ -1194,6 +1258,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时14分 ~ 19时42分]"
+        },
+        {
+          "title": "台风“巴威”正快速逼近，浙江多地发布《告全体市民书》",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33565139",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时46分 ~ 22时17分]"
         },
         {
           "title": "《2026年中国航海日公告》发布 全国海洋生产总值超11万亿元",
@@ -1288,6 +1363,17 @@
           "time_info": "[19时41分 ~ 19时42分]"
         },
         {
+          "title": "中科星图：空天创新产品矩阵即将发布",
+          "url": "https://flash.jin10.com/detail/20260711214234598800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "巴威逼近 浙江多地发布告全体市民书",
           "url": "https://www.toutiao.com/trending/7661130026703654463/",
           "source": "今日头条",
@@ -1308,6 +1394,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        },
+        {
+          "title": "民政部发布最新部署 全力做好民政领域防汛救灾",
+          "url": "https://flash.jin10.com/detail/20260711213628102800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "最高级别！中央气象台发布今年首个暴雨红色预警",
@@ -1376,17 +1473,6 @@
           "time_info": "00时12分"
         },
         {
-          "title": "台风“巴威”正快速逼近，浙江多地发布《告全体市民书》",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33565139",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
           "title": "国家海洋预报台发布海水倒灌淹没风险预警，浙江温州等地风险较高",
           "url": "https://wallstreetcn.com/livenews/3132287",
           "source": "华尔街见闻-快讯",
@@ -1445,8 +1531,32 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
+          "url": "https://news.ifeng.com/c/8ufglrDUNWy",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时04分 ~ 22时17分]"
+        },
+        {
+          "title": "特朗普：1000枚导弹已瞄准伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时04分 ~ 22时17分]"
+        },
         {
           "title": "特朗普搞中国那套，拿来对付西班牙？",
           "url": "https://news.ifeng.com/c/8udchHV60GP",
@@ -1458,29 +1568,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时12分 ~ 12时51分]"
-        },
-        {
-          "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
-          "url": "https://news.ifeng.com/c/8ufglrDUNWy",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时04分 ~ 20时46分]"
-        },
-        {
-          "title": "特朗普：1000枚导弹已瞄准伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时04分 ~ 20时46分]"
         },
         {
           "title": "特朗普称将授权乌克兰本土生产“爱国者”导弹，专家：只是画大饼",
@@ -1648,7 +1735,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -1728,6 +1815,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        },
+        {
+          "title": "披露特朗普新专机安全缺陷的美国记者收到传票",
+          "url": "https://flash.jin10.com/detail/20260711210033072800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "特朗普称伊朗要求继续谈判",
@@ -1924,7 +2022,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         }
