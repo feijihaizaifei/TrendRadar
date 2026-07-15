@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T01:03:12.414830+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-16T02:51:18.932470+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 22,
       "titles": [
         {
           "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 02时51分]"
         },
         {
           "title": "对抗情绪升温，伊朗人又拿“特朗普”出气",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 02时51分]"
         },
         {
           "title": "利润率不足10%，特朗普硬抽20%，拦路式收费方案一天作废？",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 02时51分]"
         },
         {
           "title": "特朗普为何频频感谢中俄？",
@@ -48,19 +48,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 02时51分]"
         },
         {
-          "title": "美国参议院成员们将于周四会见总统特朗普，讨论加密货币立法问题。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3134530",
+          "title": "美国总统特朗普：我不喜欢设定最后期限。",
+          "url": "https://wallstreetcn.com/livenews/3134556",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时03分"
+          "time_info": "02时51分"
         },
         {
           "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
@@ -70,8 +70,20 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 02时51分]"
+        },
+        {
+          "title": "美国参议院成员们将于周四会见总统特朗普，讨论加密货币立法问题。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3134530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "time_info": "[01时03分 ~ 02时51分]"
         },
         {
           "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
@@ -81,19 +93,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 02时51分]"
         },
         {
           "title": "性侵案败诉，特朗普赔付女作家逾560万美元",
           "url": "https://m.thepaper.cn/newsDetail_forward_33590389",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 02时51分]"
         },
         {
           "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
@@ -103,19 +116,42 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 02时51分]"
         },
         {
           "title": "美国总统特朗普要求纽约州立即改变数据中心政策。",
           "url": "https://wallstreetcn.com/livenews/3134527",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 02时51分]"
+        },
+        {
+          "title": "特朗普称俄罗斯已准备好达成协议以结束俄乌冲突",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33592968",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时50分 ~ 02时51分]"
+        },
+        {
+          "title": "特朗普答轰炸伊朗：不喜欢设定最后期限",
+          "url": "https://flash.jin10.com/detail/20260716023558998800",
+          "source": "金十数据",
+          "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时03分"
+          "time_info": "02时51分"
         },
         {
           "title": "特朗普：纽约州应立即改变数据中心政策",
@@ -124,7 +160,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
         },
@@ -135,7 +171,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
         },
@@ -146,7 +182,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
         },
@@ -157,9 +193,53 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）他们最好老实点。",
+          "url": "https://flash.jin10.com/detail/20260716022948918800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
+          "title": "白宫发言人Anna Kelly：美国总统特朗普今天将宣布合计超过100亿美元的若干协议。",
+          "url": "https://wallstreetcn.com/livenews/3134544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）不喜欢设定最后期限。",
+          "url": "https://flash.jin10.com/detail/20260716022930853800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
+          "title": "英国新首相人选放话与特朗普打交道将“直来直往”",
+          "url": "https://flash.jin10.com/detail/20260716022753480800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
         },
         {
           "title": "美联储主席沃什：（特朗普政府的）移民决定影响到美国潜在的GDP。",
@@ -168,7 +248,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
         }
@@ -176,8 +256,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "三名美国官员称，近期美国对伊朗的打击行动正在增强美方进一步升级行动的选项。",
+          "url": "https://flash.jin10.com/detail/20260716024749247800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
         {
           "title": "上千枚导弹，要飞向伊朗？",
           "url": "https://news.ifeng.com/c/8umrKcjjbd0",
@@ -186,8 +277,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 02时51分]"
         },
         {
           "title": "美军称对伊朗进行了90分钟打击",
@@ -197,8 +288,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 02时51分]"
+        },
+        {
+          "title": "伊朗称美进入正式战争状态",
+          "url": "https://www.douyin.com/hot/2571461",
+          "source": "抖音",
+          "ranks": [
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 02时51分]"
         },
         {
           "title": "美军称对伊朗进行了90分钟打击",
@@ -212,15 +315,48 @@
           "time_info": "[01时02分 ~ 01时03分]"
         },
         {
-          "title": "伊朗称美进入正式战争状态",
-          "url": "https://www.douyin.com/hot/2571461",
-          "source": "抖音",
+          "title": "伊朗卫生部：美国近期对伊军事打击已致35人死亡",
+          "url": "https://wallstreetcn.com/livenews/3134548",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
+          "title": "白宫发言人Anna Kelly：我们能够在任何时候袭击（伊朗的）任何地方。",
+          "url": "https://wallstreetcn.com/livenews/3134547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
+          "title": "美国副总统万斯：以色列对美国的影响力超过多数国家。 当伊朗违反承诺时，我们做出回应。 我们正在（针对中东局势）进行微妙的外交斡旋。",
+          "url": "https://wallstreetcn.com/livenews/3134545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
+        },
+        {
+          "title": "伊朗议会议长、顶级谈判员卡利巴夫：我们必须应用外交+谈判手段。 伊朗必须随时准备好（与敌人）战斗。 如果与美国达成的停火谅解备忘录（MoU）不能（给伊朗）带来好处，那就没理由遵守。 国家安全完全取决于伊朗在霍尔木兹海峡问题上的安排。 谈判不等于妥协。 我们正面临一场复杂的战争。（伊朗电视台）",
+          "url": "https://wallstreetcn.com/livenews/3134542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
         },
         {
           "title": "据伊朗媒体Fars News：多名伊拉克消息人士称，伊拉克埃尔比勒发生多起爆炸。",
@@ -229,7 +365,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
         },
@@ -240,9 +376,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "伊朗外交部称伊方目前没有谈判计划，专注于防御",
+          "url": "https://wallstreetcn.com/livenews/3134535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
         },
         {
           "title": "伊朗外交部：若美方违约，伊朗则反制",
@@ -251,7 +398,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
         },
@@ -262,7 +409,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
         }
@@ -270,18 +417,30 @@
     },
     {
       "keyword_group": "小米 雷军 发布",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何评价 Q2 全球智能手机出货量同比下滑，小米跌幅最大，三星、苹果、华为逆势上涨？",
           "url": "https://www.zhihu.com/question/2060476741349646921",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 02时51分]"
+        },
+        {
+          "title": "多人因猎杀国家一级保护野生动物获刑，最高法发布一批典型案例",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33590193",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 02时51分]"
         },
         {
           "title": "有200台小米设备的“米粉”心凉了",
@@ -295,15 +454,15 @@
           "time_info": "[01时02分 ~ 01时03分]"
         },
         {
-          "title": "多人因猎杀国家一级保护野生动物获刑，最高法发布一批典型案例",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33590193",
-          "source": "澎湃新闻",
+          "title": "提醒：北京时间02:00，美联储将发布褐皮书。",
+          "url": "https://wallstreetcn.com/livenews/3134550",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
         }
       ]
     },
@@ -316,11 +475,24 @@
           "url": "https://www.zhihu.com/question/2060664652996900553",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 02时51分]"
+        },
+        {
+          "title": "阿根廷队主教练：不要混淆足球和战争",
+          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F%E4%B8%BB%E6%95%99%E7%BB%83%EF%BC%9A%E4%B8%8D%E8%A6%81%E6%B7%B7%E6%B7%86%E8%B6%B3%E7%90%83%E5%92%8C%E6%88%98%E4%BA%89",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 02时51分]"
         },
         {
           "title": "阿根廷主帅：不要混淆足球和战争",
@@ -328,17 +500,6 @@
           "source": "今日头条",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
-        },
-        {
-          "title": "阿根廷队主教练：不要混淆足球和战争",
-          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F%E4%B8%BB%E6%95%99%E7%BB%83%EF%BC%9A%E4%B8%8D%E8%A6%81%E6%B7%B7%E6%B7%86%E8%B6%B3%E7%90%83%E5%92%8C%E6%88%98%E4%BA%89",
-          "source": "百度热搜",
-          "ranks": [
-            28
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -355,11 +516,12 @@
           "url": "https://www.zhihu.com/question/2060645375338180828",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 02时51分]"
         },
         {
           "title": "DeepSeek工资待遇太恐怖了",
@@ -369,8 +531,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 02时51分]"
         }
       ]
     },
@@ -383,11 +545,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E7%99%BD%E7%8B%AE%E9%98%BF%E6%9D%AD%E7%A6%BB%E4%B8%96+%E6%9B%BE%E5%9B%A0%E9%BD%90%E5%88%98%E6%B5%B7%E8%B5%B0%E7%BA%A2",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 02时51分]"
         },
         {
           "title": "迪迦登顶,赛罗粉拉踩翻车",
@@ -397,8 +560,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 02时51分]"
         }
       ]
     },
@@ -413,7 +576,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
         }
@@ -428,11 +591,12 @@
           "url": "https://wallstreetcn.com/livenews/3134531",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 02时51分]"
         }
       ]
     },
@@ -445,11 +609,12 @@
           "url": "https://www.cls.cn/detail/2427348",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 02时51分]"
         }
       ]
     }
