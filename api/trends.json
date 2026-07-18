@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T16:32:01.582801+08:00",
-  "total_titles_processed": 1169,
+  "generated_at": "2026-07-18T18:08:03.785236+08:00",
+  "total_titles_processed": 1260,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 82,
+      "match_count": 87,
       "titles": [
         {
           "title": "伊朗发射巡航导弹打击美军舰艇",
@@ -94,6 +94,19 @@
           "time_info": "[07时41分 ~ 12时37分]"
         },
         {
+          "title": "美方：伊朗向沙特美军基地发射导弹",
+          "url": "https://www.toutiao.com/trending/7663423753623470123/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时51分 ~ 18时08分]"
+        },
+        {
           "title": "伊朗称摧毁多架美军战斗机",
           "url": "https://www.toutiao.com/trending/7663410168377380371/",
           "source": "今日头条",
@@ -173,6 +186,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
+        },
+        {
+          "title": "伊朗革命卫队：两枚伊朗导弹成功突破多枚“爱国者”导弹的防线。至少有两枚伊朗弹道导弹击中了位于约旦的空军基地。尽管伊朗发射的弹道导弹数量相对较少，但其袭击的成功率在过去几天里似乎稳步提高。",
+          "url": "https://flash.jin10.com/detail/20260718171933578800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         },
         {
           "title": "美国否认叙利亚境内美军基地遭伊朗袭击",
@@ -447,18 +471,6 @@
           "time_info": "[05时40分 ~ 09时14分]"
         },
         {
-          "title": "美方：伊朗向沙特美军基地发射导弹",
-          "url": "https://www.toutiao.com/trending/7663423753623470123/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时51分 ~ 16时32分]"
-        },
-        {
           "title": "伊朗革命卫队：伊军袭击了美国驻巴林的基础设施，摧毁无人艇仓库及一处人工智能中心。此次行动是对美国此前袭击伊朗桥梁等基础设施事件的回应。",
           "url": "https://flash.jin10.com/detail/20260718044353532800",
           "source": "金十数据",
@@ -572,6 +584,17 @@
           "time_info": "[07时41分 ~ 09时14分]"
         },
         {
+          "title": "中东局势持续升温，美军连续第六夜空袭伊朗，德黑兰导弹打击海湾盟国",
+          "url": "https://wallstreetcn.com/articles/3777224",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时07分 ~ 18时08分]"
+        },
+        {
           "title": "伊朗梅赫尔通讯社（MEHR）援引当地官员的话称，“敌方”发射的弹药落在了伊朗中部城市亚兹德市郊外，目前未报告有人员伤亡。",
           "url": "https://wallstreetcn.com/livenews/3135929",
           "source": "华尔街见闻-快讯",
@@ -636,7 +659,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -669,7 +692,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -680,7 +703,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -705,6 +728,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
+        },
+        {
+          "title": "科威特消防局表示，在应对伊朗袭击引发的火灾时，有消防员和工作人员受伤。",
+          "url": "https://flash.jin10.com/detail/20260718165423000800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队称袭击约旦阿兹拉克美军基地",
+          "url": "https://wallstreetcn.com/livenews/3135987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         },
         {
           "title": "据科威特国家通讯社：科威特南部两处火灾已得到控制，此前相关设施遭伊朗袭击，目前暂无人员伤亡报告。",
@@ -867,7 +912,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -927,6 +972,17 @@
           "time_info": "12时37分"
         },
         {
+          "title": "伊朗南部霍尔木兹甘省遭袭 已致8名平民死亡",
+          "url": "https://flash.jin10.com/detail/20260718162349078800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
           "title": "美债收益率刷新日高，投资者关注美国与伊朗的紧张局势。 WTI原油5分钟内上涨0.6美元/桶，报81.32美元/桶；布伦特原油5分钟内上涨0.51美元/桶，报87.31美元/桶。 据Axios报道，美国向以色列增派更多（超过20架）加油机。",
           "url": "https://wallstreetcn.com/livenews/3135836",
           "source": "华尔街见闻-快讯",
@@ -973,6 +1029,337 @@
       ]
     },
     {
+      "keyword_group": "小米 雷军 发布",
+      "match_count": 28,
+      "titles": [
+        {
+          "title": "自然资源部发布重庆彭水山体崩塌前后对比图",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33609740",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时36分 ~ 18时08分]"
+        },
+        {
+          "title": "小米 SU7 碰撞测试博主「原来是翔翔啊」因捏造事实被判刑一年八个月，罚款 10 万元，你怎么看？",
+          "url": "https://www.zhihu.com/question/2061463583091959064",
+          "source": "知乎",
+          "ranks": [
+            7,
+            11,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时06分 ~ 14时52分]"
+        },
+        {
+          "title": "2.8万亿！全球参数最大开源模型Kimi K3发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33603681",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时06分 ~ 09时14分]"
+        },
+        {
+          "title": "如何评价月之暗面 kimi 最新发布的大模型 k3？对比全球其他大模型能力如何？",
+          "url": "https://www.zhihu.com/question/2061412232924337204",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 18时08分]"
+        },
+        {
+          "title": "如何评价月之暗面 kimi 最新发布的大模型 k3 ?",
+          "url": "https://www.zhihu.com/question/2061412232924337204",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 14时52分]"
+        },
+        {
+          "title": "伊朗革命卫队发布伊朗弹道导弹袭击哈尔季省苏丹王子空军基地的视频。",
+          "url": "https://flash.jin10.com/detail/20260718174139867800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "蔚来芯片子公司神玑首次独立参展世界人工智能大会，发布多款前沿AI算力产品",
+          "url": "https://wallstreetcn.com/livenews/3135966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时37分 ~ 16时32分]"
+        },
+        {
+          "title": "沙特民防局表示，已在哈尔季（Al-Kharj）发布早期预警，提示潜在危险。 已在延布（Yanbu）发布早期预警，提示潜在危险。",
+          "url": "https://wallstreetcn.com/livenews/3135934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时41分 ~ 09时14分]"
+        },
+        {
+          "title": "沐曦股份发布超节点新品曦景S600",
+          "url": "https://wallstreetcn.com/livenews/3135972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时52分 ~ 18时08分]"
+        },
+        {
+          "title": "蔚来芯片子公司神玑首次独立参展世界人工智能大会，发布多款前沿AI算力产品",
+          "url": "https://flash.jin10.com/detail/20260718115729560800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 14时52分]"
+        },
+        {
+          "title": "阿里巴巴发布企业级AI应用创作平台秒悟团队版",
+          "url": "https://wallstreetcn.com/livenews/3135957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时37分 ~ 16时32分]"
+        },
+        {
+          "title": "上海足协发布对“禁足”人员申思的调查通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33612930",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时07分 ~ 18时08分]"
+        },
+        {
+          "title": "中国足协发布任免公告",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E5%8F%91%E5%B8%83%E4%BB%BB%E5%85%8D%E5%85%AC%E5%91%8A",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 09时14分]"
+        },
+        {
+          "title": "中兴通讯发布OEX超节点新品",
+          "url": "https://wallstreetcn.com/livenews/3135993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "中兴通讯发布OEX超节点新品",
+          "url": "https://flash.jin10.com/detail/20260718170848889800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "四川发布高温黄色预警 多地最高温将超40℃",
+          "url": "https://flash.jin10.com/detail/20260718170628429800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "申通快递发布快递行业首个智能体平台“SClaw”",
+          "url": "https://wallstreetcn.com/livenews/3135821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时07分"
+        },
+        {
+          "title": "上海太空算力星座工程发布，商业运营阶段将完成千星部署",
+          "url": "https://wallstreetcn.com/livenews/3135989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "据伊朗国际电视台：根据所获得的伊朗最高国家安全委员会指令，媒体被要求不得发布有关民用基础设施受损细节、破坏程度以及袭击对公共服务供应影响的信息。",
+          "url": "https://flash.jin10.com/detail/20260718022147106800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
+          "title": "中兴通讯发布星系列人形机器人及具身智能解决方案",
+          "url": "https://flash.jin10.com/detail/20260718165940914800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "智慧芽2026WAIC上发布四款产品",
+          "url": "https://flash.jin10.com/detail/20260718154024588800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "蔚来芯片子公司神玑亮相WAIC并发布具身智能开发平台",
+          "url": "https://wallstreetcn.com/livenews/3135819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时07分"
+        },
+        {
+          "title": "均胜电子发布灵巧手等机器人核心部件，控制器等已向头部机器人公司量产供货",
+          "url": "https://wallstreetcn.com/livenews/3135818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时07分"
+        },
+        {
+          "title": "阿里巴巴发布企业级AI应用创作平台秒悟团队版",
+          "url": "https://flash.jin10.com/detail/20260718104940134800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "上海“星枢计划”首发星座发布",
+          "url": "https://flash.jin10.com/detail/20260718164638315800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "商汤科技发布多模态基座模型日日新U1 Pro 对标GPT-Image 2",
+          "url": "https://flash.jin10.com/detail/20260718164334397800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "腾讯WorkBuddy App发布 多版本同步上线",
+          "url": "https://flash.jin10.com/detail/20260718163508879800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "阿里云发布Agent Native Cloud 全栈产品体系让智能体成为企业原生能力",
+          "url": "https://flash.jin10.com/detail/20260718162807590800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
       "match_count": 27,
       "titles": [
@@ -1012,26 +1399,28 @@
           "time_info": "[00时06分 ~ 03时56分]"
         },
         {
-          "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
-          "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时36分 ~ 16时32分]"
-        },
-        {
           "title": "白宫声称特朗普并非针对中国",
           "url": "https://news.ifeng.com/c/8urPoLCdQ0d",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 18时08分]"
+        },
+        {
+          "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
+          "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时36分 ~ 18时08分]"
         },
         {
           "title": "特朗普再谈巴洛贡红牌事件",
@@ -1043,6 +1432,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时36分 ~ 16时32分]"
+        },
+        {
+          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时51分 ~ 18时08分]"
         },
         {
           "title": "加拿大山火肆虐，特朗普要求对方通过关税承担污染成本",
@@ -1123,18 +1525,6 @@
           "source": "抖音",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时51分 ~ 16时32分]"
-        },
-        {
-          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -1292,210 +1682,43 @@
       ]
     },
     {
-      "keyword_group": "小米 雷军 发布",
-      "match_count": 17,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
       "titles": [
         {
-          "title": "小米 SU7 碰撞测试博主「原来是翔翔啊」因捏造事实被判刑一年八个月，罚款 10 万元，你怎么看？",
-          "url": "https://www.zhihu.com/question/2061463583091959064",
-          "source": "知乎",
+          "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
+          "url": "https://wallstreetcn.com/articles/3777230",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            11,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时06分 ~ 14时52分]"
-        },
-        {
-          "title": "2.8万亿！全球参数最大开源模型Kimi K3发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33603681",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            18,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时06分 ~ 09时14分]"
-        },
-        {
-          "title": "自然资源部发布重庆彭水山体崩塌前后对比图",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33609740",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时36分 ~ 16时32分]"
-        },
-        {
-          "title": "如何评价月之暗面 kimi 最新发布的大模型 k3？对比全球其他大模型能力如何？",
-          "url": "https://www.zhihu.com/question/2061412232924337204",
-          "source": "知乎",
-          "ranks": [
+            10,
+            8,
             3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[07时40分 ~ 18时08分]"
+        },
+        {
+          "title": "DeepSeek最新估值意外曝光",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%9C%80%E6%96%B0%E4%BC%B0%E5%80%BC%E6%84%8F%E5%A4%96%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时07分 ~ 18时08分]"
+        },
+        {
+          "title": "DeepSeek准确估值意外曝光",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%87%86%E7%A1%AE%E4%BC%B0%E5%80%BC%E6%84%8F%E5%A4%96%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时31分 ~ 16时32分]"
-        },
-        {
-          "title": "如何评价月之暗面 kimi 最新发布的大模型 k3 ?",
-          "url": "https://www.zhihu.com/question/2061412232924337204",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时51分 ~ 14时52分]"
-        },
-        {
-          "title": "蔚来芯片子公司神玑首次独立参展世界人工智能大会，发布多款前沿AI算力产品",
-          "url": "https://wallstreetcn.com/livenews/3135966",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时37分 ~ 16时32分]"
-        },
-        {
-          "title": "沙特民防局表示，已在哈尔季（Al-Kharj）发布早期预警，提示潜在危险。 已在延布（Yanbu）发布早期预警，提示潜在危险。",
-          "url": "https://wallstreetcn.com/livenews/3135934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时41分 ~ 09时14分]"
-        },
-        {
-          "title": "蔚来芯片子公司神玑首次独立参展世界人工智能大会，发布多款前沿AI算力产品",
-          "url": "https://flash.jin10.com/detail/20260718115729560800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 14时52分]"
-        },
-        {
-          "title": "沐曦股份发布超节点新品曦景S600",
-          "url": "https://wallstreetcn.com/livenews/3135972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时52分 ~ 16时32分]"
-        },
-        {
-          "title": "阿里巴巴发布企业级AI应用创作平台秒悟团队版",
-          "url": "https://wallstreetcn.com/livenews/3135957",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时37分 ~ 16时32分]"
-        },
-        {
-          "title": "中国足协发布任免公告",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E5%8F%91%E5%B8%83%E4%BB%BB%E5%85%8D%E5%85%AC%E5%91%8A",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时13分 ~ 09时14分]"
-        },
-        {
-          "title": "申通快递发布快递行业首个智能体平台“SClaw”",
-          "url": "https://wallstreetcn.com/livenews/3135821",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "据伊朗国际电视台：根据所获得的伊朗最高国家安全委员会指令，媒体被要求不得发布有关民用基础设施受损细节、破坏程度以及袭击对公共服务供应影响的信息。",
-          "url": "https://flash.jin10.com/detail/20260718022147106800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时49分"
-        },
-        {
-          "title": "智慧芽2026WAIC上发布四款产品",
-          "url": "https://flash.jin10.com/detail/20260718154024588800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "蔚来芯片子公司神玑亮相WAIC并发布具身智能开发平台",
-          "url": "https://wallstreetcn.com/livenews/3135819",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "均胜电子发布灵巧手等机器人核心部件，控制器等已向头部机器人公司量产供货",
-          "url": "https://wallstreetcn.com/livenews/3135818",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "阿里巴巴发布企业级AI应用创作平台秒悟团队版",
-          "url": "https://flash.jin10.com/detail/20260718104940134800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时37分"
         }
       ]
     },
@@ -1570,8 +1793,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时13分 ~ 16时32分]"
+          "appearance_count": 10,
+          "time_info": "[09时13分 ~ 18时08分]"
         },
         {
           "title": "大模型哪大了 深入解读kimi k3",
@@ -1622,36 +1845,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时36分 ~ 12时37分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
-          "url": "https://wallstreetcn.com/articles/3777230",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时40分 ~ 16时32分]"
-        },
-        {
-          "title": "DeepSeek准确估值意外曝光",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%87%86%E7%A1%AE%E4%BC%B0%E5%80%BC%E6%84%8F%E5%A4%96%E6%9B%9D%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
         }
       ]
     },
