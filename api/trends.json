@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T06:43:14.859702+08:00",
-  "total_titles_processed": 576,
+  "generated_at": "2026-07-22T07:46:30.482832+08:00",
+  "total_titles_processed": 648,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 45,
       "titles": [
         {
           "title": "因人事任命非特朗普属意，美国考虑退出联合国难民署",
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 06时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 07时46分]"
         },
         {
           "title": "特朗普放话将轰炸伊朗“镐山” 认为可能存放离心机",
@@ -30,17 +30,6 @@
           "time_info": "02时06分"
         },
         {
-          "title": "据Axios：美国议员要求美国证交会调查特朗普媒体科技集团(DJT.O)旗下的Truth Social将其数据访问权商业化的计划。此前有报道称，该集团的“Truth API”产品定于8月1日上线，该产品将提供对该平台排名前十的热门账户公开帖文的实时访问权限。",
-          "url": "https://flash.jin10.com/detail/20260722062026177800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时43分"
-        },
-        {
           "title": "特朗普承认伊朗在约旦“钻了空子”",
           "url": "https://flash.jin10.com/detail/20260721234954823800",
           "source": "金十数据",
@@ -50,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "特朗普：可能很快打击伊朗“镐山”核设施",
+          "url": "https://news.ifeng.com/c/8ux7TemK3px",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
         },
         {
           "title": "金十提示：美国总统特朗普与黎巴嫩总统白宫会晤的媒体公开部分结束。",
@@ -63,15 +63,37 @@
           "time_info": "00时14分"
         },
         {
-          "title": "据华尔街日报：官员透露，特朗普政府计划在联邦科学研究中降低对高校的侧重，转而强调人工智能。",
-          "url": "https://flash.jin10.com/detail/20260722060041607800",
+          "title": "据华尔街日报：白宫官员称，顶级公用事业公司及数据中心开发商加入特朗普旨在保护缴费用户的承诺。公用事业公司与数据中心开发商承诺为数据中心用电支付更高费用。",
+          "url": "https://flash.jin10.com/detail/20260722071735772800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
+        },
+        {
+          "title": "特朗普宣布两年后对仿制药征收100%关税",
+          "url": "https://wallstreetcn.com/livenews/3137789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
+        },
+        {
+          "title": "因特朗普威胁征收关税，加美大桥通车庆祝仪式取消",
+          "url": "https://flash.jin10.com/detail/20260722071159968800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时43分"
+          "time_info": "07时46分"
         },
         {
           "title": "特朗普：胡塞武装若封锁红海，美国将采取行动",
@@ -115,11 +137,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时52分 ~ 06时43分]"
+          "appearance_count": 3,
+          "time_info": "[05时52分 ~ 07时46分]"
         },
         {
           "title": "特朗普“淡化”与伊朗谈判可能性，并称将在红海航运受威胁时出手",
@@ -127,11 +150,48 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            11
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时52分 ~ 07时46分]"
+        },
+        {
+          "title": "据Axios：美国议员要求美国证交会调查特朗普媒体科技集团(DJT.O)旗下的Truth Social将其数据访问权商业化的计划。此前有报道称，该集团的“Truth API”产品定于8月1日上线，该产品将提供对该平台排名前十的热门账户公开帖文的实时访问权限。",
+          "url": "https://flash.jin10.com/detail/20260722062026177800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时52分 ~ 06时43分]"
+          "time_info": "[06时43分 ~ 07时46分]"
+        },
+        {
+          "title": "据华尔街日报：官员透露，特朗普政府计划在联邦科学研究中降低对高校的侧重，转而强调人工智能。",
+          "url": "https://flash.jin10.com/detail/20260722060041607800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时43分 ~ 07时46分]"
+        },
+        {
+          "title": "特朗普点名伊朗镐山地下核设施：将很快发动猛烈打击",
+          "url": "https://www.cls.cn/detail/2433190",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时52分 ~ 07时46分]"
         },
         {
           "title": "特朗普暗示美军将对伊朗发动强硬报复：每杀害一名美国士兵将付出数倍代价",
@@ -146,16 +206,16 @@
           "time_info": "[00时14分 ~ 04时11分]"
         },
         {
-          "title": "特朗普点名伊朗镐山地下核设施：将很快发动猛烈打击",
-          "url": "https://www.cls.cn/detail/2433190",
-          "source": "财联社热门",
+          "title": "加拿大取消与美国的跨境大桥庆祝活动，此前特朗普政府宣布对加拿大加征关税。 加拿大说，Gordie Howe Bridge仍然将在7月27日开放。",
+          "url": "https://wallstreetcn.com/livenews/3137772",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            9
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时52分 ~ 06时43分]"
+          "appearance_count": 2,
+          "time_info": "[06时43分 ~ 07时46分]"
         },
         {
           "title": "美国总统特朗普敦促众议院共和党支持预算决议，要求推动落实《拯救美国法案》。",
@@ -216,15 +276,15 @@
           "time_info": "00时14分"
         },
         {
-          "title": "加拿大取消与美国的跨境大桥庆祝活动，此前特朗普政府宣布对加拿大加征关税。 加拿大说，Gordie Howe Bridge仍然将在7月27日开放。",
-          "url": "https://wallstreetcn.com/livenews/3137772",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普淡化美伊谈判可能，威胁打击地下核设施！",
+          "url": "https://flash.jin10.com/detail/20260722070823679800",
+          "source": "金十数据",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时43分"
+          "time_info": "07时46分"
         },
         {
           "title": "美国总统特朗普：将非常猛烈地打击镐山地区。",
@@ -236,6 +296,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "特朗普：仿制药0关税政策将实行两年 随后收100%、200%",
+          "url": "https://flash.jin10.com/detail/20260722070020653800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
         },
         {
           "title": "特朗普：没兴趣与伊朗见面，我们的斗争根本没有结束",
@@ -260,6 +331,17 @@
           "time_info": "00时14分"
         },
         {
+          "title": "美国总统特朗普：两年后，（仿制药）关税将先上调至100%，为期一年，随后升至200%。",
+          "url": "https://flash.jin10.com/detail/20260722065614730800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
+        },
+        {
           "title": "美国总统特朗普：伊朗还什么都没见识过，我们一直很克制。",
           "url": "https://flash.jin10.com/detail/20260721233939461800",
           "source": "金十数据",
@@ -271,6 +353,17 @@
           "time_info": "00时14分"
         },
         {
+          "title": "特朗普：自2026年8月1日起，所有进口至美国的仿制药将继续维持零关税，为期两年。",
+          "url": "https://flash.jin10.com/detail/20260722065517343800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
+        },
+        {
           "title": "美国总统特朗普：允许美国所有的航空公司直飞黎巴嫩。",
           "url": "https://wallstreetcn.com/livenews/3137726",
           "source": "华尔街见闻-快讯",
@@ -280,6 +373,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
+        },
+        {
+          "title": "美国总统特朗普下周（一）将前往密歇根州，初选将在那之后举行。（美联社）",
+          "url": "https://wallstreetcn.com/livenews/3137781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
         },
         {
           "title": "美国总统特朗普：已指示政府允许所有美国航空公司开通飞往黎巴嫩的直飞航班。",
@@ -326,6 +430,17 @@
           "time_info": "02时06分"
         },
         {
+          "title": "特朗普称将打击伊朗核设施",
+          "url": "https://www.toutiao.com/trending/7665119295965236786/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
+        },
+        {
           "title": "美国总统特朗普：伊朗可能试图通过霍尔木兹海影响选举。",
           "url": "https://flash.jin10.com/detail/20260721233634804800",
           "source": "金十数据",
@@ -335,6 +450,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "特朗普有意提名国际足联主席因凡蒂诺出任联合国秘书长",
+          "url": "https://flash.jin10.com/detail/20260722064418802800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
         },
         {
           "title": "美国总统特朗普：（在谈及加拿大关税时表示）这是因为他们对我们的农民等问题上采取了强硬措施。",
@@ -357,6 +483,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普计划下周到访密歇根州开展选举造势活动。",
+          "url": "https://flash.jin10.com/detail/20260722063924180800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
         },
         {
           "title": "美国总统特朗普：我们的协议将不允许伊朗拥有核武器。我们将打击伊朗考虑用于核武器的任何地点。",
@@ -384,25 +521,25 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
-        {
-          "title": "约旦称拦截并击落3枚自伊朗发射的导弹",
-          "url": "https://news.ifeng.com/c/8uvTwaa2evE",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 06时43分]"
-        },
         {
           "title": "伊朗还有两大杀手锏",
           "url": "https://news.ifeng.com/c/8uwrsyeC1bU",
           "source": "凤凰网",
           "ranks": [
             5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 07时46分]"
+        },
+        {
+          "title": "约旦称拦截并击落3枚自伊朗发射的导弹",
+          "url": "https://news.ifeng.com/c/8uvTwaa2evE",
+          "source": "凤凰网",
+          "ranks": [
+            3
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -569,6 +706,17 @@
           "time_info": "02时06分"
         },
         {
+          "title": "据大西洋月刊：美国官员表示，伊朗加大了对美国海军舰艇的打击力度。",
+          "url": "https://flash.jin10.com/detail/20260722065427355800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
+        },
+        {
           "title": "伊朗革命卫队：摧毁科威特两处雷达设施。",
           "url": "https://flash.jin10.com/detail/20260722032404643800",
           "source": "金十数据",
@@ -714,8 +862,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 06时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 07时46分]"
         },
         {
           "title": "据华尔街日报：OpenAI在首次公开募股前增聘两名独立董事，分别为数字银行Nubank创始人兼首席执行官大卫·贝莱兹以及纽约梅隆银行首席执行官罗宾·文斯。",
@@ -802,7 +950,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时43分"
         }
@@ -810,7 +958,7 @@
     },
     {
       "keyword_group": "小米 雷军 发布",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "两高管跌停价“抄底”！1100亿CPO龙头发布增持公告|盘后公告集锦",
@@ -822,8 +970,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时06分 ~ 06时43分]"
+          "appearance_count": 6,
+          "time_info": "[02时06分 ~ 07时46分]"
         },
         {
           "title": "英伟达发布Spectrum-6以太网交换系统，面向下一代超大规模AI工厂",
@@ -861,6 +1009,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时52分 ~ 06时43分]"
+        },
+        {
+          "title": "深圳市财政局发布公告，计划2026年在香港、澳门发行离岸人民币地方政府债券，现公开征集承销团成员，有意向需在7月28日前提交申请材料，本次香港发债不超过40亿元，澳门发债不超过10亿元。发行期限为2至10年期为主。",
+          "url": "https://flash.jin10.com/detail/20260722071101663800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
         },
         {
           "title": "空客将发布新的中期展望，进一步加强盈利承诺。",
@@ -979,7 +1138,7 @@
     },
     {
       "keyword_group": "战争",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美众议长约翰逊：美伊战争需要结束，应为谈判留空间",
@@ -1002,6 +1161,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "释新闻｜美伊互袭十日，滑向不受控的全面战争？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33628943",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
         }
       ]
     },
@@ -1018,8 +1188,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 06时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 07时46分]"
         }
       ]
     },
@@ -1033,11 +1203,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            14
+            14,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时52分 ~ 06时43分]"
+          "appearance_count": 4,
+          "time_info": "[05时52分 ~ 07时46分]"
         }
       ]
     },
@@ -1053,8 +1224,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 06时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 07时46分]"
         }
       ]
     }
