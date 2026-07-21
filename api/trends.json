@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-07-21T07:45:42.469765+08:00",
-  "total_titles_processed": 633,
+  "generated_at": "2026-07-21T09:20:07.382291+08:00",
+  "total_titles_processed": 779,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 43,
       "titles": [
+        {
+          "title": "伊朗公布打击多国美军基地战果",
+          "url": "https://news.ifeng.com/c/8uvTwaa2exp",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
+        },
+        {
+          "title": "约旦称拦截并击落3枚自伊朗发射的导弹",
+          "url": "https://news.ifeng.com/c/8uvTwaa2evE",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
+        },
         {
           "title": "“伊朗安全部门扣留法国2名外交人员”",
           "url": "https://news.ifeng.com/c/8uvMVD6vcSP",
@@ -17,6 +39,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时21分 ~ 07时45分]"
+        },
+        {
+          "title": "美国军方：最新一轮对伊朗的打击已结束。",
+          "url": "https://flash.jin10.com/detail/20260721091955522800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         },
         {
           "title": "伊朗外长：美国曾试图“收买”我们，我当场拒绝",
@@ -163,6 +196,18 @@
           "time_info": "[04时58分 ~ 06时44分]"
         },
         {
+          "title": "伊朗海军同时从3个方向猛烈打击美军",
+          "url": "https://www.toutiao.com/trending/7663674772672512009/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时45分 ~ 09时20分]"
+        },
+        {
           "title": "美国中央司令部：美东时间周一下午4时，美军对伊朗发动新一轮打击。此次行动旨在进一步削弱伊朗用于攻击霍尔木兹海峡商业船只的军事能力。",
           "url": "https://flash.jin10.com/detail/20260721041724576800",
           "source": "金十数据",
@@ -187,6 +232,28 @@
           "time_info": "[03时21分 ~ 04时58分]"
         },
         {
+          "title": "原油短线下挫！报道称调停方提议美伊停火10天，伊朗称收到提议未透露细节",
+          "url": "https://wallstreetcn.com/articles/3777457",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
+        },
+        {
+          "title": "伊朗革命卫队：在针对巴林里法（Riffa）的导弹与无人机袭击中，将目标锁定为部署在那里的美制“爱国者”防空系统。",
+          "url": "https://flash.jin10.com/detail/20260721090958775800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
           "title": "据华尔街日报：伊朗导弹上周袭击了约旦基地美军营房。",
           "url": "https://flash.jin10.com/detail/20260721022339424800",
           "source": "金十数据",
@@ -196,6 +263,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "伊朗革命卫队：已将位于巴林穆哈拉格（Muharraq）的美军雷达及防空系统作为打击目标。",
+          "url": "https://flash.jin10.com/detail/20260721090850495800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：以色列媒体报道称，位于以色列南部的港口城市埃拉特（Eilat）传出爆炸声。",
@@ -237,18 +315,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时45分"
-        },
-        {
-          "title": "伊朗海军同时从3个方向猛烈打击美军",
-          "url": "https://www.toutiao.com/trending/7663674772672512009/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -308,6 +375,17 @@
           "time_info": "06时44分"
         },
         {
+          "title": "据华尔街日报：以色列认为伊朗已将核离心机转移至“镐山”设施。",
+          "url": "https://flash.jin10.com/detail/20260721090212803800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
           "title": "伊朗官员：伊朗中部霍梅尼市郊一处工业设施遭袭，未造成人员伤亡，潜在损失规模仍在评估中。",
           "url": "https://flash.jin10.com/detail/20260721002652582800",
           "source": "金十数据",
@@ -339,6 +417,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        },
+        {
+          "title": "伊朗革命卫队：一小时前，两艘油轮在美军的误导下，试图经由霍尔木兹海峡以南的危险航道通过，结果发生爆炸起火并被迫停航。目前，救援部队正在将这些船只上的船员撤离该区域。",
+          "url": "https://flash.jin10.com/detail/20260721090114844800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         },
         {
           "title": "美国中央司令部：截至7月20日，美军已迫使7艘商船改道，并使1艘商船失去行动能力，以阻止船只进出伊朗港口。",
@@ -410,7 +499,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普：伊朗每杀死一名美军，必将付出数倍代价",
@@ -432,8 +521,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 07时45分]"
+          "appearance_count": 9,
+          "time_info": "[01时16分 ~ 09时20分]"
         },
         {
           "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
@@ -442,11 +531,12 @@
           "ranks": [
             10,
             9,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 07时45分]"
+          "appearance_count": 9,
+          "time_info": "[01时16分 ~ 09时20分]"
         },
         {
           "title": "特朗普喊话国际足联主席，「美国必须再次举办世界杯，且要在我任期间实现」，这可能性有多大？背后有何考量？",
@@ -456,8 +546,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 07时45分]"
+          "appearance_count": 9,
+          "time_info": "[01时16分 ~ 09时20分]"
         },
         {
           "title": "美国总统特朗普：以色列总理内塔尼亚胡在美国期间不会以任何形式遭到逮捕。",
@@ -477,7 +567,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -499,7 +589,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -552,6 +642,28 @@
           "time_info": "[05时57分 ~ 06时44分]"
         },
         {
+          "title": "美伊对峙愈演愈烈？美军伤亡与日俱增，特朗普扬言要伊朗付数倍代价！",
+          "url": "https://www.cls.cn/detail/2431976",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
+        },
+        {
+          "title": "纽约市长威胁逮捕内塔尼亚胡，特朗普表态",
+          "url": "https://news.ifeng.com/c/8uvU7ssA8qW",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
+        },
+        {
           "title": "美国总统特朗普：与其讨论了北海石油、贸易、军事同盟以及霍尔木兹海峡扫雷事宜。",
           "url": "https://flash.jin10.com/detail/20260721062036986800",
           "source": "金十数据",
@@ -574,6 +686,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时44分 ~ 07时45分]"
+        },
+        {
+          "title": "“特朗普毫无疑问是美国历史上最腐败的总统”",
+          "url": "https://news.ifeng.com/c/8uvIalkczmR",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
         },
         {
           "title": "美国总统特朗普：与英国新任首相进行了非常好的交谈。",
@@ -639,7 +762,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -661,7 +784,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -746,8 +869,20 @@
     },
     {
       "keyword_group": "小米 雷军 发布",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "谢霆锋兄妹发布讣告",
+          "url": "https://www.douyin.com/hot/2578637",
+          "source": "抖音",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 09时20分]"
+        },
         {
           "title": "多家央企旗下上市公司同日发布公告",
           "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E5%A4%AE%E4%BC%81%E6%97%97%E4%B8%8B%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%90%8C%E6%97%A5%E5%8F%91%E5%B8%83%E5%85%AC%E5%91%8A",
@@ -763,15 +898,15 @@
           "time_info": "[01时16分 ~ 07时45分]"
         },
         {
-          "title": "谢霆锋兄妹发布讣告",
-          "url": "https://www.douyin.com/hot/2578637",
-          "source": "抖音",
+          "title": "美国国务院：因中东紧张局势加剧，已向美国公民发布“全球安全警示”。",
+          "url": "https://flash.jin10.com/detail/20260721091228568800",
+          "source": "金十数据",
           "ranks": [
-            11
+            5
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 06时44分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         },
         {
           "title": "SpaceX将于8月4日发布二季度业绩报告。",
@@ -812,11 +947,12 @@
             13,
             8,
             4,
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 07时45分]"
+          "appearance_count": 9,
+          "time_info": "[01时16分 ~ 09时20分]"
         },
         {
           "title": "如何看待最近网传的 DeepSeek v4 正式版灰测？",
@@ -841,6 +977,47 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时56分 ~ 07时45分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "周一（7月20日），美股存储芯片与硬件供应链指数涨1.43%，报192.09点，整体高开低走。 美股超大规模云服务商（Hyperscalers）涨0.67%，报92.61点，美股早盘持续上涨，之后逐步回吐涨幅。 信息科技指数涨1%，报378.18点。 人工智能（AI）赢家指数涨0.73%，报378.70点。 AI软件先驱指数涨0.84%，报109.45点，美股早盘持续反弹，00:00以来高位震荡。 美国科技股七巨头（Magnificent 7）指数涨0.09%，报217.20点。成分股中，特斯拉收跌2.96%，苹果跌2.14%，亚马逊、谷歌A至多涨1.51%，微软涨2.15%。 “超大”市值科技股指数涨0.11%，报431.23点，整体呈现出两波M形走势。",
+          "url": "https://wallstreetcn.com/livenews/3137082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 06时44分]"
+        },
+        {
+          "title": "谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率",
+          "url": "https://www.cls.cn/detail/2431896",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
+        },
+        {
+          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
+          "url": "https://wallstreetcn.com/articles/3777467",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
         }
       ]
     },
@@ -896,8 +1073,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 07时45分]"
+          "appearance_count": 9,
+          "time_info": "[01时16分 ~ 09时20分]"
         },
         {
           "title": "美国为何急着打压中国开源大模型",
@@ -956,21 +1133,19 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "chatgpt openai 发布",
       "match_count": 1,
       "titles": [
         {
-          "title": "周一（7月20日），美股存储芯片与硬件供应链指数涨1.43%，报192.09点，整体高开低走。 美股超大规模云服务商（Hyperscalers）涨0.67%，报92.61点，美股早盘持续上涨，之后逐步回吐涨幅。 信息科技指数涨1%，报378.18点。 人工智能（AI）赢家指数涨0.73%，报378.70点。 AI软件先驱指数涨0.84%，报109.45点，美股早盘持续反弹，00:00以来高位震荡。 美国科技股七巨头（Magnificent 7）指数涨0.09%，报217.20点。成分股中，特斯拉收跌2.96%，苹果跌2.14%，亚马逊、谷歌A至多涨1.51%，微软涨2.15%。 “超大”市值科技股指数涨0.11%，报431.23点，整体呈现出两波M形走势。",
-          "url": "https://wallstreetcn.com/livenews/3137082",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？",
+          "url": "https://www.zhihu.com/question/2062575282591209175",
+          "source": "知乎",
           "ranks": [
-            5,
-            18,
-            22
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时58分 ~ 06时44分]"
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
         }
       ]
     }
