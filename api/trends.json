@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T09:25:07.622796+08:00",
-  "total_titles_processed": 853,
+  "generated_at": "2026-07-23T13:02:14.353769+08:00",
+  "total_titles_processed": 1049,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 44,
+      "match_count": 50,
       "titles": [
         {
           "title": "伊朗袭击亚马逊公司设施",
@@ -78,6 +78,18 @@
           "time_info": "03时12分"
         },
         {
+          "title": "国际原油价格大幅上涨 伊朗放话或切断海湾能源流动 | 环球市场",
+          "url": "https://www.cls.cn/detail/2434530",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时53分 ~ 13时02分]"
+        },
+        {
           "title": "伊朗议会议长：如果伊朗的安全得不到保障，任何基础设施都不会安全。",
           "url": "https://wallstreetcn.com/livenews/3138346",
           "source": "华尔街见闻-快讯",
@@ -115,17 +127,6 @@
           "time_info": "[00时12分 ~ 09时25分]"
         },
         {
-          "title": "国际原油价格大幅上涨 伊朗放话或切断海湾能源流动 | 环球市场",
-          "url": "https://www.cls.cn/detail/2434530",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时53分 ~ 09时25分]"
-        },
-        {
           "title": "美军称对伊朗发动新一轮军事打击",
           "url": "https://wallstreetcn.com/livenews/3138450",
           "source": "华尔街见闻-快讯",
@@ -159,6 +160,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时24分 ~ 09时25分]"
+        },
+        {
+          "title": "伊朗革命卫队：打击了美军位于科威特的阿里夫坚军营和多哈营地。",
+          "url": "https://flash.jin10.com/detail/20260723124538316800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "以媒：美国拟动用重型轰炸机打击伊朗",
@@ -200,7 +212,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -238,6 +250,17 @@
           "time_info": "03时12分"
         },
         {
+          "title": "英国外交部说从伊朗暂时撤出工作人员",
+          "url": "https://wallstreetcn.com/livenews/3138600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "伊朗议会议长卡利巴夫：这场战争的逻辑很明确。要么所有人都承受后果，要么谁都别想置身事外。",
           "url": "https://flash.jin10.com/detail/20260723012742411800",
           "source": "金十数据",
@@ -258,6 +281,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时49分"
+        },
+        {
+          "title": "伊朗革命卫队：袭击了科威特阿尔阿迪里营地和阿里·阿尔萨勒姆空军基地的美军。",
+          "url": "https://flash.jin10.com/detail/20260723123245002800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "美再威胁袭击伊朗基础设施 伊方回应",
@@ -354,7 +388,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -387,7 +421,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -425,13 +459,24 @@
           "time_info": "05时55分"
         },
         {
+          "title": "美军连续第12晚打击伊朗 持续5个小时",
+          "url": "https://wallstreetcn.com/livenews/3138582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "伊朗：3艘油轮通过霍尔木兹海峡受阻",
           "url": "https://flash.jin10.com/detail/20260723090037236800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -445,6 +490,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "伊朗消息人士说伊朗已准备好应对美军地面入侵",
+          "url": "https://wallstreetcn.com/livenews/3138579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "伊朗革命卫队海军：警告各方不要使用霍尔木兹海峡替代航线。",
@@ -480,6 +536,17 @@
           "time_info": "05时55分"
         },
         {
+          "title": "美国于美东时间晚上10:30完成对伊朗的最新一轮打击。",
+          "url": "https://wallstreetcn.com/livenews/3138572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "美军称对伊朗军事目标发起新一轮打击",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E7%A7%B0%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%86%9B%E4%BA%8B%E7%9B%AE%E6%A0%87%E5%8F%91%E8%B5%B7%E6%96%B0%E4%B8%80%E8%BD%AE%E6%89%93%E5%87%BB",
           "source": "百度热搜",
@@ -505,7 +572,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元",
@@ -513,11 +580,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时12分 ~ 09时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时12分 ~ 13时02分]"
         },
         {
           "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
@@ -527,8 +595,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时53分 ~ 09时25分]"
+          "appearance_count": 5,
+          "time_info": "[07时53分 ~ 13时02分]"
         },
         {
           "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
@@ -538,8 +606,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 13时02分]"
+        },
+        {
+          "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
+          "url": "https://wallstreetcn.com/articles/3777723",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时24分 ~ 09时25分]"
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
           "title": "谷歌盘后大跌！全年资本开支上调8%，CFO称继续加大投入",
@@ -619,6 +698,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时24分 ~ 09时25分]"
+        },
+        {
+          "title": "谷歌的AI帝国出路在哪儿",
+          "url": "https://www.toutiao.com/trending/7665529828912664118/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
           "title": "AI基础设施概念股盘后大涨，谷歌母公司在电话会上谈及产能扩张",
@@ -744,6 +834,213 @@
       ]
     },
     {
+      "keyword_group": "小米 雷军 发布",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "联合国会议上，中国发布重要文件",
+          "url": "https://news.ifeng.com/c/8uxL1hNztEC",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 06时49分]"
+        },
+        {
+          "title": "体育强国建设“十五五”规划发布：加强体育饭圈乱象整治、杜绝运动员网红化",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33636542",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            6,
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时12分 ~ 13时02分]"
+        },
+        {
+          "title": "如何看待《第九区》导演发布 13 分钟全 AI 短片《阴兵》，并计划拍长片， AI 电影发展到哪步了？",
+          "url": "https://www.zhihu.com/question/2062918586486583714",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15,
+            12,
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[04时52分 ~ 13时02分]"
+        },
+        {
+          "title": "三星阔折叠手机发布",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E9%98%94%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA%E5%8F%91%E5%B8%83%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            22,
+            25,
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时55分]"
+        },
+        {
+          "title": "河北省气象台发布暴雨蓝色预警",
+          "url": "https://www.douyin.com/hot/2580414",
+          "source": "抖音",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时52分 ~ 06时49分]"
+        },
+        {
+          "title": "净网：网警发布20起涉汛涉灾谣言案例",
+          "url": "https://www.toutiao.com/trending/7665532809305706011/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "网警发布20起涉汛涉灾谣言案例",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E8%AD%A6%E5%8F%91%E5%B8%8320%E8%B5%B7%E6%B6%89%E6%B1%9B%E6%B6%89%E7%81%BE%E8%B0%A3%E8%A8%80%E6%A1%88%E4%BE%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "净网：网警发布20起涉汛涉灾谣言案例",
+          "url": "https://www.douyin.com/hot/2581762",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "如何评价腾讯员工发布的《置身宝内》？员工称权谋氛围浓厚致业务无法发展，这是腾讯业务的最大问题吗？",
+          "url": "https://www.zhihu.com/question/2063382652334207964",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "Evercore ISI分析师Amit Daryanani在IBM财报发布后表示，（针对全年营收指引的）这一降幅“好于市场担忧”。 在IBM上周发布初步业绩（显示基础设施及相关软件销售疲软）后，华尔街许多人士已预期该公司会下调指引。",
+          "url": "https://wallstreetcn.com/livenews/3138451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时49分 ~ 07时53分]"
+        },
+        {
+          "title": "可再生能源发展十五五规划发布：预计“十五五”期间可再生能源产业总投资将超5万亿元",
+          "url": "https://www.cls.cn/detail/2434600",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "月之暗面 KimiK3 发布后，Anthropic 为何成外网主要吐槽对象？",
+          "url": "https://www.zhihu.com/question/2062640157015249755",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "今日15时将举行重要发布会 商务部负责人介绍情况",
+          "url": "https://flash.jin10.com/detail/20260723070404284800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "美联储：美联储主席沃什将于7月29日美东时间02:30举行联邦公开市场委员会（FOMC）新闻发布会。",
+          "url": "https://wallstreetcn.com/livenews/3138357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "雷军称澎程首保后整车 3 年或增程器 3 万公里才需保养，这个保养逻辑合理吗？会改变你的购车选择吗？",
+          "url": "https://www.zhihu.com/question/2063214752571077944",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时12分"
+        },
+        {
+          "title": "美国五天内三度发布全球安全提醒",
+          "url": "https://wallstreetcn.com/livenews/3138585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "发改委、能源局发布关于印发《可再生能源发展“十五五”规划》的通知。",
+          "url": "https://flash.jin10.com/detail/20260723090312480800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
       "match_count": 16,
       "titles": [
@@ -769,8 +1066,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时52分 ~ 09时25分]"
+          "appearance_count": 10,
+          "time_info": "[04时52分 ~ 13时02分]"
+        },
+        {
+          "title": "特朗普：预计美联邦政府在9月将出现“停摆”",
+          "url": "https://news.ifeng.com/c/8uyvegEdrQo",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时53分 ~ 13时02分]"
         },
         {
           "title": "新闻蒸馏器｜特朗普关税或将“换壳”：覆盖60国，税率10%至12.5%",
@@ -786,27 +1096,16 @@
           "time_info": "[02时00分 ~ 09时25分]"
         },
         {
-          "title": "特朗普：预计美联邦政府在9月将出现“停摆”",
-          "url": "https://news.ifeng.com/c/8uyvegEdrQo",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时53分 ~ 09时25分]"
-        },
-        {
           "title": "污蔑中国遭驳斥后，特朗普自曝：美国对中国“做过一些事”",
           "url": "https://news.ifeng.com/c/8uyHXh9awI8",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 09时25分]"
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 13时02分]"
         },
         {
           "title": "美国总统特朗普：9月份将面临政府停摆。",
@@ -869,22 +1168,24 @@
           "url": "https://wallstreetcn.com/articles/3777708",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 09时25分]"
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 13时02分]"
         },
         {
           "title": "特朗普宣布两年后对仿制药征收 100% 关税，该举措出于什么目的？会对相关产业带来哪些影响？",
           "url": "https://www.zhihu.com/question/2063183942509754265",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 09时25分]"
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 13时02分]"
         },
         {
           "title": "特朗普：我们在伊朗取得胜利，我们不需要霍尔木兹海峡",
@@ -959,8 +1260,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时12分 ~ 09时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时12分 ~ 13时02分]"
         },
         {
           "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
@@ -1082,130 +1383,108 @@
       ]
     },
     {
-      "keyword_group": "小米 雷军 发布",
-      "match_count": 10,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 5,
       "titles": [
         {
-          "title": "联合国会议上，中国发布重要文件",
-          "url": "https://news.ifeng.com/c/8uxL1hNztEC",
-          "source": "凤凰网",
+          "title": "吧友做梗图催更DeepSeekV4",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356411&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%81%9A%E6%A2%97%E5%9B%BE%E5%82%AC%E6%9B%B4DeepSeekV4",
+          "source": "贴吧",
           "ranks": [
-            3
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时12分 ~ 13时02分]"
+        },
+        {
+          "title": "如何看待 7 月 22 日 DeepSeek 客户端联网搜索近 4 小时不可用？",
+          "url": "https://www.zhihu.com/question/2063241470010822764",
+          "source": "知乎",
+          "ranks": [
+            14,
+            10,
+            7,
+            6,
+            13,
+            15
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时12分 ~ 06时49分]"
+          "time_info": "[02时00分 ~ 07时53分]"
         },
         {
-          "title": "体育强国建设“十五五”规划发布：加强体育饭圈乱象整治、杜绝运动员网红化",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33636542",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            6,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时12分 ~ 09时25分]"
-        },
-        {
-          "title": "如何看待《第九区》导演发布 13 分钟全 AI 短片《阴兵》，并计划拍长片， AI 电影发展到哪步了？",
-          "url": "https://www.zhihu.com/question/2062918586486583714",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15,
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时52分 ~ 09时25分]"
-        },
-        {
-          "title": "三星阔折叠手机发布",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E9%98%94%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA%E5%8F%91%E5%B8%83%23&t=31&band_rank=9&Refer=top",
+          "title": "梁文锋 格局",
+          "url": "https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E9%94%8B%20%E6%A0%BC%E5%B1%80&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            9,
-            22,
-            25,
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 05时55分]"
-        },
-        {
-          "title": "河北省气象台发布暴雨蓝色预警",
-          "url": "https://www.douyin.com/hot/2580414",
-          "source": "抖音",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时52分 ~ 06时49分]"
-        },
-        {
-          "title": "Evercore ISI分析师Amit Daryanani在IBM财报发布后表示，（针对全年营收指引的）这一降幅“好于市场担忧”。 在IBM上周发布初步业绩（显示基础设施及相关软件销售疲软）后，华尔街许多人士已预期该公司会下调指引。",
-          "url": "https://wallstreetcn.com/livenews/3138451",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时49分 ~ 07时53分]"
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
-          "title": "今日15时将举行重要发布会 商务部负责人介绍情况",
-          "url": "https://flash.jin10.com/detail/20260723070404284800",
-          "source": "金十数据",
+          "title": "梁文锋四小时投资人会议实录",
+          "url": "https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E9%94%8B%E5%9B%9B%E5%B0%8F%E6%97%B6%E6%8A%95%E8%B5%84%E4%BA%BA%E4%BC%9A%E8%AE%AE%E5%AE%9E%E5%BD%95&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
-            8
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "网传梁文锋四小时投资人会议内容，可靠吗？有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2063491794097247085",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "战争",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "叽米单通货币战争",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8F%BD%E7%B1%B3%E5%8D%95%E9%80%9A%E8%B4%A7%E5%B8%81%E6%88%98%E4%BA%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "亚马逊巴林数据中心又被炸了，中东算力战争开打",
+          "url": "https://wallstreetcn.com/articles/3777692",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
         {
-          "title": "美联储：美联储主席沃什将于7月29日美东时间02:30举行联邦公开市场委员会（FOMC）新闻发布会。",
-          "url": "https://wallstreetcn.com/livenews/3138357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "雷军称澎程首保后整车 3 年或增程器 3 万公里才需保养，这个保养逻辑合理吗？会改变你的购车选择吗？",
-          "url": "https://www.zhihu.com/question/2063214752571077944",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
-          "title": "发改委、能源局发布关于印发《可再生能源发展“十五五”规划》的通知。",
-          "url": "https://flash.jin10.com/detail/20260723090312480800",
+          "title": "美国祭出B-1“重锤”！远程轰炸机加入战场，美伊战争烈度升级",
+          "url": "https://flash.jin10.com/detail/20260723121635431800",
           "source": "金十数据",
           "ranks": [
-            20
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时25分"
+          "time_info": "13时02分"
         }
       ]
     },
@@ -1231,55 +1510,24 @@
           "ranks": [
             5,
             6,
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时12分 ~ 09时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时12分 ~ 13时02分]"
         },
         {
           "title": "网红狗被宰杀,身价才2千",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356385&amp;topic_name=%E7%BD%91%E7%BA%A2%E7%8B%97%E8%A2%AB%E5%AE%B0%E6%9D%80%2C%E8%BA%AB%E4%BB%B7%E6%89%8D2%E5%8D%83",
           "source": "贴吧",
           "ranks": [
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时12分 ~ 09时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "吧友做梗图催更DeepSeekV4",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356411&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%81%9A%E6%A2%97%E5%9B%BE%E5%82%AC%E6%9B%B4DeepSeekV4",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时12分 ~ 09时25分]"
-        },
-        {
-          "title": "如何看待 7 月 22 日 DeepSeek 客户端联网搜索近 4 小时不可用？",
-          "url": "https://www.zhihu.com/question/2063241470010822764",
-          "source": "知乎",
-          "ranks": [
-            14,
-            10,
-            7,
-            6,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时00分 ~ 07时53分]"
+          "appearance_count": 14,
+          "time_info": "[00时12分 ~ 13时02分]"
         }
       ]
     },
@@ -1327,23 +1575,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时53分 ~ 05时55分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "战争",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "亚马逊巴林数据中心又被炸了，中东算力战争开打",
-          "url": "https://wallstreetcn.com/articles/3777692",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
         }
       ]
     }
