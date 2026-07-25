@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T22:26:02.175340+08:00",
-  "total_titles_processed": 1339,
+  "generated_at": "2026-07-25T23:55:07.007633+08:00",
+  "total_titles_processed": 1418,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
@@ -127,6 +127,18 @@
           "time_info": "[02时09分 ~ 04时09分]"
         },
         {
+          "title": "特朗普突然宣布：将第四次竞选总统！他头戴印有“特朗普2028”字样的小红帽称：我已经很有经验了，将再次出马",
+          "url": "https://wallstreetcn.com/articles/3777927",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时25分 ~ 23时55分]"
+        },
+        {
           "title": "美国总统特朗普：以色列总理内塔尼亚胡下周将访问华盛顿。",
           "url": "https://wallstreetcn.com/livenews/3139705",
           "source": "华尔街见闻-快讯",
@@ -152,6 +164,17 @@
           "time_info": "[12时53分 ~ 15时08分]"
         },
         {
+          "title": "特朗普称准备第四次竞选总统",
+          "url": "https://news.ifeng.com/c/8v378W8XMdI",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-25）",
           "url": "https://flash.jin10.com/detail/20260725183311628800",
           "source": "金十数据",
@@ -174,17 +197,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时22分 ~ 12时53分]"
-        },
-        {
-          "title": "特朗普突然宣布：将第四次竞选总统！他头戴印有“特朗普2028”字样的小红帽称：我已经很有经验了，将再次出马",
-          "url": "https://wallstreetcn.com/articles/3777927",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时25分 ~ 22时26分]"
         },
         {
           "title": "特朗普再打关税战 这次有何不同",
@@ -243,6 +255,17 @@
           "time_info": "[15时07分 ~ 15时08分]"
         },
         {
+          "title": "一切都怪战争和通胀！美国股市中的“特朗普交易”正沦为输家",
+          "url": "https://wallstreetcn.com/livenews/3139778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "美国总统特朗普：已做好在伊朗采取更高级别军事行动的准备。",
           "url": "https://flash.jin10.com/detail/20260725034104359800",
           "source": "金十数据",
@@ -263,6 +286,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "两位巴西消息人士：巴西拒绝向两名试图质询巴西选举制度的特朗普政府特使签发签证。",
+          "url": "https://flash.jin10.com/detail/20260725222304302800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "美国总统特朗普声称，欧盟将付出非常大的代价。 批评欧盟针对苹果、Meta的罚款，他们“在掠夺”美国企业。 美国开始对“欧盟针对美国科技企业采取的行动”展开301调查。 “我们预计将会对欧盟‘大幅’加征关税”。 欧元转跌，在美上市ETF欧元做多回吐日内稍早涨幅。",
@@ -488,7 +522,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "伊朗外长：无需更多调解者，美应改变态度",
@@ -511,8 +545,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[02时09分 ~ 22时26分]"
+          "appearance_count": 19,
+          "time_info": "[02时09分 ~ 23时55分]"
         },
         {
           "title": "美媒爆猛料，“两国首次直接袭击伊朗”",
@@ -522,8 +556,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时25分 ~ 22时26分]"
+          "appearance_count": 8,
+          "time_info": "[17时25分 ~ 23时55分]"
         },
         {
           "title": "伊朗公布美军近期袭击伤亡数据",
@@ -551,17 +585,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[07时53分 ~ 20时03分]"
-        },
-        {
-          "title": "伊朗官员：镐山设施“目前是空的”",
-          "url": "https://flash.jin10.com/detail/20260725214500074800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
         },
         {
           "title": "伊朗外长说不惧威胁不屈服于美国",
@@ -601,6 +624,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
+        },
+        {
+          "title": "美国对伊朗实施“冷热交替”策略，当前首要目标可能是......",
+          "url": "https://flash.jin10.com/detail/20260725223644816800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "Muriel Siebert首席投资官Mark Malek：在通胀和油价高企、投资者担心企业利润率扩张可能放缓的时候，现在真不是推行关税政策的时候。 我们现在必须非常非常谨慎。 尽管霍尔木兹海峡因伊朗战争而关闭，但股市此前已经出现过反弹，相当于用掉了它唯一的“免死金牌”。",
+          "url": "https://wallstreetcn.com/livenews/3139779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "伊朗称袭击美国亚马逊公司一数据中心",
@@ -653,6 +698,18 @@
           "time_info": "[19时00分 ~ 22时26分]"
         },
         {
+          "title": "伊朗官员：镐山设施“目前是空的”",
+          "url": "https://flash.jin10.com/detail/20260725214500074800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 23时55分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：乌克兰袭击了在里海海域运输涉及伊朗军事物资的船只。",
           "url": "https://flash.jin10.com/detail/20260725180813776800",
           "source": "金十数据",
@@ -703,6 +760,17 @@
           "time_info": "[05时53分 ~ 09时22分]"
         },
         {
+          "title": "分析｜美国本轮已连续袭击伊朗13晚，以色列为何“隐身”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650717",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时25分 ~ 23时55分]"
+        },
+        {
           "title": "伊朗和阿曼就霍尔木兹海峡问题举行会谈",
           "url": "https://wallstreetcn.com/livenews/3139646",
           "source": "华尔街见闻-快讯",
@@ -740,15 +808,27 @@
           "time_info": "[19时00分 ~ 20时03分]"
         },
         {
-          "title": "分析｜美国本轮已连续袭击伊朗13晚，以色列为何“隐身”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33650717",
-          "source": "澎湃新闻",
+          "title": "伊朗官员：镐山设施“目前是空的”，袭击一个空置的仓库只有利于制造虚假信息",
+          "url": "https://wallstreetcn.com/livenews/3139764",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            10,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时25分 ~ 22时26分]"
+          "time_info": "[22时26分 ~ 23时55分]"
+        },
+        {
+          "title": "伊朗打击亚马逊数据中心，卫星图像公布",
+          "url": "https://www.cls.cn/detail/2437013",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
         },
         {
           "title": "伊朗军方称将对美军实施对等报复",
@@ -794,17 +874,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
-        },
-        {
-          "title": "伊朗官员：镐山设施“目前是空的”，袭击一个空置的仓库只有利于制造虚假信息",
-          "url": "https://wallstreetcn.com/livenews/3139764",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
         },
         {
           "title": "王毅会见伊朗外长阿拉格齐",
@@ -909,8 +978,42 @@
     },
     {
       "keyword_group": "小米 雷军 发布",
-      "match_count": 21,
+      "match_count": 27,
       "titles": [
+        {
+          "title": "中央气象台发布今年首个台风红色预警",
+          "url": "https://www.toutiao.com/trending/7666467518051012146/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
+        },
+        {
+          "title": "时光代理人3片头曲发布",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%B6%E5%85%89%E4%BB%A3%E7%90%86%E4%BA%BA3%E7%89%87%E5%A4%B4%E6%9B%B2%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时25分 ~ 23时55分]"
+        },
+        {
+          "title": "“红霞”已加强为强台风 今年首个台风红色预警发布",
+          "url": "https://flash.jin10.com/detail/20260725225609658800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
         {
           "title": "“红霞”即将登陆，中央气象台发布今年首个台风红色预警。（央视）",
           "url": "https://wallstreetcn.com/livenews/3139773",
@@ -918,7 +1021,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -996,6 +1099,17 @@
           "time_info": "[12时53分 ~ 17时25分]"
         },
         {
+          "title": "黄仁勋发布首条推文力挺开源AI：世界需要前沿的开源模型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33656792",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时25分 ~ 23时55分]"
+        },
+        {
           "title": "小米澎程 skynomadn90max 白色测试车现身，这意味着什么？",
           "url": "https://www.zhihu.com/question/2063349995479234462",
           "source": "知乎",
@@ -1032,26 +1146,37 @@
           "time_info": "[19时00分 ~ 20时03分]"
         },
         {
-          "title": "时光代理人3片头曲发布",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%B6%E5%85%89%E4%BB%A3%E7%90%86%E4%BA%BA3%E7%89%87%E5%A4%B4%E6%9B%B2%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
+          "title": "今年首个台风红色预警发布",
+          "url": "https://www.douyin.com/hot/2585235",
+          "source": "抖音",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时25分 ~ 22时26分]"
+          "time_info": "[23时54分 ~ 23时55分]"
         },
         {
-          "title": "黄仁勋发布首条推文力挺开源AI：世界需要前沿的开源模型",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33656792",
-          "source": "澎湃新闻",
+          "title": "中央气象台发布今年首个台风红警",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E6%B0%94%E8%B1%A1%E5%8F%B0%E5%8F%91%E5%B8%83%E4%BB%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E5%8F%B0%E9%A3%8E%E7%BA%A2%E8%AD%A6",
+          "source": "百度热搜",
           "ranks": [
-            20
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时25分 ~ 22时26分]"
+          "time_info": "[23时54分 ~ 23时55分]"
+        },
+        {
+          "title": "最高级别预警！中央气象台发布暴雨红警",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33658733",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
         },
         {
           "title": "据东莞发布：台风“红霞”来势凶猛，市三防指挥部决定，自7月25日起在，全市范围内实行“四停”，（停课、停工、停运、停业）措施。",
@@ -1063,6 +1188,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
+        },
+        {
+          "title": "“红霞”即将登陆，中央气象台发布最高级别台风预警",
+          "url": "https://wallstreetcn.com/livenews/3139773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "据香港经济日报：香港天文台改发三号强风信号，今晚9时至午夜12时可能发布更高级别风力信号。",
@@ -1245,7 +1381,7 @@
     },
     {
       "keyword_group": "网红 翻车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "网红券商Robinhood与Crypto.com考虑针对预测市场构建合作伙伴关系。（华尔街日报）",
@@ -1270,6 +1406,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[22时25分 ~ 22时26分]"
+        },
+        {
+          "title": "河南瓜农控诉有网红博流量低价收瓜",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E7%93%9C%E5%86%9C%E6%8E%A7%E8%AF%89%E6%9C%89%E7%BD%91%E7%BA%A2%E5%8D%9A%E6%B5%81%E9%87%8F%E4%BD%8E%E4%BB%B7%E6%94%B6%E7%93%9C%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
         },
         {
           "title": "留几手曝最火的女网红是小三",
@@ -1376,8 +1523,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时03分 ~ 22时26分]"
+          "appearance_count": 5,
+          "time_info": "[20时03分 ~ 23时55分]"
         }
       ]
     },
