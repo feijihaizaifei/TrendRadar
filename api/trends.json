@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T17:21:54.799666+08:00",
-  "total_titles_processed": 1061,
+  "generated_at": "2026-07-27T20:49:11.733284+08:00",
+  "total_titles_processed": 1253,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
         {
           "title": "伊朗革命卫队披露美军死亡人数",
@@ -96,6 +96,28 @@
           "time_info": "[09时29分 ~ 17时21分]"
         },
         {
+          "title": "知情人士：美军中东最高指挥官认为空袭伊朗难再见效",
+          "url": "https://news.ifeng.com/c/8v6QdWrNJZ0",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 20时49分]"
+        },
+        {
+          "title": "伊朗外交部回应商船遇袭：要求追究乌克兰政府支持者责任",
+          "url": "https://news.ifeng.com/c/8v6QrUZwqR8",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 20时49分]"
+        },
+        {
           "title": "伊朗高级消息人士表示，只要美国维持目前的停火状态，伊朗将停止攻击。（路透）",
           "url": "https://wallstreetcn.com/livenews/3139853",
           "source": "华尔街见闻-快讯",
@@ -109,15 +131,17 @@
           "time_info": "[00时43分 ~ 06时47分]"
         },
         {
-          "title": "知情人士：美军中东最高指挥官认为空袭伊朗难再见效",
-          "url": "https://news.ifeng.com/c/8v6QdWrNJZ0",
-          "source": "凤凰网",
+          "title": "美伊暂停互袭的背后：伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展，美军弹药吃紧",
+          "url": "https://wallstreetcn.com/articles/3777973",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            7,
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时36分 ~ 20时49分]"
         },
         {
           "title": "俄罗斯外交部：阿拉格齐向拉夫罗夫通报了当前为缓和因美国袭击伊朗而引发的中东紧张局势所开展的外交努力。",
@@ -146,17 +170,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时43分 ~ 04时03分]"
-        },
-        {
-          "title": "伊朗外交部回应商船遇袭：要求追究乌克兰政府支持者责任",
-          "url": "https://news.ifeng.com/c/8v6QrUZwqR8",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
         },
         {
           "title": "俄罗斯外交部：7月26日，应伊朗方面提议，俄罗斯外交部长拉夫罗夫与伊朗外交部长阿拉格齐举行了电话会谈。",
@@ -271,6 +284,17 @@
           "time_info": "[01时52分 ~ 04时03分]"
         },
         {
+          "title": "乌克兰此时打击伊朗商船，图啥？",
+          "url": "https://news.ifeng.com/c/8v5Ckfob4r6",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时36分 ~ 20时49分]"
+        },
+        {
           "title": "伊朗高层警告乌克兰对伊行动必遭回击",
           "url": "https://flash.jin10.com/detail/20260727050321722800",
           "source": "金十数据",
@@ -343,27 +367,17 @@
           "time_info": "[05时46分 ~ 06时47分]"
         },
         {
-          "title": "美伊暂停互袭的背后：伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展，美军弹药吃紧",
-          "url": "https://wallstreetcn.com/articles/3777973",
-          "source": "华尔街见闻",
+          "title": "内塔尼亚胡：伊朗政权倒台，战争才会结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33664858",
+          "source": "澎湃新闻",
           "ranks": [
-            7,
-            6
+            18,
+            16,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时36分 ~ 17时21分]"
-        },
-        {
-          "title": "乌克兰此时打击伊朗商船，图啥？",
-          "url": "https://news.ifeng.com/c/8v5Ckfob4r6",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时36分 ~ 17时21分]"
+          "appearance_count": 4,
+          "time_info": "[13时36分 ~ 20时49分]"
         },
         {
           "title": "伊朗总统批准执行伊斯兰议会内部条例第一条修正案。",
@@ -462,18 +476,6 @@
           "time_info": "[06时47分 ~ 07时50分]"
         },
         {
-          "title": "内塔尼亚胡：伊朗政权倒台，战争才会结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33664858",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时36分 ~ 17时21分]"
-        },
-        {
           "title": "美称暂停对伊朗军事打击，为谈判留出空间",
           "url": "https://wallstreetcn.com/livenews/3139867",
           "source": "华尔街见闻-快讯",
@@ -563,7 +565,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -596,9 +598,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
+        },
+        {
+          "title": "沙特国防部：伊朗支持的民兵组织实施了无人机袭击。",
+          "url": "https://flash.jin10.com/detail/20260727201113555800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         },
         {
           "title": "伊朗称暂停对等打击美行动",
@@ -618,7 +631,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -629,7 +642,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -640,7 +653,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -651,7 +664,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -673,7 +686,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -684,7 +697,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         }
@@ -742,6 +755,18 @@
           "time_info": "[00时43分 ~ 09时29分]"
         },
         {
+          "title": "特朗普下令不打了，美国的“余粮”确实不多了",
+          "url": "https://news.ifeng.com/c/8v5rhX6ngKt",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时29分 ~ 20时49分]"
+        },
+        {
           "title": "美媒曝光特朗普暂停空袭伊朗原因",
           "url": "https://www.douyin.com/hot/2585679",
           "source": "抖音",
@@ -756,16 +781,15 @@
           "time_info": "[01时52分 ~ 09时29分]"
         },
         {
-          "title": "特朗普下令不打了，美国的“余粮”确实不多了",
-          "url": "https://news.ifeng.com/c/8v5rhX6ngKt",
+          "title": "3个选项，特朗普举棋未定",
+          "url": "https://news.ifeng.com/c/8v6CmboAaqd",
           "source": "凤凰网",
           "ranks": [
-            1,
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时29分 ~ 17时21分]"
+          "time_info": "[17时21分 ~ 20时49分]"
         },
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -798,18 +822,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "3个选项，特朗普举棋未定",
-          "url": "https://news.ifeng.com/c/8v6CmboAaqd",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -940,7 +953,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -959,7 +972,7 @@
     },
     {
       "keyword_group": "小米 雷军 发布",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "如何看待张煜东在训练场录音曝光后发布的澄清声明？",
@@ -971,6 +984,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时43分 ~ 09时29分]"
+        },
+        {
+          "title": "长鑫科技上市首日暴涨465%，成交破1400亿！创业板大涨3%，算力硬件午后拉升，恒科指涨逾1%，小米大涨超7%",
+          "url": "https://wallstreetcn.com/articles/3777980",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 20时49分]"
         },
         {
           "title": "提醒：下周一（7月27日）美股盘后，铿腾电子（CDNS）、Rambus将发布业绩报告。 下周二美股盘前，康宁公司（GLW）、波音、可口可乐将发布业绩报告； 美股盘后，希捷科技、恩智浦将、福特汽车发布业绩报告。 下周三美股盘后，微软、Meta、高通、Arm控股、拉姆研究发布业绩报告。 下周四美股盘后，苹果、亚马逊、Coinbase发布业绩报告。 下周五美股盘前，雪佛龙、埃克森美孚发布业绩报告。",
@@ -997,17 +1021,6 @@
           "time_info": "13时36分"
         },
         {
-          "title": "长鑫科技上市首日暴涨465%，成交破1400亿！创业板大涨3%，算力硬件午后拉升，恒科指涨逾1%，小米大涨超7%",
-          "url": "https://wallstreetcn.com/articles/3777980",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
           "title": "长鑫科技上市首日暴涨530%登顶A股市值榜首，创业板涨超1%，动力电池爆发，恒科指涨逾1%，小米大涨超7%",
           "url": "https://wallstreetcn.com/articles/3777980",
           "source": "华尔街见闻",
@@ -1031,6 +1044,18 @@
           "time_info": "[00时43分 ~ 05时46分]"
         },
         {
+          "title": "央视发布钓鱼岛纪录片",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E5%8F%91%E5%B8%83%E9%92%93%E9%B1%BC%E5%B2%9B%E7%BA%AA%E5%BD%95%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时36分 ~ 20时49分]"
+        },
+        {
           "title": "甘肃发布暴雨黄色预警",
           "url": "https://www.douyin.com/hot/2586389",
           "source": "抖音",
@@ -1042,6 +1067,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时50分 ~ 13时36分]"
+        },
+        {
+          "title": "雷军称SUV做纯平地板很难",
+          "url": "https://www.douyin.com/hot/2586890",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 20时49分]"
         },
         {
           "title": "香港天文台发布红色暴雨警告。",
@@ -1092,17 +1128,6 @@
           "time_info": "[06时47分 ~ 07时50分]"
         },
         {
-          "title": "央视发布钓鱼岛纪录片",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E5%8F%91%E5%B8%83%E9%92%93%E9%B1%BC%E5%B2%9B%E7%BA%AA%E5%BD%95%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时36分"
-        },
-        {
           "title": "甘肃一景区山洪致露营游客遇难，当地曾发布山洪灾害预警，但游客未被限制进入或及时疏散，景区存在责任吗？",
           "url": "https://www.zhihu.com/question/2064820259022795106",
           "source": "知乎",
@@ -1125,13 +1150,35 @@
           "time_info": "09时29分"
         },
         {
+          "title": "中国中化发布国内化工行业首款垂类安全大模型",
+          "url": "https://wallstreetcn.com/livenews/3140322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
+          "title": "小鹏集团发布澳大利亚战略规划",
+          "url": "https://wallstreetcn.com/livenews/3140321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
           "title": "预告：定于7月28日（星期二）上午10:00，召开国家发展改革委中欧班列专题新闻发布会。",
           "url": "https://wallstreetcn.com/livenews/3140169",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -1145,17 +1192,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
-        },
-        {
-          "title": "雷军称SUV做纯平地板很难",
-          "url": "https://www.douyin.com/hot/2586890",
-          "source": "抖音",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
         },
         {
           "title": "雷军：7月30日晚7点将举办小米澎程系列的技术发布会",
@@ -1210,6 +1246,19 @@
           "time_info": "07时50分"
         },
         {
+          "title": "OpenAI失控入侵,遭索赔1亿算力",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时36分 ~ 20时49分]"
+        },
+        {
           "title": "知情人士称，英伟达正就为OpenAI俄亥俄州数据中心项目提供约2500亿美元财务担保进行谈判。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3139891",
           "source": "华尔街见闻-快讯",
@@ -1220,18 +1269,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时50分 ~ 09时29分]"
-        },
-        {
-          "title": "OpenAI失控入侵,遭索赔1亿算力",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时36分 ~ 17时21分]"
         },
         {
           "title": "OpenAI失控AI内幕曝光：越狱一周才被发现 还有智能体曾留下“逃脱秘籍”",
@@ -1270,7 +1307,7 @@
     },
     {
       "keyword_group": "网红 翻车",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "台网红馆长反对毒油事件",
@@ -1303,6 +1340,51 @@
           "time_info": "[00时43分 ~ 07时50分]"
         },
         {
+          "title": "网红“听泉赏宝”宣布彻底告别股市",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E2%80%9C%E5%90%AC%E6%B3%89%E8%B5%8F%E5%AE%9D%E2%80%9D%E5%AE%A3%E5%B8%83%E5%BD%BB%E5%BA%95%E5%91%8A%E5%88%AB%E8%82%A1%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 20时49分]"
+        },
+        {
+          "title": "腾讯319亿企鹅岛基建疑翻车",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356540&amp;topic_name=%E8%85%BE%E8%AE%AF319%E4%BA%BF%E4%BC%81%E9%B9%85%E5%B2%9B%E5%9F%BA%E5%BB%BA%E7%96%91%E7%BF%BB%E8%BD%A6",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 20时49分]"
+        },
+        {
+          "title": "网红良子爬山被两人用竹竿抬肚子",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E8%89%AF%E5%AD%90%E7%88%AC%E5%B1%B1%E8%A2%AB%E4%B8%A4%E4%BA%BA%E7%94%A8%E7%AB%B9%E7%AB%BF%E6%8A%AC%E8%82%9A%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 20时49分]"
+        },
+        {
+          "title": "网红良子爬山被两人用竹竿抬肚子",
+          "url": "https://www.toutiao.com/trending/7666715774945935406/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 20时49分]"
+        },
+        {
           "title": "滞销西瓜被网红压价到一毛多一斤",
           "url": "https://www.baidu.com/s?wd=%E6%BB%9E%E9%94%80%E8%A5%BF%E7%93%9C%E8%A2%AB%E7%BD%91%E7%BA%A2%E5%8E%8B%E4%BB%B7%E5%88%B0%E4%B8%80%E6%AF%9B%E5%A4%9A%E4%B8%80%E6%96%A4",
           "source": "百度热搜",
@@ -1312,23 +1394,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
-        },
-        {
-          "title": "腾讯319亿企鹅岛基建疑翻车",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356540&amp;topic_name=%E8%85%BE%E8%AE%AF319%E4%BA%BF%E4%BC%81%E9%B9%85%E5%B2%9B%E5%9F%BA%E5%BB%BA%E7%96%91%E7%BF%BB%E8%BD%A6",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "梁文锋打新长鑫浮盈8.27亿",
@@ -1337,9 +1408,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
+        },
+        {
+          "title": "DeepSeek说他先去吃饭了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E8%AF%B4%E4%BB%96%E5%85%88%E5%8E%BB%E5%90%83%E9%A5%AD%E4%BA%86&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 20时49分]"
+        },
+        {
+          "title": "梁文锋打新长鑫浮盈8.27亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%96%87%E9%94%8B%E6%89%93%E6%96%B0%E9%95%BF%E9%91%AB%E6%B5%AE%E7%9B%888.27%E4%BA%BF%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 20时49分]"
         }
       ]
     },
@@ -1375,6 +1468,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时46分 ~ 06时47分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "预言",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "钱学森“灵境”预言照进现实",
+          "url": "https://www.baidu.com/s?wd=%E9%92%B1%E5%AD%A6%E6%A3%AE%E2%80%9C%E7%81%B5%E5%A2%83%E2%80%9D%E9%A2%84%E8%A8%80%E7%85%A7%E8%BF%9B%E7%8E%B0%E5%AE%9E",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 20时49分]"
         }
       ]
     }
