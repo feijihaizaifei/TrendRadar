@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T05:54:24.949628+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2026-07-29T06:48:54.482679+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 42,
       "titles": [
         {
           "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 06时48分]"
         },
         {
           "title": "伊朗大使答凤凰：恢复美伊谈判，须有像中国这样的大国的担保",
@@ -27,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 06时48分]"
         },
         {
           "title": "伊朗：德黑兰与基辅均无意在船只遇袭后升级局势。",
@@ -40,6 +41,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
+        },
+        {
+          "title": "用伊朗逻辑打伊朗商船！乌克兰出手，中东战火恐延烧至里海",
+          "url": "https://news.ifeng.com/c/8v7v4J57Txn",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 06时48分]"
         },
         {
           "title": "伊朗副外长：德黑兰向阿曼提议，由伊朗负责管理霍尔木兹海峡一侧的单向航运通行，阿曼则负责管理另一侧的通行。",
@@ -64,26 +76,74 @@
           "time_info": "03时36分"
         },
         {
+          "title": "据CNN：一名美国官员称，初步估计显示，伊朗在此次袭击中发射的弹道导弹不超过4枚。",
+          "url": "https://flash.jin10.com/detail/20260729064359841800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
+          "title": "报道称，伊朗向美国在约旦的军事基地发射导弹",
+          "url": "https://wallstreetcn.com/livenews/3141213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
           "title": "效仿伊朗扼住中东原油命门？也门政府警告：胡塞武装或控制曼德海峡",
           "url": "https://www.cls.cn/detail/2439032",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 06时48分]"
         },
         {
-          "title": "用伊朗逻辑打伊朗商船！乌克兰出手，中东战火恐延烧至里海",
-          "url": "https://news.ifeng.com/c/8v7v4J57Txn",
-          "source": "凤凰网",
+          "title": "非正式停火告吹 伊朗今晨向美军基地发射导弹 原油大涨4%",
+          "url": "https://flash.jin10.com/detail/20260729063338334800",
+          "source": "金十数据",
           "ranks": [
-            7
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
+          "title": "有媒体报道称约旦遭遇导弹袭击，并传出爆炸声。（伊朗媒体Press TV）",
+          "url": "https://wallstreetcn.com/livenews/3141212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
+          "title": "伊朗导弹甩开美军多枚拦截弹画面",
+          "url": "https://www.toutiao.com/trending/7666729375357865515/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            8,
+            23,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 06时48分]"
         },
         {
           "title": "布伦特原油日内跌幅达6.0%，报80.69美元/桶。 据以色列媒体报道，参与斡旋的调解方相信，美国与伊朗距离达成突破性进展已经不远，双方可能重启今年6月签署的谅解备忘录、即初步停火协议。",
@@ -110,18 +170,15 @@
           "time_info": "[04时56分 ~ 05时54分]"
         },
         {
-          "title": "伊朗导弹甩开美军多枚拦截弹画面",
-          "url": "https://www.toutiao.com/trending/7666729375357865515/",
-          "source": "今日头条",
+          "title": "美国中央司令部：美国东部时间今日下午5:45（北京时间29日清晨5:45），伊朗伊斯兰革命卫队的部队从伊朗发射了多枚弹道导弹，试图对驻中东的美军进行突袭。所有伊朗导弹均已成功拦截。美军保持警惕，处于高度戒备状态。",
+          "url": "https://flash.jin10.com/detail/20260729062845151800",
+          "source": "金十数据",
           "ranks": [
-            20,
-            8,
-            23,
-            15
+            6
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
         },
         {
           "title": "伊朗副外长：目前我们的对话仅与阿曼就霍尔木兹海峡问题进行。我们与美国或任何调解方均无任何谈判。",
@@ -190,6 +247,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "对约旦的最新袭击是自上周五美国暂停对伊朗的攻击以来，伊朗首次对该地区的美国基地发起导弹攻击。",
+          "url": "https://flash.jin10.com/detail/20260729062302266800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
           "title": "伊朗驻华大使称伊朗未介入曼德海峡问题，呼吁从源头解决也门危机",
           "url": "https://wallstreetcn.com/livenews/3141123",
           "source": "华尔街见闻-快讯",
@@ -212,6 +280,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "WTI原油上涨3.00%，现报80.68美元/桶。美媒消息称，伊朗向约旦的美军基地发射导弹。",
+          "url": "https://flash.jin10.com/detail/20260729062041060800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
           "title": "以色列与阿联酋秘密会晤协调应对伊朗",
           "url": "https://flash.jin10.com/detail/20260729023908511800",
           "source": "金十数据",
@@ -223,6 +302,17 @@
           "time_info": "03时36分"
         },
         {
+          "title": "据Axios网站：美国官员称，伊朗向约旦的一处美军基地发射了弹道导弹。",
+          "url": "https://flash.jin10.com/detail/20260729061329814800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
           "title": "美以领导人会晤，聚焦伊朗核问题",
           "url": "https://wallstreetcn.com/livenews/3141150",
           "source": "华尔街见闻-快讯",
@@ -232,6 +322,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
+        },
+        {
+          "title": "据伊朗Press TV：有媒体报道称约旦遭遇导弹袭击，并传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260729061228397800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
         },
         {
           "title": "市场消息：伊朗外交部长与乌克兰外长通电话。",
@@ -311,6 +412,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "乌克兰伊朗外长就袭船事件通电话",
+          "url": "https://flash.jin10.com/detail/20260729055535836800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
           "title": "伊朗：美国（重新）施加的海上封锁不至于迫使我方重返谈判桌。",
           "url": "https://wallstreetcn.com/livenews/3141141",
           "source": "华尔街见闻-快讯",
@@ -364,6 +476,136 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 雷军 发布",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "商务部发布《关于所谓「产能过剩」问题的中方立场》，称保护主义只会扰乱全球经贸秩序，如何解读此文件？",
+          "url": "https://www.zhihu.com/question/2065427614815332294",
+          "source": "知乎",
+          "ranks": [
+            10,
+            5,
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 06时48分]"
+        },
+        {
+          "title": "医生被指发布“除非死人不要请假”",
+          "url": "https://www.toutiao.com/trending/7667542456472322099/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            25,
+            15,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 06时48分]"
+        },
+        {
+          "title": "雷军打新长鑫科技浮盈7亿？小米高管回应：公司投资行为，跟个人财富无关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33671530",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 06时48分]"
+        },
+        {
+          "title": "小米第二款车来了 雷军杀入增程赛道",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E7%AC%AC%E4%BA%8C%E6%AC%BE%E8%BD%A6%E6%9D%A5%E4%BA%86+%E9%9B%B7%E5%86%9B%E6%9D%80%E5%85%A5%E5%A2%9E%E7%A8%8B%E8%B5%9B%E9%81%93",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 06时48分]"
+        },
+        {
+          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3141191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时56分 ~ 06时48分]"
+        },
+        {
+          "title": "小米 MiMo-V2.5 升至全球大模型调用量第一，这背后反映了哪些趋势和挑战？",
+          "url": "https://www.zhihu.com/question/2065097727604741240",
+          "source": "知乎",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时54分 ~ 06时48分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨1.08%，报6325.46点。 热门中概股里，理想初步收涨4.9%，亚朵涨4.5%，网易涨3%，小米涨2.3%，新东方涨1.7%，拼多多、腾讯涨1%，阿里涨0.3%，百度跌0.3%，日月光半导体跌7%。 ETF中，中概互联网指数ETF（KWEB）收涨1.15%，中国科技指数ETF（CQQQ）收跌2.41%。 德银嘉实沪深300指数ETF（ASHR）收跌2.39%，MSCI新兴市场ex中国ETF（EMXC）收跌2.46%，XtrackersHarvest中证50（ASHS）收跌2.62%。",
+          "url": "https://wallstreetcn.com/livenews/3141180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 05时54分]"
+        },
+        {
+          "title": "雷军发视频回应小米为何要做增程车",
+          "url": "https://www.toutiao.com/trending/7666825812288962596/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 03时36分]"
+        },
+        {
+          "title": "SpaceXAI：GROK 4.5现已在GitHub Copilot上发布。",
+          "url": "https://flash.jin10.com/detail/20260729050426478800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "日本熊本县附近发生7.1级地震，气象厅发布海啸预警",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33672820",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
         }
       ]
     },
@@ -487,116 +729,42 @@
       ]
     },
     {
-      "keyword_group": "小米 雷军 发布",
-      "match_count": 9,
+      "keyword_group": "chatgpt openai 发布",
+      "match_count": 3,
       "titles": [
         {
-          "title": "商务部发布《关于所谓「产能过剩」问题的中方立场》，称保护主义只会扰乱全球经贸秩序，如何解读此文件？",
-          "url": "https://www.zhihu.com/question/2065427614815332294",
-          "source": "知乎",
-          "ranks": [
-            10,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时54分]"
-        },
-        {
-          "title": "医生被指发布“除非死人不要请假”",
-          "url": "https://www.toutiao.com/trending/7667542456472322099/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            25,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时54分]"
-        },
-        {
-          "title": "雷军打新长鑫科技浮盈7亿？小米高管回应：公司投资行为，跟个人财富无关",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33671530",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时54分]"
-        },
-        {
-          "title": "小米第二款车来了 雷军杀入增程赛道",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E7%AC%AC%E4%BA%8C%E6%AC%BE%E8%BD%A6%E6%9D%A5%E4%BA%86+%E9%9B%B7%E5%86%9B%E6%9D%80%E5%85%A5%E5%A2%9E%E7%A8%8B%E8%B5%9B%E9%81%93",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时54分]"
-        },
-        {
-          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
-          "url": "https://wallstreetcn.com/livenews/3141191",
+          "title": "OpenAI与Anthropic要求美国帮助管理/治理AI。",
+          "url": "https://wallstreetcn.com/livenews/3141130",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            13
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时56分 ~ 05时54分]"
+          "appearance_count": 1,
+          "time_info": "01时16分"
         },
         {
-          "title": "纳斯达克金龙中国指数收涨1.08%，报6325.46点。 热门中概股里，理想初步收涨4.9%，亚朵涨4.5%，网易涨3%，小米涨2.3%，新东方涨1.7%，拼多多、腾讯涨1%，阿里涨0.3%，百度跌0.3%，日月光半导体跌7%。 ETF中，中概互联网指数ETF（KWEB）收涨1.15%，中国科技指数ETF（CQQQ）收跌2.41%。 德银嘉实沪深300指数ETF（ASHR）收跌2.39%，MSCI新兴市场ex中国ETF（EMXC）收跌2.46%，XtrackersHarvest中证50（ASHS）收跌2.62%。",
-          "url": "https://wallstreetcn.com/livenews/3141180",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时56分 ~ 05时54分]"
-        },
-        {
-          "title": "雷军发视频回应小米为何要做增程车",
-          "url": "https://www.toutiao.com/trending/7666825812288962596/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 03时36分]"
-        },
-        {
-          "title": "SpaceXAI：GROK 4.5现已在GitHub Copilot上发布。",
-          "url": "https://flash.jin10.com/detail/20260729050426478800",
+          "title": "OpenAI越狱代理攻击范围扩大 再曝一公司客户账户遭入侵",
+          "url": "https://flash.jin10.com/detail/20260729053516327800",
           "source": "金十数据",
           "ranks": [
-            7
+            1,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时54分 ~ 06时48分]"
         },
         {
-          "title": "小米 MiMo-V2.5 升至全球大模型调用量第一，这背后反映了哪些趋势和挑战？",
-          "url": "https://www.zhihu.com/question/2065097727604741240",
-          "source": "知乎",
+          "title": "报道：OpenAI“失控智能体”入侵了Modal Labs的一名客户账户",
+          "url": "https://wallstreetcn.com/livenews/3141207",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时54分"
+          "time_info": "06时48分"
         }
       ]
     },
@@ -641,6 +809,47 @@
       ]
     },
     {
+      "keyword_group": "网红 翻车",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "网红景区10人遇难 3次预警为何失效",
+          "url": "https://www.toutiao.com/trending/7667355494197235209/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 06时48分]"
+        },
+        {
+          "title": "腾讯319亿企鹅岛基建疑翻车",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356540&amp;topic_name=%E8%85%BE%E8%AE%AF319%E4%BA%BF%E4%BC%81%E9%B9%85%E5%B2%9B%E5%9F%BA%E5%BB%BA%E7%96%91%E7%BF%BB%E8%BD%A6",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 06时48分]"
+        },
+        {
+          "title": "网红霸占无居民海岛直播荒岛改造被查",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E9%9C%B8%E5%8D%A0%E6%97%A0%E5%B1%85%E6%B0%91%E6%B5%B7%E5%B2%9B%E7%9B%B4%E6%92%AD%E8%8D%92%E5%B2%9B%E6%94%B9%E9%80%A0%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -669,34 +878,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai 发布",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI越狱代理攻击范围扩大 再曝一公司客户账户遭入侵",
-          "url": "https://flash.jin10.com/detail/20260729053516327800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
-        {
-          "title": "OpenAI与Anthropic要求美国帮助管理/治理AI。",
-          "url": "https://wallstreetcn.com/livenews/3141130",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "大模型",
       "match_count": 2,
       "titles": [
@@ -709,8 +890,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 06时48分]"
         },
         {
           "title": "时隔八年 QQ 宠物正式回归，保留喂食等玩法，取消死亡机制，接入大模型，有哪些亮点？能重新打动用户吗？",
@@ -720,41 +901,12 @@
             17,
             18,
             16,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时54分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "网红 翻车",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "网红景区10人遇难 3次预警为何失效",
-          "url": "https://www.toutiao.com/trending/7667355494197235209/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时54分]"
-        },
-        {
-          "title": "腾讯319亿企鹅岛基建疑翻车",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356540&amp;topic_name=%E8%85%BE%E8%AE%AF319%E4%BA%BF%E4%BC%81%E9%B9%85%E5%B2%9B%E5%9F%BA%E5%BB%BA%E7%96%91%E7%BF%BB%E8%BD%A6",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 06时48分]"
         }
       ]
     },
@@ -770,8 +922,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 06时48分]"
         }
       ]
     },
@@ -785,11 +937,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时56分 ~ 05时54分]"
+          "appearance_count": 3,
+          "time_info": "[04时56分 ~ 06时48分]"
         }
       ]
     },
@@ -803,11 +956,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             27,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 06时48分]"
         }
       ]
     }
