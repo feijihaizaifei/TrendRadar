@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T04:06:42.922034+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-07-30T05:45:06.934418+08:00",
+  "total_titles_processed": 552,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 35,
       "titles": [
         {
           "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时06分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时45分]"
         },
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时06分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时45分]"
         },
         {
           "title": "布油大涨7%！特朗普警告：将对伊朗“大力打击”",
@@ -42,13 +42,57 @@
           "time_info": "[01时02分 ~ 04时06分]"
         },
         {
+          "title": "特朗普：伊朗请求不要发动打击，但美国将给他们一个教训",
+          "url": "https://news.ifeng.com/c/8vAUYfWwMg3",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 05时45分]"
+        },
+        {
+          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗",
+          "url": "https://wallstreetcn.com/articles/3778237",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 05时45分]"
+        },
+        {
+          "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时45分]"
+        },
+        {
+          "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
+          "url": "https://v.ifeng.com/c/8v9pAhXFNg6",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时45分]"
+        },
+        {
           "title": "美国总统特朗普：我希望国会在俄罗斯制裁法案中增加对伊朗的关税。",
           "url": "https://flash.jin10.com/detail/20260730033934898800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
         },
@@ -59,97 +103,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时06分"
-        },
-        {
-          "title": "美国总统特朗普称赞了爱国者导弹系统。",
-          "url": "https://flash.jin10.com/detail/20260730033855601800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时06分"
-        },
-        {
-          "title": "美国总统特朗普：希望乌克兰总统泽连斯基结束战事。",
-          "url": "https://wallstreetcn.com/livenews/3141882",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时06分"
-        },
-        {
-          "title": "美国总统特朗普：我希望泽连斯基结束战争。",
-          "url": "https://flash.jin10.com/detail/20260730033845656800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时06分"
-        },
-        {
-          "title": "美国总统特朗普：（谈论人工智能）正在研究管控AI的措施。",
-          "url": "https://wallstreetcn.com/livenews/3141881",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时06分"
-        },
-        {
-          "title": "美国总统特朗普：爱国者系统昨晚保护了美国基地。",
-          "url": "https://flash.jin10.com/detail/20260730033837763800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时06分"
-        },
-        {
-          "title": "美国总统特朗普：我们将要给伊朗一点教训，美国将对昨晚在约旦基地的袭击作出回应。",
-          "url": "https://flash.jin10.com/detail/20260730033821762800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时06分"
-        },
-        {
-          "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时06分]"
-        },
-        {
-          "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
-          "url": "https://v.ifeng.com/c/8v9pAhXFNg6",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时06分]"
+          "appearance_count": 1,
+          "time_info": "04时06分"
         },
         {
           "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
@@ -159,8 +115,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时06分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时45分]"
         },
         {
           "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
@@ -171,8 +127,85 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时06分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时45分]"
+        },
+        {
+          "title": "美国总统特朗普称赞了爱国者导弹系统。",
+          "url": "https://flash.jin10.com/detail/20260730033855601800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
+        {
+          "title": "美国总统特朗普：希望乌克兰总统泽连斯基结束战事。",
+          "url": "https://wallstreetcn.com/livenews/3141882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
+        {
+          "title": "美国总统特朗普：我希望泽连斯基结束战争。",
+          "url": "https://flash.jin10.com/detail/20260730033845656800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
+        {
+          "title": "美国总统特朗普：（谈论人工智能）正在研究管控AI的措施。",
+          "url": "https://wallstreetcn.com/livenews/3141881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
+        {
+          "title": "美国总统特朗普：爱国者系统昨晚保护了美国基地。",
+          "url": "https://flash.jin10.com/detail/20260730033837763800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
+        {
+          "title": "美国总统特朗普：我们将要给伊朗一点教训，美国将对昨晚在约旦基地的袭击作出回应。",
+          "url": "https://flash.jin10.com/detail/20260730033821762800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
+        {
+          "title": "特朗普再次威胁袭击伊朗，并寻求对伊加征关税",
+          "url": "https://wallstreetcn.com/livenews/3141924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "伊朗武装部队警告特朗普",
@@ -182,8 +215,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时48分 ~ 04时06分]"
+          "appearance_count": 5,
+          "time_info": "[02时48分 ~ 05时45分]"
         },
         {
           "title": "美国总统特朗普：（关于人工智能）正在关注监管问题。",
@@ -192,7 +225,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
         },
@@ -203,7 +236,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
         },
@@ -214,7 +247,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
         },
@@ -225,7 +258,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
         },
@@ -236,7 +269,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
         },
@@ -247,7 +280,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
         },
@@ -258,7 +291,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
         },
@@ -274,13 +307,24 @@
           "time_info": "01时02分"
         },
         {
+          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”，希望逐步摆脱美方援助",
+          "url": "https://wallstreetcn.com/livenews/3141911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
           "title": "美国总统特朗普：美联储主席沃什有一个理事会，而且这是一个政治性的理事会。沃什希望看到更低的利率。",
           "url": "https://flash.jin10.com/detail/20260730032853321800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
         },
@@ -291,7 +335,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
         },
@@ -313,7 +357,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
         },
@@ -324,7 +368,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
         },
@@ -335,7 +379,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
         },
@@ -346,7 +390,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
         }
@@ -354,19 +398,8 @@
     },
     {
       "keyword_group": "小米 雷军 发布",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "美元指数在美联储决议声明发布日跌超0.5%",
-          "url": "https://wallstreetcn.com/livenews/3141880",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时06分"
-        },
         {
           "title": "桃酥里吃出三颗金属假牙排，泸溪河发布声明：成立专项小组",
           "url": "https://m.thepaper.cn/newsDetail_forward_33682399",
@@ -376,8 +409,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时06分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时45分]"
+        },
+        {
+          "title": "美元指数在美联储决议声明发布日跌超0.5%",
+          "url": "https://wallstreetcn.com/livenews/3141880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         },
         {
           "title": "小米澎程系列技术发布会定档 7 月 30 日，有哪些技术亮点和市场竞争力值得关注？",
@@ -385,11 +429,24 @@
           "source": "知乎",
           "ranks": [
             15,
-            14
+            14,
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时48分 ~ 04时06分]"
+          "appearance_count": 5,
+          "time_info": "[02时48分 ~ 05时45分]"
+        },
+        {
+          "title": "雷军称增程市场大有可为且小米做增程不晚，这一观点站得住脚吗？小米为何选择此时布局增程车型？",
+          "url": "https://www.zhihu.com/question/2065799308067041337",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 05时45分]"
         },
         {
           "title": "美国30年期国债收益率涨幅扩大至10个基点，在美联储主席沃什新闻发布会结束后报5.19%。",
@@ -398,7 +455,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
         },
@@ -420,7 +477,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
         },
@@ -431,9 +488,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "金价在美联储决议声明发布日涨0.9%，沃什新闻发布会期间刷新日高",
+          "url": "https://wallstreetcn.com/livenews/3141914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "埃及石油部发布声明，称达米埃塔港再气化及储气船发生火灾。",
@@ -453,7 +521,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
         },
@@ -491,6 +559,17 @@
           "time_info": "02时49分"
         },
         {
+          "title": "周三（7月29日），彭博电动汽车价格回报指数涨0.76%，报3261.71点，亚太早盘（主要是北京时间10:00前后）显著上涨，随后持稳于3270点附近，美联储主席沃什新闻发布会临近结束时刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3141908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
           "title": "提醒：北京时间02:00，美联储将发布利率决议声明。",
           "url": "https://wallstreetcn.com/livenews/3141818",
           "source": "华尔街见闻-快讯",
@@ -508,7 +587,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
         }
@@ -516,8 +595,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "Kpler大宗商品研究主管Matt Smith表示，全球燃料供应极其紧张，这促使炼油商开足马力以获取异常丰厚的利润。在乌克兰和伊朗战争引发的供应中断之后，燃料市场已几乎没有缓冲空间。 “超大规模的炼油利润继续促使炼油商尽可能满负荷运转，导致原油库存被大幅消耗。”",
+          "url": "https://wallstreetcn.com/livenews/3141927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
         {
           "title": "美国中央司令部（CENTCOM）：霍尔木兹海峡对国际航运保持开放，合法合规的船舶航行正得到美国军方的支持。自5月以来，美国中央司令部部队已协助约1000艘船只及5亿桶原油顺利通过该海峡。 在威胁霍尔木兹海峡内的商船之后，伊朗伊斯兰革命卫队（IRGC）仍在要求国际海员仅使用其指定的航线。",
           "url": "https://wallstreetcn.com/livenews/3141795",
@@ -528,6 +618,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "拒绝阿曼“霍尔木兹海峡”提案、要求更多控制权，伊朗再向美军基地发射导弹",
+          "url": "https://wallstreetcn.com/articles/3778174",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时48分 ~ 05时45分]"
         },
         {
           "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
@@ -541,17 +642,6 @@
           "time_info": "[01时02分 ~ 04时06分]"
         },
         {
-          "title": "拒绝阿曼“霍尔木兹海峡”提案、要求更多控制权，伊朗再向美军基地发射导弹",
-          "url": "https://wallstreetcn.com/articles/3778174",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时48分 ~ 04时06分]"
-        },
-        {
           "title": "对伊朗军事行动以来，美以领导人首次会晤",
           "url": "https://m.thepaper.cn/newsDetail_forward_33678142",
           "source": "澎湃新闻",
@@ -563,13 +653,24 @@
           "time_info": "[01时02分 ~ 02时49分]"
         },
         {
+          "title": "美称伊朗发射导弹袭击驻中东美军",
+          "url": "https://www.douyin.com/hot/2588834",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 05时45分]"
+        },
+        {
           "title": "【美沙空袭伊拉克致4名伊朗革命卫队成员身亡】总台记者当地时间29日获悉，伊朗中央省副省长表示，美国和沙特当天凌晨对伊拉克迪亚拉省发动联合空袭，造成四名伊朗伊斯兰革命卫队成员死亡。（央视）",
           "url": "https://wallstreetcn.com/livenews/3141862",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
         },
@@ -619,7 +720,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
         },
@@ -641,17 +742,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "券商网红女首席处罚落地，“公开不当言论”涉及了哪些？",
-          "url": "https://www.cls.cn/detail/2440375",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时06分]"
-        },
-        {
           "title": "美女网红遭闺蜜诱骗丧命",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356620&amp;topic_name=%E7%BE%8E%E5%A5%B3%E7%BD%91%E7%BA%A2%E9%81%AD%E9%97%BA%E8%9C%9C%E8%AF%B1%E9%AA%97%E4%B8%A7%E5%91%BD",
           "source": "贴吧",
@@ -659,8 +749,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时06分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时45分]"
+        },
+        {
+          "title": "券商网红女首席处罚落地，“公开不当言论”涉及了哪些？",
+          "url": "https://www.cls.cn/detail/2440375",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时45分]"
         },
         {
           "title": "网红私占宁波无人岛直播改造被查处，个人可以开发利用无居民海岛吗？荒岛为何不能随意建房、居住？",
@@ -669,11 +771,13 @@
           "ranks": [
             17,
             12,
-            6
+            6,
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时06分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时45分]"
         },
         {
           "title": "343斤网红徒步峨眉山晕倒被抬下山",
@@ -684,8 +788,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时06分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 05时45分]"
         }
       ]
     },
