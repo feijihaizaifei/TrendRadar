@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T12:44:41.972382+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-07-30T15:26:26.897005+08:00",
+  "total_titles_processed": 1184,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 49,
       "titles": [
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
@@ -34,6 +34,18 @@
           "time_info": "[01时02分 ~ 05时45分]"
         },
         {
+          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
+          "url": "https://wallstreetcn.com/articles/3778237",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时46分 ~ 15时26分]"
+        },
+        {
           "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
           "url": "https://m.thepaper.cn/newsDetail_forward_33682760",
           "source": "澎湃新闻",
@@ -42,11 +54,12 @@
             19,
             18,
             17,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时02分 ~ 12时44分]"
+          "appearance_count": 12,
+          "time_info": "[01时02分 ~ 15时26分]"
         },
         {
           "title": "伊朗武装部队警告特朗普",
@@ -72,16 +85,18 @@
           "time_info": "[05时44分 ~ 07时51分]"
         },
         {
-          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
-          "url": "https://wallstreetcn.com/articles/3778237",
-          "source": "华尔街见闻",
+          "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
+          "url": "https://www.cls.cn/detail/2440737",
+          "source": "财联社热门",
           "ranks": [
+            7,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时46分 ~ 12时44分]"
+          "appearance_count": 6,
+          "time_info": "[06时46分 ~ 15时26分]"
         },
         {
           "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
@@ -115,19 +130,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时02分 ~ 07时51分]"
-        },
-        {
-          "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
-          "url": "https://www.cls.cn/detail/2440737",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时46分 ~ 12时44分]"
         },
         {
           "title": "布油大涨7%！特朗普警告：将对伊朗“大力打击”",
@@ -263,6 +265,18 @@
           "time_info": "[05时45分 ~ 06时46分]"
         },
         {
+          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
+          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时12分 ~ 15时26分]"
+        },
+        {
           "title": "美国总统特朗普：有没有人知道美国最高法院在出生公民权和关税问题上的负面裁决给我们的国家带来了多少金钱和声望的损失？答案是，数万亿、数万亿的美元！",
           "url": "https://flash.jin10.com/detail/20260730061435735800",
           "source": "金十数据",
@@ -273,18 +287,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时46分 ~ 07时51分]"
-        },
-        {
-          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
-          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时12分 ~ 12时44分]"
         },
         {
           "title": "以色列总理内塔尼亚胡谈伊朗问题选项：这是特朗普的决定。",
@@ -348,7 +350,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -375,6 +377,17 @@
           "time_info": "04时06分"
         },
         {
+          "title": "中国向伊朗提供武器？特朗普搅混水：要是真的，很失望",
+          "url": "https://news.ifeng.com/c/8vAy9S9JapS",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "美国总统特朗普：我没有听说美国代理司法部长布兰奇有问题。",
           "url": "https://flash.jin10.com/detail/20260730033541535800",
           "source": "金十数据",
@@ -395,6 +408,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "降息希望落空！特朗普再次力挺沃什 矛头直指美联储理事会",
+          "url": "https://www.cls.cn/detail/2440817",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "美国总统特朗普：美国代理司法部长布兰奇表现出色。",
@@ -439,6 +463,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
+        },
+        {
+          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "美国总统特朗普：美联储主席沃什有一个理事会，而且这是一个政治性的理事会。沃什希望看到更低的利率。",
@@ -532,7 +567,7 @@
     },
     {
       "keyword_group": "小米 雷军 发布",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "桃酥里吃出三颗金属假牙排，泸溪河发布声明：成立专项小组",
@@ -543,11 +578,12 @@
             14,
             16,
             13,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时02分 ~ 12时44分]"
+          "appearance_count": 12,
+          "time_info": "[01时02分 ~ 15时26分]"
         },
         {
           "title": "雷军称增程市场大有可为且小米做增程不晚，这一观点站得住脚吗？小米为何选择此时布局增程车型？",
@@ -586,7 +622,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -610,8 +646,30 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时12分 ~ 12时44分]"
+          "appearance_count": 3,
+          "time_info": "[09时12分 ~ 15时26分]"
+        },
+        {
+          "title": "美联储新闻发布会后：主席沃什信誉“碎了”，9月加息概率颇大！",
+          "url": "https://www.cls.cn/detail/2441032",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "国家发改委定于7月31日（星期五）上午10:00，召开国家发展改革委7月份新闻发布会。（国家发改委网站）",
+          "url": "https://wallstreetcn.com/livenews/3142235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "雷军晒小米机器人工作视频",
@@ -642,9 +700,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
+        },
+        {
+          "title": "小米澎程实车内饰曝光",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%E5%AE%9E%E8%BD%A6%E5%86%85%E9%A5%B0%E6%9B%9D%E5%85%89&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "美联储主席沃什举行新闻发布会：本次FOMC讨论富有建设性。",
@@ -757,6 +826,17 @@
           "time_info": "05时45分"
         },
         {
+          "title": "小米徐洁云：小米汽车没有所谓F码，也不容许任何所谓“内部工作人员”违规操作",
+          "url": "https://wallstreetcn.com/livenews/3142217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "提醒：北京时间02:00，美联储将发布利率决议声明。",
           "url": "https://wallstreetcn.com/livenews/3141818",
           "source": "华尔街见闻-快讯",
@@ -835,7 +915,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -896,6 +976,18 @@
           "time_info": "[01时02分 ~ 02时49分]"
         },
         {
+          "title": "历史性一刻，伊朗先发制人袭击美军基地",
+          "url": "https://v.ifeng.com/c/8vA9hUsD4WZ",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 15时26分]"
+        },
+        {
           "title": "美军正在伊朗境内进行空袭。（AXIOS）",
           "url": "https://wallstreetcn.com/livenews/3141962",
           "source": "华尔街见闻-快讯",
@@ -940,17 +1032,6 @@
           "time_info": "09时12分"
         },
         {
-          "title": "历史性一刻，伊朗先发制人袭击美军基地",
-          "url": "https://v.ifeng.com/c/8vA9hUsD4WZ",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
           "title": "有消息称，美国海马斯火箭从科威特向伊朗目标发动袭击。",
           "url": "https://flash.jin10.com/detail/20260730084600579800",
           "source": "金十数据",
@@ -979,7 +1060,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -1039,18 +1120,6 @@
           "time_info": "[01时02分 ~ 09时12分]"
         },
         {
-          "title": "美女网红遭闺蜜诱骗丧命",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356620&amp;topic_name=%E7%BE%8E%E5%A5%B3%E7%BD%91%E7%BA%A2%E9%81%AD%E9%97%BA%E8%9C%9C%E8%AF%B1%E9%AA%97%E4%B8%A7%E5%91%BD",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时02分 ~ 12时44分]"
-        },
-        {
           "title": "券商网红女首席处罚落地，“公开不当言论”涉及了哪些？",
           "url": "https://www.cls.cn/detail/2440375",
           "source": "财联社热门",
@@ -1062,6 +1131,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时02分 ~ 09时12分]"
+        },
+        {
+          "title": "美女网红遭闺蜜诱骗丧命",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356620&amp;topic_name=%E7%BE%8E%E5%A5%B3%E7%BD%91%E7%BA%A2%E9%81%AD%E9%97%BA%E8%9C%9C%E8%AF%B1%E9%AA%97%E4%B8%A7%E5%91%BD",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时02分 ~ 15时26分]"
         },
         {
           "title": "343斤网红徒步峨眉山晕倒被抬下山",
@@ -1139,7 +1221,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         }
@@ -1147,8 +1229,20 @@
     },
     {
       "keyword_group": "chatgpt openai 发布",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
+          "url": "https://www.zhihu.com/question/2065729146383071132",
+          "source": "知乎",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 15时26分]"
+        },
         {
           "title": "OpenAI首席财务官：公司7月份的年化收入已经超过了整个第二季度的总和。",
           "url": "https://flash.jin10.com/detail/20260730071758962800",
@@ -1172,6 +1266,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "如何评价翁荔因病离职后火速入职 OpenAI？",
+          "url": "https://www.zhihu.com/question/2066073475731690339",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "Analog Devices Inc.（ADI）：漏洞与OpenAI无关。",
           "url": "https://wallstreetcn.com/livenews/3141939",
           "source": "华尔街见闻-快讯",
@@ -1181,17 +1286,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
-        },
-        {
-          "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
-          "url": "https://www.zhihu.com/question/2065729146383071132",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
         },
         {
           "title": "微软(MSFT.O)首席财务官：第四季度合同积压在不包括OpenAI的情况下增加了25%。",
