@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T02:08:12.923761+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-07-31T04:12:26.051049+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "小米 雷军 发布",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "小米澎程技术发布会上发布了什么值得关注的新技术？有哪些亮点？",
@@ -15,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时12分]"
+        },
+        {
+          "title": "如何评价小米澎程 N90 Max 预售价 29.99 万元、 N70 Max 预售价 25.99 万元？",
+          "url": "https://www.zhihu.com/question/2066257961672864074",
+          "source": "知乎",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时12分]"
         },
         {
           "title": "小米澎程像在卖房",
@@ -26,20 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时08分]"
-        },
-        {
-          "title": "小米澎程N90 Max预售价29.99万元",
-          "url": "https://www.toutiao.com/trending/7668228760780406838/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时12分]"
         },
         {
           "title": "还有谁?小米澎程顶配不到30万",
@@ -50,19 +50,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时12分]"
         },
         {
-          "title": "如何评价小米澎程 N90 Max 预售价 29.99 万元、 N70 Max 预售价 25.99 万元？",
-          "url": "https://www.zhihu.com/question/2066257961672864074",
-          "source": "知乎",
+          "title": "小米澎程N90 Max预售价29.99万元",
+          "url": "https://www.toutiao.com/trending/7668228760780406838/",
+          "source": "今日头条",
           "ranks": [
-            5
+            5,
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时12分]"
         },
         {
           "title": "小米澎程N90价格",
@@ -73,8 +75,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时12分]"
         },
         {
           "title": "雷军：澎程从北京到上海无需补能",
@@ -82,22 +84,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时08分]"
-        },
-        {
-          "title": "【伊朗军队称打击美军在巴林空军基地，已对其装备和中心造成了重大破坏】当地时间7月30日晚，伊朗军队发布公告称，军队使用无人机袭击了美军位于巴林的谢赫伊萨空军基地的发电机、导航系统以及行政和后勤保障建筑。公告表示，尽管美军基地拥有众多防御系统和装备，但近日针对该地区美军基地的袭击，已对其装备和中心造成了重大破坏。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3142603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时08分"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时12分]"
         },
         {
           "title": "王腾买了小米N90Max",
@@ -105,11 +97,12 @@
           "source": "微博",
           "ranks": [
             7,
-            9
+            9,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时12分]"
         },
         {
           "title": "小米澎程发布会",
@@ -119,8 +112,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时12分]"
         },
         {
           "title": "抗日游戏抵抗者发布实机演示",
@@ -131,8 +124,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时12分]"
         },
         {
           "title": "小米澎程N70",
@@ -140,11 +133,12 @@
           "source": "微博",
           "ranks": [
             19,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时12分]"
         },
         {
           "title": "雷军：小米澎程综合续航最高1705km",
@@ -152,11 +146,12 @@
           "source": "百度热搜",
           "ranks": [
             23,
-            29
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时12分]"
         },
         {
           "title": "小米澎程N90 Max预售价29.99万",
@@ -164,11 +159,36 @@
           "source": "百度热搜",
           "ranks": [
             25,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时12分]"
+        },
+        {
+          "title": "【伊朗军队称打击美军在巴林空军基地，已对其装备和中心造成了重大破坏】当地时间7月30日晚，伊朗军队发布公告称，军队使用无人机袭击了美军位于巴林的谢赫伊萨空军基地的发电机、导航系统以及行政和后勤保障建筑。公告表示，尽管美军基地拥有众多防御系统和装备，但近日针对该地区美军基地的袭击，已对其装备和中心造成了重大破坏。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3142603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时08分 ~ 04时12分]"
+        },
+        {
+          "title": "预售价29.99万元！小米澎程N90 Max最高续航1705公里，“从上海开到北京不用充电加油”",
+          "url": "https://wallstreetcn.com/articles/3778330",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时07分 ~ 04时12分]"
         },
         {
           "title": "小米澎程N90车型详解",
@@ -180,17 +200,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 00时25分]"
-        },
-        {
-          "title": "预售价29.99万元！小米澎程N90 Max最高续航1705公里，“从上海开到北京不用充电加油”",
-          "url": "https://wallstreetcn.com/articles/3778330",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时07分 ~ 02时08分]"
         },
         {
           "title": "小米澎程N90全网首次多车对比",
@@ -213,12 +222,67 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时07分 ~ 02时08分]"
+        },
+        {
+          "title": "小米新车25.99万起！全新澎程系列增程双车亮相 动力电池等核心供应商曝光",
+          "url": "https://www.cls.cn/detail/2441832",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "英国FCA将从周五起发布每日股票交易数据",
+          "url": "https://wallstreetcn.com/livenews/3142609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "小米澎程N90",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "英国FCA将从周五起发布每日股票交易数据",
+          "url": "https://flash.jin10.com/detail/20260731025024877800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "小米新车营销为何引争议",
+          "url": "https://www.toutiao.com/trending/7668309782150778418/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "科威特军方：伊朗袭击该国北部致一中企雇员死亡",
@@ -228,8 +292,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时12分]"
         },
         {
           "title": "有报道称中方将提供400枚肩扛式导弹给伊朗，外交部：毫无根据",
@@ -239,19 +303,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时08分]"
-        },
-        {
-          "title": "伊朗军方打击美国在巴林的军事基地。（伊朗媒体IRIB）",
-          "url": "https://wallstreetcn.com/livenews/3142600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时08分"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时12分]"
         },
         {
           "title": "伊朗称摧毁3架F-35战机，美军回应",
@@ -261,8 +314,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时12分]"
         },
         {
           "title": "中国向伊朗提供400枚导弹？外交部回应",
@@ -272,19 +325,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时12分]"
         },
         {
           "title": "伊朗将接收中国造肩扛式防空导弹发射装置？外交部：不符合事实",
           "url": "https://m.thepaper.cn/newsDetail_forward_33684903",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时12分]"
         },
         {
           "title": "伊朗称袭击科威特的美空军基地",
@@ -292,11 +346,24 @@
           "source": "今日头条",
           "ranks": [
             15,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时12分]"
+        },
+        {
+          "title": "伊朗军方打击美国在巴林的军事基地。（伊朗媒体IRIB）",
+          "url": "https://wallstreetcn.com/livenews/3142600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时08分 ~ 04时12分]"
         },
         {
           "title": "伊朗称打击约旦美军基地摧毁3架F-35",
@@ -317,7 +384,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
         },
@@ -339,7 +406,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
         },
@@ -350,7 +417,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
         },
@@ -361,9 +428,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
+        },
+        {
+          "title": "卡塔尔外交部：卡塔尔谴责伊朗再次袭击约旦和科威特领土，此举侵犯了两国的主权。",
+          "url": "https://flash.jin10.com/detail/20260731024403802800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         }
       ]
     },
@@ -379,19 +457,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时12分]"
         },
         {
           "title": "OpenAI：将GPT-5.6Luna的价格下调80%",
           "url": "https://wallstreetcn.com/livenews/3142590",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时08分 ~ 04时12分]"
         },
         {
           "title": "报道：AI股受挫之际，城堡投资大举买入前OpenAI研究员旗下基金持仓",
@@ -411,7 +490,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
         },
@@ -422,7 +501,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
         },
@@ -440,6 +519,78 @@
       ]
     },
     {
+      "keyword_group": "特朗普",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
+          "url": "https://wallstreetcn.com/articles/3778237",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时12分]"
+        },
+        {
+          "title": "美国总特朗普的顾问纳瓦罗宣称：如果趋势继续，美联储应当保留降息选项。",
+          "url": "https://wallstreetcn.com/livenews/3142602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时08分"
+        },
+        {
+          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时12分]"
+        },
+        {
+          "title": "“极不寻常”！爆料称特朗普或拒绝法国驻美大使提名",
+          "url": "https://news.ifeng.com/c/8vBnavmwROe",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时12分]"
+        },
+        {
+          "title": "据美国保守派新闻Daily Wire：由于“需求极其旺盛”，美国国务院将再次发行25万本印有美国总统特朗普肖像的“爱国者护照”。",
+          "url": "https://flash.jin10.com/detail/20260731032815618800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "美国考虑对大学毕业之后留美工作的外国学生收取10万美元的费用。 此前，（美国法院）阻挠总统特朗普对H-1B签证收费10万美元的想法。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3142577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 5,
       "titles": [
@@ -450,7 +601,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
         },
@@ -461,7 +612,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
         },
@@ -470,11 +621,12 @@
           "url": "https://wallstreetcn.com/livenews/3142601",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时08分 ~ 04时12分]"
         },
         {
           "title": "据华尔街日报：多家银行正洽谈为一家与Anthropic合作的数据中心开发商提供150亿美元贷款，谷歌将提供财务担保和芯片支持。",
@@ -483,7 +635,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
         },
@@ -501,70 +653,20 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
-          "url": "https://wallstreetcn.com/articles/3778237",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时08分]"
-        },
-        {
-          "title": "美国总特朗普的顾问纳瓦罗宣称：如果趋势继续，美联储应当保留降息选项。",
-          "url": "https://wallstreetcn.com/livenews/3142602",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时08分"
-        },
-        {
-          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时08分]"
-        },
-        {
-          "title": "“极不寻常”！爆料称特朗普或拒绝法国驻美大使提名",
-          "url": "https://news.ifeng.com/c/8vBnavmwROe",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时08分]"
-        },
-        {
-          "title": "美国考虑对大学毕业之后留美工作的外国学生收取10万美元的费用。 此前，（美国法院）阻挠总统特朗普对H-1B签证收费10万美元的想法。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3142577",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美元指数跌超0.9%",
+          "url": "https://wallstreetcn.com/livenews/3142622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1%，暂报2073点。 MarketVectorTM数字资产100中盘指数涨1.83%，报2381.55点，北京时间05:05刷新日低至2311.71点以来持续反弹。 MarketVector数字资产100指数涨1.68%，报12847.19点。 目前，Solana涨1.78%，狗狗币涨0.80%，XRP涨1.47%。 比特币涨1.54%，暂报64763.94美元，北京时间05:08跌至63269.29美元，随后持续上扬；以太坊涨1.18%，暂报1917.18美元。",
           "url": "https://wallstreetcn.com/livenews/3142587",
@@ -572,9 +674,26 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "战争",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊拉克政府发言人：伊拉克是受战争影响最严重的国家。",
+          "url": "https://flash.jin10.com/detail/20260731033415256800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         }
       ]
     },
@@ -590,8 +709,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时12分]"
         }
       ]
     }
