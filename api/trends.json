@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T03:05:35.523762+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-08-01T04:51:09.106743+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 03时05分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 04时51分]"
         },
         {
           "title": "特朗普对伊朗战事失去耐心，傅立民：他对谈判的理解本质上就错了",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 03时05分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 04时51分]"
         },
         {
           "title": "特朗普：以色列在哈马斯解除武装计划方面“表现出色”",
@@ -71,8 +71,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 03时05分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 04时51分]"
         },
         {
           "title": "美国总统特朗普政府在委内瑞拉事务上的非正式顾问毛里西奥·克拉弗-卡罗内辞去了职务。",
@@ -342,18 +342,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "伊朗“波斯湾海峡管理局”宣布霍尔木兹海峡暂停通行",
           "url": "https://news.ifeng.com/c/8vDSNTsXzUU",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 03时05分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 04时51分]"
         },
         {
           "title": "伊朗革命卫队一天发表三份声明",
@@ -372,11 +373,12 @@
           "source": "今日头条",
           "ranks": [
             30,
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 03时05分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 04时51分]"
         },
         {
           "title": "伊朗宣布霍尔木兹海峡暂停通行",
@@ -387,8 +389,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 03时05分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 04时51分]"
         },
         {
           "title": "伊朗称已关闭霍尔木兹海峡，美中央司令部否认",
@@ -408,7 +410,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
         },
@@ -419,7 +421,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
         },
@@ -455,6 +457,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "市场消息：美国中央司令部发言人蒂姆·霍金斯上尉当地时间周五表示，美军未参与改变驶往巴基斯坦的卡塔尔LNG运输船“Al Areesh”的航线。一名知情人士称，该船此前是应伊朗要求暂停前往巴基斯坦的航程。",
+          "url": "https://flash.jin10.com/detail/20260801032606742800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
         }
       ]
     },
@@ -470,8 +483,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 03时05分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 04时51分]"
         },
         {
           "title": "小米澎程 N90 、 N70 两款 SUV 上市后是否会有车企跟进设计？",
@@ -486,17 +499,6 @@
           "time_info": "[01时16分 ~ 03时05分]"
         },
         {
-          "title": "三大运营商发布公告",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%A4%A7%E8%BF%90%E8%90%A5%E5%95%86%E5%8F%91%E5%B8%83%E5%85%AC%E5%91%8A%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 03时05分]"
-        },
-        {
           "title": "SpaceX即将发布IPO后首份财报 大摩警告最危险时刻来临",
           "url": "https://www.cls.cn/detail/2442483",
           "source": "财联社热门",
@@ -505,8 +507,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 03时05分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 04时51分]"
+        },
+        {
+          "title": "三大运营商发布公告",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%A4%A7%E8%BF%90%E8%90%A5%E5%95%86%E5%8F%91%E5%B8%83%E5%85%AC%E5%91%8A%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 04时51分]"
         },
         {
           "title": "事关办理低龄未成年人严重暴力犯罪核准追诉案件，两部门联合发布规定",
@@ -516,8 +530,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 03时05分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 04时51分]"
         },
         {
           "title": "跑分超glm5.2,DSv4flash发布",
@@ -527,8 +541,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 03时05分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 04时51分]"
         },
         {
           "title": "还有谁?小米澎程顶配不到30万",
@@ -539,25 +553,39 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 03时05分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 04时51分]"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
           "url": "https://www.zhihu.com/question/2066521165246489298",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 03时05分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 04时51分]"
+        },
+        {
+          "title": "DeepSeek V4 Flash正式版强在哪",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E5%BC%BA%E5%9C%A8%E5%93%AA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 04时51分]"
         },
         {
           "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
@@ -571,16 +599,15 @@
           "time_info": "[01时16分 ~ 03时05分]"
         },
         {
-          "title": "DeepSeek V4 Flash正式版强在哪",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E5%BC%BA%E5%9C%A8%E5%93%AA",
+          "title": "DeepSeek拟在内蒙古建超算中心",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E5%9C%A8%E5%86%85%E8%92%99%E5%8F%A4%E5%BB%BA%E8%B6%85%E7%AE%97%E4%B8%AD%E5%BF%83",
           "source": "bilibili 热搜",
           "ranks": [
-            8,
-            9
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时16分 ~ 03时05分]"
+          "time_info": "[04时50分 ~ 04时51分]"
         },
         {
           "title": "DeepSeek-V4-Flash 正式版API上线",
@@ -596,8 +623,58 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai 发布",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "消息人士：OpenAI调查人员发现更多AI智能体突破隔离的证据",
+          "url": "https://flash.jin10.com/detail/20260801042118367800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "市场消息：据消息人士透露，OpenAI调查人员发现有证据表明，有其他AI智能体已突破了管控限制。",
+          "url": "https://flash.jin10.com/detail/20260801041603854800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "OpenAI发现其他AI智能体逃离隔离环境的证据。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3143460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "专家：Anthropic与OpenAI入侵事件预示美国安全风险",
+          "url": "https://wallstreetcn.com/livenews/3143443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "大奇迹日！美通胀降温与微软大涨刺激，美芯片指数暴涨8%，纳指大反弹，日元急涨美元跳水",
@@ -607,8 +684,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 03时05分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 04时51分]"
         },
         {
           "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
@@ -616,11 +693,62 @@
           "source": "知乎",
           "ranks": [
             9,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 03时05分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 04时51分]"
+        },
+        {
+          "title": "美元指数31日上涨",
+          "url": "https://flash.jin10.com/detail/20260801041117348800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "美元指数7月份跌超1.2%",
+          "url": "https://wallstreetcn.com/livenews/3143438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "本周，谷歌A、亚马逊、微软市值合计增长大约1.5万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3143449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "7月份，美股存储芯片指数跌28.6%，半导体指数跌19.8%，美国科技股七巨头指数涨4.9%，标普大致持平，道指涨0.5%，纳指跌2.5%，银行指数涨3.4%。 周五当天，标普500指数初步收涨0.8%，可选消费板块涨6.2%，电信板块涨4.7%，科技板块跌0.2%，原材料板块跌2.7%。 纳斯达克100指数初步收涨0.7%，成分股中，亚马逊初步收涨15.6%，德康医疗涨11.9%，谷歌A涨7%，新思科技涨4.5%，英伟达涨3.4%，SpaceX跌3.6%，Strategy跌4%，闪迪跌5.4%，美光科技跌5.6%，恩智浦跌6%，苹果跌7.1%。",
+          "url": "https://wallstreetcn.com/livenews/3143446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
         }
       ]
     }
