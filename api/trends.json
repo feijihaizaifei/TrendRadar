@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T15:31:53.507848+08:00",
-  "total_titles_processed": 1098,
+  "generated_at": "2026-08-04T18:25:21.668468+08:00",
+  "total_titles_processed": 1268,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
         {
           "title": "再度反转！特朗普宣布不打了，重启谈判，伊朗：没有计划",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时39分 ~ 15时31分]"
+          "appearance_count": 17,
+          "time_info": "[01时39分 ~ 18时25分]"
         },
         {
           "title": "特朗普威胁对伊朗采取斩首行动",
@@ -124,6 +124,18 @@
           "time_info": "03时15分"
         },
         {
+          "title": "特朗普威胁对伊朗采取“斩首”行动",
+          "url": "https://www.douyin.com/hot/2596526",
+          "source": "抖音",
+          "ranks": [
+            11,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时31分 ~ 18时25分]"
+        },
+        {
           "title": "美参议院少数党领袖：特朗普发动对伊战争是为了让石油巨头盟友获利",
           "url": "https://flash.jin10.com/detail/20260804010243522800",
           "source": "金十数据",
@@ -133,6 +145,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 18时25分]"
         },
         {
           "title": "特朗普抨击大型石油公司“赚得太多” 国际油价大幅回落 | 环球市场",
@@ -148,28 +173,28 @@
           "time_info": "[09时27分 ~ 15时31分]"
         },
         {
-          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 15时31分]"
-        },
-        {
           "title": "美媒：因凡蒂诺向特朗普求助",
           "url": "https://www.douyin.com/hot/2596620",
           "source": "抖音",
           "ranks": [
             8,
-            15
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 18时25分]"
+        },
+        {
+          "title": "有史以来最大规模铜流入！7月20万吨铜运抵美国，市场等待特朗普铜关税裁决",
+          "url": "https://wallstreetcn.com/articles/3778597",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时52分 ~ 15时31分]"
+          "time_info": "[18时24分 ~ 18时25分]"
         },
         {
           "title": "美石油巨头大发“战争财” 特朗普炮轰：赚得太多了，我不喜欢！",
@@ -249,17 +274,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
-        },
-        {
-          "title": "特朗普威胁对伊朗采取“斩首”行动",
-          "url": "https://www.douyin.com/hot/2596526",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时31分"
         },
         {
           "title": "美国纽约州总检察长詹姆斯起诉特朗普政府，以保护弱势纽约居民的个人信息。总检察长詹姆斯采取行动，阻止非法共享数百万名TANF（贫困家庭临时援助计划）受助者的私人数据。",
@@ -389,7 +403,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -639,7 +653,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 42,
       "titles": [
         {
           "title": "没招了？美媒爆料：美军群发邮件征集对伊朗施压想法",
@@ -653,6 +667,28 @@
           "time_info": "[01时39分 ~ 07时58分]"
         },
         {
+          "title": "伊朗总统否认辞职传闻",
+          "url": "https://news.ifeng.com/c/8vJpAoU2QSK",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时25分]"
+        },
+        {
+          "title": "美军被曝群发邮件“众筹”对付伊朗方案，美方辩称是创新",
+          "url": "https://news.ifeng.com/c/8vJk4CzK9iC",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时25分]"
+        },
+        {
           "title": "乌袭击伊朗船只 战争扩大化风险增加",
           "url": "https://www.toutiao.com/trending/7669807189430636086/",
           "source": "今日头条",
@@ -664,6 +700,41 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时51分 ~ 07时58分]"
+        },
+        {
+          "title": "消息人士：美国在伊朗战争中已消耗大量的远程精确导弹",
+          "url": "https://flash.jin10.com/detail/20260804181312602800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "伊朗领袖顾问称美军决策水平大滑坡",
+          "url": "https://wallstreetcn.com/livenews/3144678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "伊朗：乌克兰道歉了",
+          "url": "https://www.toutiao.com/trending/7668954284482134058/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 18时25分]"
         },
         {
           "title": "伊朗总统佩泽希基扬表示，伊朗无意加剧西亚紧张局势，但在捍卫领土完整问题上绝不妥协。",
@@ -702,18 +773,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时15分 ~ 04时52分]"
-        },
-        {
-          "title": "伊朗：乌克兰道歉了",
-          "url": "https://www.toutiao.com/trending/7668954284482134058/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 15时31分]"
         },
         {
           "title": "伊朗最高领袖军事顾问穆赫辛·雷扎伊：我们拥有导弹，也具备自卫能力。 即使美国通过未经授权的航线派遣军舰进入霍尔木兹海峡，我们也将对其进行打击。 美国曾在（伊斯兰堡）谅解备忘录框架下接受伊朗关于霍尔木兹海峡的安排，但随后违反了该协议。 美国不仅违反了谅解备忘录，还在未先将争端提交至指定争端解决委员会的情况下发动了袭击。 在谅解备忘录遭违反后的17天战斗中，我们对美国实施了沉重打击。",
@@ -831,6 +890,17 @@
           "time_info": "01时39分"
         },
         {
+          "title": "据路透社：消息人士称，美国陆军在伊朗战争期间已消耗了大量远程陆基导弹。",
+          "url": "https://flash.jin10.com/detail/20260804180253910800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "报道：美国和伊朗没有新的谈判计划",
           "url": "https://wallstreetcn.com/livenews/3144275",
           "source": "华尔街见闻-快讯",
@@ -848,7 +918,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -859,7 +929,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -875,6 +945,28 @@
           "time_info": "01时39分"
         },
         {
+          "title": "伊朗与阿曼讨论的海峡临时方案或给予伊对入境船运的完全控制权",
+          "url": "https://flash.jin10.com/detail/20260804175624888800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "伊朗总统否认辞职传闻",
+          "url": "https://wallstreetcn.com/livenews/3144655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "美伊进入“耐力战争”：伊朗赌美国先扛不住能源乱局",
           "url": "https://flash.jin10.com/detail/20260804084049825800",
           "source": "金十数据",
@@ -886,6 +978,28 @@
           "time_info": "09时28分"
         },
         {
+          "title": "美军被曝征集“创造性”打击伊朗方案",
+          "url": "https://wallstreetcn.com/livenews/3144651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "据路透社：伊朗高层消息人士表示，伊朗不太可能接受重新开放霍尔木兹海峡的任何其他替代方案。",
+          "url": "https://flash.jin10.com/detail/20260804174925041800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "伊朗经济部长：我们已制定至少为期两年的经济韧性计划，有关我们无法保障预算资金的说法纯属不实。",
           "url": "https://wallstreetcn.com/livenews/3144301",
           "source": "华尔街见闻-快讯",
@@ -895,6 +1009,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "据路透社：伊朗高层消息人士表示，该计划将使伊朗能够掌握霍尔木兹海峡出港交通的动态，并在必要时具备干预能力。",
+          "url": "https://flash.jin10.com/detail/20260804174845912800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "【伊朗高级官员：不允许美在霍尔木兹海峡开辟非伊朗航线】伊朗最高领袖军事顾问穆赫辛·雷扎伊在接受媒体采访时表示，伊朗决不允许美国在霍尔木兹海峡开辟任何非伊朗的航线，即使美国在霍尔木兹海峡的非法航线上部署军舰，伊朗也会将其作为目标。雷扎伊还表示，伊朗此前已准备好攻击乌克兰的三个地点，但是由于乌克兰道歉，伊朗取消了攻击。（央视）",
@@ -919,15 +1044,48 @@
           "time_info": "04时52分"
         },
         {
+          "title": "据路透社：伊朗高层消息人士表示，对于霍尔木兹海峡出港航道，阿曼将在通知伊朗后为离港船只放行。",
+          "url": "https://flash.jin10.com/detail/20260804174807161800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "据路透社：伊朗高层消息人士表示，霍尔木兹海峡出港航道将采用伊朗与阿曼之间的路线。",
+          "url": "https://flash.jin10.com/detail/20260804174723571800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "美伊官员称伊朗与阿曼接近达成霍尔木兹海峡航行协议",
           "url": "https://wallstreetcn.com/livenews/3144551",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
+        },
+        {
+          "title": "据路透社：伊朗高层消息人士表示，与阿曼讨论的霍尔木兹海峡临时方案将赋予德黑兰对进港航运的完全控制权。",
+          "url": "https://flash.jin10.com/detail/20260804174641311800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "伊朗伊斯兰革命卫队高级指挥官穆赫辛·礼萨伊： 我们绝不允许在霍尔木兹海峡开辟第二条航道。 若军舰或军事力量为此目的驶入霍尔木兹海峡，我们将对其实施打击。",
@@ -977,7 +1135,7 @@
     },
     {
       "keyword_group": "小米 雷军 发布",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "新型电力系统建设十五五规划发布",
@@ -1059,6 +1217,19 @@
           "time_info": "[01时39分 ~ 06时50分]"
         },
         {
+          "title": "三巨头蓄力AI存储新赛道：首套HBF标准规范发布 产业联盟初步成型",
+          "url": "https://www.cls.cn/detail/2444881",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 18时25分]"
+        },
+        {
           "title": "阿里Qwen3.8正式发布：总参数量2.4万亿，第三方榜单仅次于Claude",
           "url": "https://m.thepaper.cn/newsDetail_forward_33708536",
           "source": "澎湃新闻",
@@ -1117,18 +1288,6 @@
           "time_info": "[07时57分 ~ 12时52分]"
         },
         {
-          "title": "三巨头蓄力AI存储新赛道：首套HBF标准规范发布 产业联盟初步成型",
-          "url": "https://www.cls.cn/detail/2444881",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 15时31分]"
-        },
-        {
           "title": "中央气象台8月4日6时继续发布暴雨黄色预警",
           "url": "https://wallstreetcn.com/livenews/3144394",
           "source": "华尔街见闻-快讯",
@@ -1139,6 +1298,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时58分 ~ 09时28分]"
+        },
+        {
+          "title": "如何评价继小米拆车直播之后，理想、极氪也官宣直播拆车？",
+          "url": "https://www.zhihu.com/question/2067668934749427118",
+          "source": "知乎",
+          "ranks": [
+            15,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 18时25分]"
         },
         {
           "title": "小米澎程销售称N70售价或低于20万",
@@ -1164,18 +1336,6 @@
           "time_info": "[07时57分 ~ 07时58分]"
         },
         {
-          "title": "如何评价继小米拆车直播之后，理想、极氪也官宣直播拆车？",
-          "url": "https://www.zhihu.com/question/2067668934749427118",
-          "source": "知乎",
-          "ranks": [
-            15,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 15时31分]"
-        },
-        {
           "title": "A股药企密集发布集采“成绩单”：有公司守擂失败 也有“光脚者”成功突围",
           "url": "https://www.cls.cn/detail/2444832",
           "source": "财联社热门",
@@ -1185,6 +1345,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时52分 ~ 15时31分]"
+        },
+        {
+          "title": "自动驾驶系统安全强制性国标发布",
+          "url": "https://www.baidu.com/s?wd=%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%B3%BB%E7%BB%9F%E5%AE%89%E5%85%A8%E5%BC%BA%E5%88%B6%E6%80%A7%E5%9B%BD%E6%A0%87%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时25分]"
         },
         {
           "title": "外交推进和供应收缩赛跑，原油会否在库存耗尽前回落？——新版发布",
@@ -1226,7 +1397,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -1248,7 +1419,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -1300,7 +1471,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
@@ -1413,6 +1584,19 @@
           "time_info": "[09时27分 ~ 09时28分]"
         },
         {
+          "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
+          "url": "https://www.zhihu.com/question/2067873642554156045",
+          "source": "知乎",
+          "ranks": [
+            12,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 18时25分]"
+        },
+        {
           "title": "OpenAI等巨头大幅降价对标DeepSeek",
           "url": "https://www.baidu.com/s?wd=OpenAI%E7%AD%89%E5%B7%A8%E5%A4%B4%E5%A4%A7%E5%B9%85%E9%99%8D%E4%BB%B7%E5%AF%B9%E6%A0%87DeepSeek",
           "source": "百度热搜",
@@ -1425,16 +1609,15 @@
           "time_info": "[09时27分 ~ 12时52分]"
         },
         {
-          "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
-          "url": "https://www.zhihu.com/question/2067873642554156045",
-          "source": "知乎",
+          "title": "DeepSeek低价风暴打服硅谷",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E4%BD%8E%E4%BB%B7%E9%A3%8E%E6%9A%B4%E6%89%93%E6%9C%8D%E7%A1%85%E8%B0%B7",
+          "source": "百度热搜",
           "ranks": [
-            12,
-            6
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时52分 ~ 15时31分]"
+          "time_info": "[18时24分 ~ 18时25分]"
         },
         {
           "title": "DeepSeek V4 Flash 是否需要本地部署？",
@@ -1446,6 +1629,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时27分 ~ 09时28分]"
+        },
+        {
+          "title": "DeepSeek斩杀了谁",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E4%BA%86%E8%B0%81",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时25分]"
         },
         {
           "title": "华为半导体首席科学家大赞梁文锋",
@@ -1476,7 +1670,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         }
@@ -1494,11 +1688,12 @@
             9,
             10,
             13,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时39分 ~ 15时31分]"
+          "appearance_count": 17,
+          "time_info": "[01时39分 ~ 18时25分]"
         },
         {
           "title": "声明显示：美国众议院网络安全小组要求OpenAI首席执行官奥尔特曼就Hugging Face入侵事件进行情况通报。",
@@ -1641,11 +1836,12 @@
           "url": "https://www.toutiao.com/trending/7669677847354572846/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时31分 ~ 18时25分]"
         },
         {
           "title": "差一点，世界又上演一场交叉战争",
@@ -1662,8 +1858,19 @@
     },
     {
       "keyword_group": "网红 翻车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "墨毒枭被控策划谋杀儿子的网红前女友",
+          "url": "https://www.toutiao.com/trending/7669747101315923977/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时25分]"
+        },
         {
           "title": "张国伟回应“为什么当网红”",
           "url": "https://www.toutiao.com/trending/7669743777280000006/",
