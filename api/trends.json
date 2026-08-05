@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T07:52:56.576368+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2026-08-05T09:18:08.854546+08:00",
+  "total_titles_processed": 748,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时28分 ~ 07时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 09时18分]"
         },
         {
           "title": "伊朗总统回应辞职传闻",
@@ -26,8 +26,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时28分 ~ 07时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 09时18分]"
+        },
+        {
+          "title": "伊朗：乌克兰道歉了",
+          "url": "https://www.douyin.com/hot/2596757",
+          "source": "抖音",
+          "ranks": [
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 09时18分]"
         },
         {
           "title": "英媒：伊朗考虑向欧洲国家收取霍尔木兹海峡维护费用",
@@ -39,18 +51,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
-        },
-        {
-          "title": "伊朗：乌克兰道歉了",
-          "url": "https://www.douyin.com/hot/2596757",
-          "source": "抖音",
-          "ranks": [
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时28分 ~ 07时52分]"
         },
         {
           "title": "霍尔木兹复航现曙光？美伊官员称伊朗与阿曼接近达成协议",
@@ -225,7 +225,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
@@ -241,15 +241,37 @@
           "time_info": "[01时28分 ~ 07时52分]"
         },
         {
+          "title": "白宫再出手压油价：拟延长《琼斯法案》豁免！特朗普怒斥“虚假民调”",
+          "url": "https://flash.jin10.com/detail/20260805084506889800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
           "title": "持武男子在特朗普即将出席活动的加州球场被捕",
           "url": "https://flash.jin10.com/detail/20260805072343057800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "解析特朗普财务报告",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE%E8%B4%A2%E5%8A%A1%E6%8A%A5%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
         },
         {
           "title": "特朗普：我的真实民调正处于最好水平",
@@ -269,7 +291,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -324,7 +346,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -379,6 +401,18 @@
       "match_count": 12,
       "titles": [
         {
+          "title": "《智能网联汽车 自动驾驶系统安全要求》强制性国家标准正式发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33713556",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时28分 ~ 09时18分]"
+        },
+        {
           "title": "苹果启动9月发布会筹备 零售员工开放抽签参与现场工作",
           "url": "https://flash.jin10.com/detail/20260805011115589800",
           "source": "金十数据",
@@ -402,15 +436,28 @@
           "time_info": "[03时18分 ~ 05时01分]"
         },
         {
-          "title": "《智能网联汽车 自动驾驶系统安全要求》强制性国家标准正式发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33713556",
-          "source": "澎湃新闻",
+          "title": "自动驾驶系统安全强制性国标发布",
+          "url": "https://www.douyin.com/hot/2597328",
+          "source": "抖音",
           "ranks": [
-            17
+            18,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时28分 ~ 06时10分]"
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 09时18分]"
+        },
+        {
+          "title": "王腾的小米SU7Ultra泊车辅助遇bug",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%85%BE%E7%9A%84%E5%B0%8F%E7%B1%B3SU7Ultra%E6%B3%8A%E8%BD%A6%E8%BE%85%E5%8A%A9%E9%81%87bug%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 09时18分]"
         },
         {
           "title": "如何看待网友用 AI 生成小米车祸视频被行政处罚？ AI 让造谣成本变低，有什么办法能管控吗？",
@@ -441,7 +488,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -468,17 +515,6 @@
           "time_info": "03时18分"
         },
         {
-          "title": "王腾的小米SU7Ultra泊车辅助遇bug",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%85%BE%E7%9A%84%E5%B0%8F%E7%B1%B3SU7Ultra%E6%B3%8A%E8%BD%A6%E8%BE%85%E5%8A%A9%E9%81%87bug%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
           "title": "苹果启动9月发布会筹备 零售员工开放抽签参与现场工作",
           "url": "https://wallstreetcn.com/livenews/3144892",
           "source": "华尔街见闻-快讯",
@@ -488,17 +524,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
-        },
-        {
-          "title": "自动驾驶系统安全强制性国标发布",
-          "url": "https://www.douyin.com/hot/2597328",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时52分"
         },
         {
           "title": "SpaceX：7月Grok 4.5发布后，token消耗量增长两倍。 IPO和债券发行改善了财务状况。 第二季度赢得逾60亿美元美国政府合同。 美国政府任务需求不断增长。",
@@ -580,8 +605,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时28分 ~ 07时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 09时18分]"
         },
         {
           "title": "英国机构报告AI安全事件 涉Anthropic和OpenAI模型",
@@ -660,6 +685,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "网红 翻车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "AI短剧市场有多火？虚拟演员商单报价超真人网红 但爆款率不足0.5%困局待解",
+          "url": "https://www.cls.cn/detail/2445817",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
         }
       ]
     }
