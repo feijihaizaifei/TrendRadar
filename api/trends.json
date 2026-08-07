@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T22:04:34.404699+08:00",
-  "total_titles_processed": 1551,
+  "generated_at": "2026-08-07T23:42:20.393663+08:00",
+  "total_titles_processed": 1681,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
@@ -43,8 +43,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时20分 ~ 22时04分]"
+          "appearance_count": 13,
+          "time_info": "[12时20分 ~ 23时42分]"
         },
         {
           "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
@@ -198,6 +198,17 @@
           "time_info": "[12时20分 ~ 12时21分]"
         },
         {
+          "title": "特朗普再签行政令，禁止“生育旅游”收紧“出生公民权”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33734678",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时41分 ~ 23时42分]"
+        },
+        {
           "title": "特朗普对多晶硅加征关税",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A4%9A%E6%99%B6%E7%A1%85%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -240,6 +251,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
+        },
+        {
+          "title": "伊朗敦促海湾国家说服特朗普停止军事行动",
+          "url": "https://wallstreetcn.com/livenews/3146814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "美国总统特朗普：（关于人工智能）这可能比石油还要重要。谁赢得人工智能，谁就赢得一切。就是如此重要。",
@@ -344,7 +366,7 @@
     },
     {
       "keyword_group": "小米 雷军 发布",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "泸溪河发布“桃酥现金属牙冠”调查结论，称消费者已澄清所发视频不属实",
@@ -354,28 +376,12 @@
             7,
             4,
             3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时42分 ~ 22时04分]"
-        },
-        {
-          "title": "GTA6将发布新预告片",
-          "url": "https://search.bilibili.com/all?keyword=GTA6%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0%E9%A2%84%E5%91%8A%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
             2,
-            11,
-            13,
-            15,
-            17,
-            22,
-            29
+            1
           ],
           "is_new": false,
           "appearance_count": 11,
-          "time_info": "[07时47分 ~ 22时04分]"
+          "time_info": "[14时42分 ~ 23时42分]"
         },
         {
           "title": "泸溪河发布「桃酥出现金属牙冠」调查结论，排除生产带入可能性，消费者已澄清视频情况不属实，如何看待此事？",
@@ -388,8 +394,26 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时42分 ~ 22时04分]"
+          "appearance_count": 11,
+          "time_info": "[14时42分 ~ 23时42分]"
+        },
+        {
+          "title": "GTA6将发布新预告片",
+          "url": "https://search.bilibili.com/all?keyword=GTA6%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0%E9%A2%84%E5%91%8A%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            11,
+            13,
+            15,
+            17,
+            22,
+            29,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[07时47分 ~ 23时42分]"
         },
         {
           "title": "报道：苹果紧急抢购DRAM内存，距iPhone 18发布仅剩几周",
@@ -439,6 +463,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时47分 ~ 09时58分]"
+        },
+        {
+          "title": "观复博物馆佛像送检引关注，海口方面：调查有进展，预计几天后发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33736524",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时41分 ~ 23时42分]"
         },
         {
           "title": "粉笔教育发布“自曝式”公开信",
@@ -576,7 +611,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "以情报高官疑因伊朗行动失败被解职",
@@ -587,8 +622,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时48分 ~ 22时04分]"
+          "appearance_count": 8,
+          "time_info": "[17时48分 ~ 23时42分]"
         },
         {
           "title": "伊朗公布霍尔木兹海峡管理草案 国际油价大幅走高",
@@ -610,9 +645,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时04分 ~ 23时42分]"
         },
         {
           "title": "伊朗霍尔木兹法案拟禁止美以船只通行，美国拒绝任何“阻碍”",
@@ -676,7 +711,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -723,6 +758,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
+        },
+        {
+          "title": "伊朗就霍尔木兹海峡协议措辞展开辩论",
+          "url": "https://wallstreetcn.com/livenews/3146793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         }
       ]
     },
@@ -774,6 +820,17 @@
           "time_info": "[07时47分 ~ 19时36分]"
         },
         {
+          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
+          "url": "https://www.zhihu.com/question/2069015264461579129",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时48分 ~ 23时42分]"
+        },
+        {
           "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
           "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
           "source": "澎湃新闻",
@@ -786,27 +843,17 @@
           "time_info": "[07时47分 ~ 09时58分]"
         },
         {
-          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
-          "url": "https://www.zhihu.com/question/2069015264461579129",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时48分 ~ 22时04分]"
-        },
-        {
           "title": "梁文锋 只想用座机",
           "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B+%E5%8F%AA%E6%83%B3%E7%94%A8%E5%BA%A7%E6%9C%BA",
           "source": "百度热搜",
           "ranks": [
             25,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时35分 ~ 22时04分]"
+          "appearance_count": 5,
+          "time_info": "[20时35分 ~ 23时42分]"
         },
         {
           "title": "王兴兴回应DeepSeek参与宇树科技IPO战略配售",
@@ -880,6 +927,109 @@
       ]
     },
     {
+      "keyword_group": "大模型",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "如何评价 GPT-5.6Luna 免费不限量，后续基础大模型都会走向免费吗？",
+          "url": "https://www.zhihu.com/question/2068986574256312589",
+          "source": "知乎",
+          "ranks": [
+            14,
+            12,
+            9,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时42分 ~ 23时42分]"
+        },
+        {
+          "title": "沪指冲高回落涨0.6%，煤炭掀涨停潮，贵金属集体大涨，半导体材料再拉升，恒科指跌超2%，AI大模型双雄逆势拉升",
+          "url": "https://wallstreetcn.com/articles/3778805",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时47分 ~ 16时04分]"
+        },
+        {
+          "title": "大模型竞争白热化，张一鸣喊话：字节跳动“拒绝蒸馏”，不用别人输出换榜单排名",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33728476",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时47分 ~ 12时21分]"
+        },
+        {
+          "title": "AI大模型迈向分时定价",
+          "url": "https://flash.jin10.com/detail/20260807231850535800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
+          "title": "AI大模型迈向分时定价",
+          "url": "https://wallstreetcn.com/livenews/3146821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
+          "title": "金山办公CEO章庆元：大模型会平权，办公软件真正的护城河是上下文",
+          "url": "https://wallstreetcn.com/livenews/3146668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
+          "title": "迅策：与天合算力订立战略合作备忘 共建能源垂类大模型",
+          "url": "https://flash.jin10.com/detail/20260807195249328800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
+          "title": "港股大模型概念股持续拉升，MINIMAX-W、智谱盘中一度涨超15％。",
+          "url": "https://wallstreetcn.com/livenews/3146390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "网红 翻车",
       "match_count": 7,
       "titles": [
@@ -902,6 +1052,17 @@
           "time_info": "[07时47分 ~ 20时36分]"
         },
         {
+          "title": "韩国男团成员西村力发“谢罪文”，回应日籍女网红直播自杀",
+          "url": "https://news.ifeng.com/c/8vOvAq61BE5",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时35分 ~ 23时42分]"
+        },
+        {
           "title": "日本网红自杀案在韩国引发很大冲击",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%BD%91%E7%BA%A2%E8%87%AA%E6%9D%80%E6%A1%88%E5%9C%A8%E9%9F%A9%E5%9B%BD%E5%BC%95%E5%8F%91%E5%BE%88%E5%A4%A7%E5%86%B2%E5%87%BB",
           "source": "百度热搜",
@@ -912,17 +1073,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时20分 ~ 14时43分]"
-        },
-        {
-          "title": "韩国男团成员西村力发“谢罪文”，回应日籍女网红直播自杀",
-          "url": "https://news.ifeng.com/c/8vOvAq61BE5",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时35分 ~ 22时04分]"
         },
         {
           "title": "网红峰哥8月份三天“回血”46万",
@@ -973,88 +1123,8 @@
       ]
     },
     {
-      "keyword_group": "大模型",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "如何评价 GPT-5.6Luna 免费不限量，后续基础大模型都会走向免费吗？",
-          "url": "https://www.zhihu.com/question/2068986574256312589",
-          "source": "知乎",
-          "ranks": [
-            14,
-            12,
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时42分 ~ 22时04分]"
-        },
-        {
-          "title": "沪指冲高回落涨0.6%，煤炭掀涨停潮，贵金属集体大涨，半导体材料再拉升，恒科指跌超2%，AI大模型双雄逆势拉升",
-          "url": "https://wallstreetcn.com/articles/3778805",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时47分 ~ 16时04分]"
-        },
-        {
-          "title": "大模型竞争白热化，张一鸣喊话：字节跳动“拒绝蒸馏”，不用别人输出换榜单排名",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33728476",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时47分 ~ 12时21分]"
-        },
-        {
-          "title": "金山办公CEO章庆元：大模型会平权，办公软件真正的护城河是上下文",
-          "url": "https://wallstreetcn.com/livenews/3146668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时36分"
-        },
-        {
-          "title": "迅策：与天合算力订立战略合作备忘 共建能源垂类大模型",
-          "url": "https://flash.jin10.com/detail/20260807195249328800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "港股大模型概念股持续拉升，MINIMAX-W、智谱盘中一度涨超15％。",
-          "url": "https://wallstreetcn.com/livenews/3146390",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "为什么 Jeff Dean 从 Google 离职引起这么大的轰动？",
@@ -1067,6 +1137,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时47分 ~ 09时58分]"
+        },
+        {
+          "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
+          "url": "https://flash.jin10.com/detail/20260807231253787800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
+          "title": "核心团队跑路,Gemini陷大危机",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时04分 ~ 23时42分]"
         },
         {
           "title": "新闻蒸馏器丨谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
@@ -1090,17 +1183,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时20分 ~ 12时21分]"
-        },
-        {
-          "title": "核心团队跑路,Gemini陷大危机",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
         },
         {
           "title": "谷歌将人工智能管理重心迁至加州 全力迎战Anthropic与OpenAI",
@@ -1154,7 +1236,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         }
