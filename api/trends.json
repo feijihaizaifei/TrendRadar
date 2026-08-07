@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T17:48:32.807257+08:00",
-  "total_titles_processed": 1118,
+  "generated_at": "2026-08-07T18:40:55.887441+08:00",
+  "total_titles_processed": 1222,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时57分 ~ 17时48分]"
+          "appearance_count": 9,
+          "time_info": "[09时57分 ~ 18时40分]"
         },
         {
           "title": "特朗普签署行政令，宣布加征关税",
@@ -56,6 +56,19 @@
           "time_info": "[09时57分 ~ 14时43分]"
         },
         {
+          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
+          "url": "https://wallstreetcn.com/articles/3778896",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时20分 ~ 18时40分]"
+        },
+        {
           "title": "特朗普大发雷霆，美防长甩锅，暴露大问题",
           "url": "https://v.ifeng.com/c/8vNVrjQyzZJ",
           "source": "凤凰网",
@@ -69,30 +82,6 @@
           "time_info": "[09时57分 ~ 16时04分]"
         },
         {
-          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
-          "url": "https://wallstreetcn.com/articles/3778896",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时20分 ~ 17时48分]"
-        },
-        {
-          "title": "特朗普（谈AI）：它可能比石油还要重要。 谁赢了AI，谁就赢得一切。就这么重要。",
-          "url": "https://wallstreetcn.com/livenews/3146612",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时48分"
-        },
-        {
           "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
           "url": "https://news.ifeng.com/c/8vOTWxkXcxc",
           "source": "凤凰网",
@@ -102,8 +91,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时42分 ~ 17时48分]"
+          "appearance_count": 5,
+          "time_info": "[14时42分 ~ 18时40分]"
         },
         {
           "title": "泽连斯基要导弹，特朗普最新表态：我们也想要",
@@ -117,15 +106,38 @@
           "time_info": "12时21分"
         },
         {
+          "title": "特朗普将与矿企高管开会",
+          "url": "https://wallstreetcn.com/livenews/3146650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
           "title": "特朗普（被问及加息时）：在投票之前，加息并非完全由沃什决定。 我认为他很棒，我不会批评他。",
           "url": "https://wallstreetcn.com/livenews/3146606",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
+        },
+        {
+          "title": "特朗普（谈AI）：它可能比石油还要重要。 谁赢了AI，谁就赢得一切。就这么重要。",
+          "url": "https://wallstreetcn.com/livenews/3146612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 18时40分]"
         },
         {
           "title": "特朗普言论意味着对台政策重大转变？美著名“中国通”解读",
@@ -135,8 +147,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时04分 ~ 17时48分]"
+          "appearance_count": 3,
+          "time_info": "[16时04分 ~ 18时40分]"
         },
         {
           "title": "特朗普帖子抢先看合法吗",
@@ -189,7 +201,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -211,7 +223,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -222,7 +234,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -233,7 +245,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -255,7 +267,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -285,8 +297,24 @@
     },
     {
       "keyword_group": "小米 雷军 发布",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "GTA6将发布新预告片",
+          "url": "https://search.bilibili.com/all?keyword=GTA6%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0%E9%A2%84%E5%91%8A%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            11,
+            13,
+            15,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时47分 ~ 18时40分]"
+        },
         {
           "title": "报道：苹果紧急抢购DRAM内存，距iPhone 18发布仅剩几周",
           "url": "https://wallstreetcn.com/articles/3778845",
@@ -300,32 +328,18 @@
           "time_info": "[07时47分 ~ 16时04分]"
         },
         {
-          "title": "GTA6将发布新预告片",
-          "url": "https://search.bilibili.com/all?keyword=GTA6%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0%E9%A2%84%E5%91%8A%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            11,
-            13,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时47分 ~ 17时48分]"
-        },
-        {
           "title": "多家手机品牌回应将大规模涨价，OPPO 、荣耀、小米等部分机型已上调价格，如何看待此次手机涨价潮？",
           "url": "https://www.zhihu.com/question/2068727171682718365",
           "source": "知乎",
           "ranks": [
             16,
             8,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时57分 ~ 17时48分]"
+          "appearance_count": 9,
+          "time_info": "[09时57分 ~ 18时40分]"
         },
         {
           "title": "泸溪河发布“桃酥现金属牙冠”调查结论，称消费者已澄清所发视频不属实",
@@ -337,8 +351,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时42分 ~ 17时48分]"
+          "appearance_count": 5,
+          "time_info": "[14时42分 ~ 18时40分]"
         },
         {
           "title": "泸溪河发布「桃酥出现金属牙冠」调查结论，排除生产带入可能性，消费者已澄清视频情况不属实，如何看待此事？",
@@ -350,8 +364,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时42分 ~ 17时48分]"
+          "appearance_count": 5,
+          "time_info": "[14时42分 ~ 18时40分]"
         },
         {
           "title": "东航发布新规： 提前14天可免费退改签",
@@ -399,6 +413,39 @@
           "time_info": "07时47分"
         },
         {
+          "title": "中央气象台8月7日18时继续发布台风黄色预警",
+          "url": "https://flash.jin10.com/detail/20260807181626036800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "水利部发布洪水蓝色预警",
+          "url": "https://flash.jin10.com/detail/20260807181304960800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "网安监督检查新规发布 明确检查对象、内容等",
+          "url": "https://wallstreetcn.com/livenews/3146628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
           "title": "余承东发布会上误将 24999 元念成 2499 元，客观来看 MateBook Fold 这个定价合理吗？",
           "url": "https://www.zhihu.com/question/2068437296529897006",
           "source": "知乎",
@@ -438,7 +485,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -449,7 +496,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -479,8 +526,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时47分 ~ 17时48分]"
+          "appearance_count": 10,
+          "time_info": "[07时47分 ~ 18时40分]"
         },
         {
           "title": "如何看待梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%？",
@@ -489,11 +536,12 @@
           "ranks": [
             3,
             1,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时57分 ~ 17时48分]"
+          "appearance_count": 9,
+          "time_info": "[09时57分 ~ 18时40分]"
         },
         {
           "title": "DeepSeek拟上调API服务价格",
@@ -508,8 +556,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时47分 ~ 17时48分]"
+          "appearance_count": 10,
+          "time_info": "[07时47分 ~ 18时40分]"
         },
         {
           "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
@@ -536,6 +584,18 @@
           "time_info": "[07时47分 ~ 09时58分]"
         },
         {
+          "title": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
+          "url": "https://wallstreetcn.com/articles/3778849",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时04分 ~ 18时40分]"
+        },
+        {
           "title": "DeepSeek官宣涨价，且“幅度较大”！",
           "url": "https://wallstreetcn.com/articles/3778814",
           "source": "华尔街见闻",
@@ -547,16 +607,15 @@
           "time_info": "[09时57分 ~ 09时58分]"
         },
         {
-          "title": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
-          "url": "https://wallstreetcn.com/articles/3778849",
-          "source": "华尔街见闻",
+          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
+          "url": "https://www.zhihu.com/question/2069015264461579129",
+          "source": "知乎",
           "ranks": [
-            10,
-            7
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时04分 ~ 17时48分]"
+          "time_info": "[17时48分 ~ 18时40分]"
         },
         {
           "title": "DeepSeek豪掷1.4亿护航宇树IPO",
@@ -579,17 +638,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
-        },
-        {
-          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
-          "url": "https://www.zhihu.com/question/2069015264461579129",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时48分"
         }
       ]
     },
@@ -609,6 +657,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时47分 ~ 14时43分]"
+        },
+        {
+          "title": "以情报高官疑因伊朗行动失败被解职",
+          "url": "https://news.ifeng.com/c/8vOg4e2X7cf",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 18时40分]"
         },
         {
           "title": "伊朗霍尔木兹法案拟禁止美以船只通行，美国拒绝任何“阻碍”",
@@ -631,17 +690,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
-        },
-        {
-          "title": "以情报高官疑因伊朗行动失败被解职",
-          "url": "https://news.ifeng.com/c/8vOg4e2X7cf",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时48分"
         },
         {
           "title": "伊朗总统：最高领袖决策过程遭人利用",
@@ -683,7 +731,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -717,8 +765,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时47分 ~ 17时48分]"
+          "appearance_count": 10,
+          "time_info": "[07时47分 ~ 18时40分]"
         },
         {
           "title": "日本网红自杀案在韩国引发很大冲击",
@@ -731,6 +779,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时20分 ~ 14时43分]"
+        },
+        {
+          "title": "网红峰哥8月份三天“回血”46万",
+          "url": "https://www.toutiao.com/trending/7670284781363707967/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 18时40分]"
         },
         {
           "title": "如何看待日本网红 Mina 轻生离世，曾疑因偶像的含沙射影被大批粉丝人肉、网暴，直播含泪恳求停止网暴？",
@@ -753,17 +813,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
-        },
-        {
-          "title": "网红峰哥8月份三天“回血”46万",
-          "url": "https://www.toutiao.com/trending/7670284781363707967/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时48分"
         },
         {
           "title": "网红“老表”游泳失踪 多方搜救",
@@ -824,7 +873,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         }
@@ -866,11 +915,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时42分 ~ 17时48分]"
+          "appearance_count": 5,
+          "time_info": "[14时42分 ~ 18时40分]"
         },
         {
           "title": "港股大模型概念股持续拉升，MINIMAX-W、智谱盘中一度涨超15％。",
