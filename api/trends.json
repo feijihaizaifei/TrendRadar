@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T15:39:43.798674+08:00",
-  "total_titles_processed": 1063,
+  "generated_at": "2026-08-08T16:26:08.892864+08:00",
+  "total_titles_processed": 1111,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,34 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时40分 ~ 15时39分]"
+          "appearance_count": 10,
+          "time_info": "[08时40分 ~ 16时26分]"
+        },
+        {
+          "title": "特朗普：隔着大洋呢，我们没掺和这事",
+          "url": "https://news.ifeng.com/c/8vPrynBVxqj",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时48分 ~ 16时26分]"
+        },
+        {
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时33分 ~ 16时26分]"
         },
         {
           "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
@@ -32,8 +58,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时42分 ~ 15时39分]"
+          "appearance_count": 16,
+          "time_info": "[03时42分 ~ 16时26分]"
         },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -45,32 +71,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时39分 ~ 06时23分]"
-        },
-        {
-          "title": "特朗普：隔着大洋呢，我们没掺和这事",
-          "url": "https://news.ifeng.com/c/8vPrynBVxqj",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时48分 ~ 15时39分]"
-        },
-        {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时33分 ~ 15时39分]"
         },
         {
           "title": "涉及白宫宴会厅项目，特朗普称将提起上诉",
@@ -468,7 +468,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "伊朗最高领袖给总统下了“最后警告”？",
@@ -501,8 +501,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时48分 ~ 15时39分]"
+          "appearance_count": 9,
+          "time_info": "[10时48分 ~ 16时26分]"
         },
         {
           "title": "美官员：预计伊朗与阿曼将很快就霍尔木兹海峡问题达成协议",
@@ -533,6 +533,17 @@
           "time_info": "[07时23分 ~ 14时31分]"
         },
         {
+          "title": "伊朗战事打不下去了？美军参联会主席力主“翻篇”",
+          "url": "https://news.ifeng.com/c/8vQJU1FtdBd",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时25分 ~ 16时26分]"
+        },
+        {
           "title": "美国国务院：美国财政部今天采取措施，瓦解了一个由货币兑换机构和空壳公司组成的网络。该网络曾帮助伊朗通过国际金融体系秘密转移数亿美元资金。通过这些网络，德黑兰获取石油收入，并利用幌子公司洗钱，规避旨在遏制其破坏稳定活动的制裁。",
           "url": "https://flash.jin10.com/detail/20260808002305574800",
           "source": "金十数据",
@@ -542,17 +553,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
-        },
-        {
-          "title": "消息人士：美军高层寻找摆脱伊朗战事的途径",
-          "url": "https://flash.jin10.com/detail/20260808144535599800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时39分"
         },
         {
           "title": "伊朗总统：伊方未在涉谅解备忘录的谈判中作任何让步",
@@ -637,6 +637,18 @@
           "time_info": "[00时39分 ~ 02时37分]"
         },
         {
+          "title": "消息人士：美军高层寻找摆脱伊朗战事的途径",
+          "url": "https://flash.jin10.com/detail/20260808144535599800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时39分 ~ 16时26分]"
+        },
+        {
           "title": "伊朗发视频隐喻美国国运衰落原因",
           "url": "https://www.toutiao.com/trending/7671188288800899082/",
           "source": "今日头条",
@@ -709,6 +721,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时39分 ~ 01时39分]"
+        },
+        {
+          "title": "曝美军高层寻找摆脱伊朗战事的途径",
+          "url": "https://www.toutiao.com/trending/7671436241469538350/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时25分 ~ 16时26分]"
         },
         {
           "title": "报道：伊朗与阿曼宣布达成协议后，美国将解除对伊朗的封锁",
@@ -916,11 +939,12 @@
             13,
             12,
             14,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 15时39分]"
+          "appearance_count": 18,
+          "time_info": "[00时39分 ~ 16时26分]"
         },
         {
           "title": "观复博物馆佛像送检引关注，海口方面：调查有进展，预计几天后发布",
@@ -937,6 +961,21 @@
           "time_info": "[00时39分 ~ 08时40分]"
         },
         {
+          "title": "温州发布告全体市民书：非必要不外出",
+          "url": "https://www.toutiao.com/trending/7671483007768727083/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            20,
+            16,
+            29,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时02分 ~ 16时26分]"
+        },
+        {
           "title": "中国驻刚果(金)大使馆发布澄清声明",
           "url": "https://news.ifeng.com/c/8vP7mvjRM2n",
           "source": "凤凰网",
@@ -946,20 +985,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时40分 ~ 10时48分]"
-        },
-        {
-          "title": "温州发布告全体市民书：非必要不外出",
-          "url": "https://www.toutiao.com/trending/7671483007768727083/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            20,
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时02分 ~ 15时39分]"
         },
         {
           "title": "iPhone18系列发布节奏",
@@ -1079,11 +1104,12 @@
           "ranks": [
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时48分 ~ 15时39分]"
+          "appearance_count": 9,
+          "time_info": "[10时48分 ~ 16时26分]"
         },
         {
           "title": "梁文锋 只想用座机",
@@ -1115,8 +1141,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时42分 ~ 15时39分]"
+          "appearance_count": 16,
+          "time_info": "[03时42分 ~ 16时26分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -1208,11 +1234,12 @@
             19,
             17,
             21,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时39分 ~ 15时39分]"
+          "appearance_count": 20,
+          "time_info": "[00时39分 ~ 16时26分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -1336,9 +1363,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时39分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时39分 ~ 16时26分]"
         }
       ]
     }
