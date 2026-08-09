@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T13:40:15.170732+08:00",
-  "total_titles_processed": 814,
+  "generated_at": "2026-08-09T14:35:04.417251+08:00",
+  "total_titles_processed": 862,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "伊朗战事打不下去了？美军参联会主席力主“翻篇”",
@@ -40,11 +40,12 @@
             8,
             17,
             19,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 13时40分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 14时35分]"
         },
         {
           "title": "以媒称伊朗最高领袖被紧急送医，真实性如何？会怎样影响当前局势？",
@@ -57,6 +58,17 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时17分 ~ 10时56分]"
+        },
+        {
+          "title": "伊朗开出6项条件，美国该如何应对？",
+          "url": "https://news.ifeng.com/c/8vRTyrZzuDS",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时08分 ~ 14时35分]"
         },
         {
           "title": "伊官员：有证据显示美军使用磷弹轰炸伊朗多地",
@@ -72,6 +84,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时18分 ~ 12时08分]"
+        },
+        {
+          "title": "伊朗：美国不改，海峡不开",
+          "url": "https://news.ifeng.com/c/8vRHg8IEQV7",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时08分 ~ 14时35分]"
         },
         {
           "title": "伊朗：与阿曼“接近”达成协议，但并不意味重开海峡",
@@ -100,26 +123,17 @@
           "time_info": "[00时18分 ~ 08时43分]"
         },
         {
-          "title": "伊朗开出6项条件，美国该如何应对？",
-          "url": "https://news.ifeng.com/c/8vRTyrZzuDS",
-          "source": "凤凰网",
+          "title": "伊朗：重开霍尔木兹海峡的前提是美国满足5个条件",
+          "url": "https://wallstreetcn.com/livenews/3147045",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            4,
+            5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时08分 ~ 13时40分]"
-        },
-        {
-          "title": "伊朗：美国不改，海峡不开",
-          "url": "https://news.ifeng.com/c/8vRHg8IEQV7",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 13时40分]"
+          "time_info": "[12时08分 ~ 14时35分]"
         },
         {
           "title": "伊朗革命卫队指挥官：美国和以色列在实现其针对伊斯兰体制的目标上已完全失败，其领导人在面对公众舆论、精英和本国人民时，对其接连不断的失败已无任何回应。",
@@ -134,18 +148,6 @@
           "time_info": "[07时16分 ~ 08时43分]"
         },
         {
-          "title": "伊朗：重开霍尔木兹海峡的前提是美国满足5个条件",
-          "url": "https://wallstreetcn.com/livenews/3147045",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 13时40分]"
-        },
-        {
           "title": "伊朗接近与阿曼达成管理海峡协议",
           "url": "https://flash.jin10.com/detail/20260809081421844800",
           "source": "金十数据",
@@ -155,6 +157,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
+        },
+        {
+          "title": "伊朗总统说必须摆脱非战非和局面",
+          "url": "https://wallstreetcn.com/livenews/3147050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
+          "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
+          "url": "https://wallstreetcn.com/articles/3778994",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时08分 ~ 14时35分]"
+        },
+        {
+          "title": "美国乡村小镇突发停水，FBI：可能是伊朗黑客干的",
+          "url": "https://news.ifeng.com/c/8vQiHqeUsfl",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时08分 ~ 14时35分]"
         },
         {
           "title": "伊朗总统佩泽希齐扬：问题不能仅靠战争解决。致力于根据谅解备忘录的条款推进和平进程。",
@@ -246,29 +282,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 01时20分]"
-        },
-        {
-          "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
-          "url": "https://wallstreetcn.com/articles/3778994",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 13时40分]"
-        },
-        {
-          "title": "美国乡村小镇突发停水，FBI：可能是伊朗黑客干的",
-          "url": "https://news.ifeng.com/c/8vQiHqeUsfl",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 13时40分]"
         },
         {
           "title": "据伊朗法尔斯通讯社：保加利亚方面声称，今天上午一架乌克兰无人机向跨巴尔干天然气管道发动袭击，该管道经由土耳其将俄罗斯天然气输送至欧洲。",
@@ -394,7 +407,7 @@
     },
     {
       "keyword_group": "小米 雷军 发布",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "伊媒发布伊朗最高领袖视频",
@@ -417,6 +430,19 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时17分 ~ 10时56分]"
+        },
+        {
+          "title": "如何看待贵州网红金蝉子账号发布讣告，称外号「老表」的打工网红彭仕运在老家游泳时不幸溺水身亡？",
+          "url": "https://www.zhihu.com/question/2068817961792623517",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时55分 ~ 14时35分]"
         },
         {
           "title": "伊媒发布伊朗最高领袖视频",
@@ -445,8 +471,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时17分 ~ 13时40分]"
+          "appearance_count": 20,
+          "time_info": "[00时17分 ~ 14时35分]"
         },
         {
           "title": "兵韬志略｜日本发布2026防卫白皮书，“总体战”动员值得警惕",
@@ -463,19 +489,6 @@
           "time_info": "[00时17分 ~ 07时16分]"
         },
         {
-          "title": "如何看待贵州网红金蝉子账号发布讣告，称外号「老表」的打工网红彭仕运在老家游泳时不幸溺水身亡？",
-          "url": "https://www.zhihu.com/question/2068817961792623517",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时55分 ~ 13时40分]"
-        },
-        {
           "title": "台风红色预警发布",
           "url": "https://search.bilibili.com/all?keyword=%E5%8F%B0%E9%A3%8E%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
@@ -484,8 +497,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 13时40分]"
+          "appearance_count": 5,
+          "time_info": "[12时08分 ~ 14时35分]"
+        },
+        {
+          "title": "我使馆发布公民赴泰参加文体活动提醒：文明、理性、有序",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33744139",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 14时35分]"
+        },
+        {
+          "title": "中央气象台升级发布台风红色预警",
+          "url": "https://www.toutiao.com/trending/7671856440352443945/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时08分 ~ 14时35分]"
         },
         {
           "title": "浙江舟山发布实施“五停”命令",
@@ -508,23 +545,12 @@
           "ranks": [
             1,
             3,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时56分 ~ 13时40分]"
-        },
-        {
-          "title": "我使馆发布公民赴泰参加文体活动提醒：文明、理性、有序",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33744139",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 13时40分]"
+          "appearance_count": 4,
+          "time_info": "[10时56分 ~ 14时35分]"
         },
         {
           "title": "伊朗媒体发布伊朗最高领袖视频",
@@ -539,28 +565,17 @@
           "time_info": "[00时18分 ~ 05时18分]"
         },
         {
-          "title": "中央气象台升级发布台风红色预警",
-          "url": "https://www.toutiao.com/trending/7671856440352443945/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 13时40分]"
-        },
-        {
           "title": "据印尼气象、气候和地球物理局发布的报告，当地时间8月9日10时02分，印尼亚齐特区沙璜市西北205公里处发生5.7级地震，震源深度10公里，没有海啸风险。",
           "url": "https://flash.jin10.com/detail/20260809113024703800",
           "source": "金十数据",
           "ranks": [
             1,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 13时40分]"
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 14时35分]"
         },
         {
           "title": "伊朗媒体发布伊朗最高领袖视频",
@@ -572,12 +587,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 00时18分]"
+        },
+        {
+          "title": "上海多家医院发布台风天就医提示",
+          "url": "https://www.toutiao.com/trending/7671900299619483698/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时34分 ~ 14时35分]"
+        },
+        {
+          "title": "重庆避暑地图发布",
+          "url": "https://www.toutiao.com/trending/7671500312263360531/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时34分 ~ 14时35分]"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -587,8 +624,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时17分 ~ 13时40分]"
+          "appearance_count": 20,
+          "time_info": "[00时17分 ~ 14时35分]"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
@@ -611,11 +648,24 @@
             4,
             13,
             15,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 13时40分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 14时35分]"
+        },
+        {
+          "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33744455",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时42分 ~ 14时35分]"
         },
         {
           "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
@@ -639,23 +689,12 @@
             9,
             18,
             20,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 13时40分]"
-        },
-        {
-          "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33744455",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时42分 ~ 13时40分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 14时35分]"
         },
         {
           "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
@@ -669,16 +708,15 @@
           "time_info": "[00时17分 ~ 04时16分]"
         },
         {
-          "title": "据塔斯社报道，美国中东问题特使威特科夫和特朗普高级顾问库什纳可能在接下来七到十天内访问基辅和莫斯科。",
-          "url": "https://flash.jin10.com/detail/20260809110518488800",
+          "title": "泰勒·斯威夫特下架特朗普团队音频",
+          "url": "https://flash.jin10.com/detail/20260809135228907800",
           "source": "金十数据",
           "ranks": [
-            2,
-            13
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 13时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         },
         {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
@@ -688,8 +726,21 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时08分 ~ 14时35分]"
+        },
+        {
+          "title": "据塔斯社报道，美国中东问题特使威特科夫和特朗普高级顾问库什纳可能在接下来七到十天内访问基辅和莫斯科。",
+          "url": "https://flash.jin10.com/detail/20260809110518488800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时08分 ~ 13时40分]"
+          "time_info": "[12时08分 ~ 14时35分]"
         },
         {
           "title": "舒默怒斥特朗普：你在哪个星球",
@@ -730,7 +781,7 @@
     },
     {
       "keyword_group": "网红 翻车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "知名博主峰哥实名举报编剧汪海林偷税漏税，汪海林回应系网红为流量炒作话题，此事真实性如何？两人有何恩怨？",
@@ -740,11 +791,12 @@
             11,
             12,
             16,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时17分 ~ 13时40分]"
+          "appearance_count": 20,
+          "time_info": "[00时17分 ~ 14时35分]"
         },
         {
           "title": "网红雅典娜证实被害，网传该案仍有部分电诈犯未归案，目前案件的真实进展如何？",
@@ -767,6 +819,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时55分 ~ 10时56分]"
+        },
+        {
+          "title": "菲媒证实网红雅典娜被害，网传该案仍有部分电诈犯未归案，目前案件的真实进展如何？",
+          "url": "https://www.zhihu.com/question/2069726177812374122",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时34分 ~ 14时35分]"
         }
       ]
     },
@@ -816,11 +879,12 @@
             6,
             5,
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时17分 ~ 13时40分]"
+          "appearance_count": 20,
+          "time_info": "[00时17分 ~ 14时35分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
