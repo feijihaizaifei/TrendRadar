@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T21:40:21.862596+08:00",
-  "total_titles_processed": 1328,
+  "generated_at": "2026-08-09T22:23:40.208614+08:00",
+  "total_titles_processed": 1375,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
         {
           "title": "伊朗开出6项条件，美国该如何应对？",
@@ -52,8 +52,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时08分 ~ 21时40分]"
+          "appearance_count": 17,
+          "time_info": "[12时08分 ~ 22时23分]"
+        },
+        {
+          "title": "伊朗婉转回应最高领袖病危传闻",
+          "url": "https://news.ifeng.com/c/8vSBIqKsEnV",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时19分 ~ 22时23分]"
         },
         {
           "title": "伊朗：重开霍尔木兹海峡的前提是美国满足5个条件",
@@ -117,15 +129,16 @@
           "time_info": "[00时18分 ~ 18时21分]"
         },
         {
-          "title": "伊朗婉转回应最高领袖病危传闻",
-          "url": "https://news.ifeng.com/c/8vSBIqKsEnV",
+          "title": "伊朗最高领袖与总统会谈，重点讨论了这几个问题",
+          "url": "https://news.ifeng.com/c/8vS3pS8BvYm",
           "source": "凤凰网",
           "ranks": [
+            2,
             1
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[19时19分 ~ 21时40分]"
+          "time_info": "[20时22分 ~ 22时23分]"
         },
         {
           "title": "伊官员：有证据显示美军使用磷弹轰炸伊朗多地",
@@ -180,15 +193,28 @@
           "time_info": "[00时18分 ~ 08时43分]"
         },
         {
-          "title": "伊朗最高领袖与总统会谈，重点讨论了这几个问题",
-          "url": "https://news.ifeng.com/c/8vS3pS8BvYm",
-          "source": "凤凰网",
+          "title": "伊朗最高领袖与总统会谈",
+          "url": "https://www.toutiao.com/trending/7670941843498287158/",
+          "source": "今日头条",
           "ranks": [
+            8,
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时22分 ~ 21时40分]"
+          "appearance_count": 6,
+          "time_info": "[19时19分 ~ 22时23分]"
+        },
+        {
+          "title": "伊朗最高领袖与总统会谈",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%B8%8E%E6%80%BB%E7%BB%9F%E4%BC%9A%E8%B0%88",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时19分 ~ 22时23分]"
         },
         {
           "title": "伊朗总统说必须摆脱非战非和局面",
@@ -205,30 +231,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[14时35分 ~ 20时23分]"
-        },
-        {
-          "title": "伊朗最高领袖与总统会谈",
-          "url": "https://www.toutiao.com/trending/7670941843498287158/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时19分 ~ 21时40分]"
-        },
-        {
-          "title": "伊朗最高领袖与总统会谈",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%B8%8E%E6%80%BB%E7%BB%9F%E4%BC%9A%E8%B0%88",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时19分 ~ 21时40分]"
         },
         {
           "title": "伊朗革命卫队指挥官：美国和以色列在实现其针对伊斯兰体制的目标上已完全失败，其领导人在面对公众舆论、精英和本国人民时，对其接连不断的失败已无任何回应。",
@@ -275,19 +277,31 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时19分 ~ 21时40分]"
+          "appearance_count": 6,
+          "time_info": "[19时19分 ~ 22时23分]"
+        },
+        {
+          "title": "俄媒称伊朗布什尔核电站新机组建设仍在继续",
+          "url": "https://wallstreetcn.com/livenews/3147111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "伊朗陆军司令：将回应任何敌对行动",
           "url": "https://www.toutiao.com/trending/7671949132243763263/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时22分 ~ 21时40分]"
+          "appearance_count": 5,
+          "time_info": "[20时22分 ~ 22时23分]"
         },
         {
           "title": "伊朗总统佩泽希齐扬：问题不能仅靠战争解决。致力于根据谅解备忘录的条款推进和平进程。",
@@ -406,6 +420,19 @@
           "time_info": "[19时19分 ~ 21时40分]"
         },
         {
+          "title": "雷扎伊出任伊朗最高领袖驻最高国家安全委员会代表",
+          "url": "https://wallstreetcn.com/livenews/3147079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时23分 ~ 22时23分]"
+        },
+        {
           "title": "海湾国家担忧伊朗“以钱换通航”，但应对空间极为有限",
           "url": "https://flash.jin10.com/detail/20260809040308516800",
           "source": "金十数据",
@@ -430,18 +457,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 01时20分]"
-        },
-        {
-          "title": "雷扎伊出任伊朗最高领袖驻最高国家安全委员会代表",
-          "url": "https://wallstreetcn.com/livenews/3147079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时23分 ~ 21时40分]"
         },
         {
           "title": "伊朗革命卫队：将保持对海峡控制至敌方接受全部条件",
@@ -481,6 +496,43 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时44分 ~ 17时27分]"
+        },
+        {
+          "title": "雷扎伊出任伊朗最高领袖驻最高国家安全委员会代表",
+          "url": "https://flash.jin10.com/detail/20260809192733431800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时23分 ~ 22时23分]"
+        },
+        {
+          "title": "伊朗最高领袖与总统举行会谈",
+          "url": "https://flash.jin10.com/detail/20260809191842613800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时23分 ~ 22时23分]"
+        },
+        {
+          "title": "伊朗最高领袖与总统会谈",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%B8%8E%E6%80%BB%E7%BB%9F%E4%BC%9A%E8%B0%88%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时39分 ~ 22时23分]"
         },
         {
           "title": "伊朗要求美国赔偿",
@@ -638,30 +690,6 @@
           "time_info": "[04时16分 ~ 05时18分]"
         },
         {
-          "title": "雷扎伊出任伊朗最高领袖驻最高国家安全委员会代表",
-          "url": "https://flash.jin10.com/detail/20260809192733431800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时23分 ~ 21时40分]"
-        },
-        {
-          "title": "伊朗最高领袖与总统举行会谈",
-          "url": "https://flash.jin10.com/detail/20260809191842613800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时23分 ~ 21时40分]"
-        },
-        {
           "title": "据阿曼国家通讯社：阿曼方面谴责（伊朗）在霍尔木兹海峡过境时对船只的反复攻击。",
           "url": "https://flash.jin10.com/detail/20260808215846341800",
           "source": "金十数据",
@@ -684,17 +712,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 03时21分]"
-        },
-        {
-          "title": "伊朗最高领袖与总统会谈",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%B8%8E%E6%80%BB%E7%BB%9F%E4%BC%9A%E8%B0%88%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时39分 ~ 21时40分]"
         },
         {
           "title": "伊朗革命卫队：将保持对海峡控制至敌方接受全部条件",
@@ -722,7 +739,7 @@
     },
     {
       "keyword_group": "小米 雷军 发布",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "伊媒发布伊朗最高领袖视频",
@@ -747,21 +764,6 @@
           "time_info": "[00时17分 ~ 10时56分]"
         },
         {
-          "title": "如何看待贵州网红金蝉子账号发布讣告，称外号「老表」的打工网红彭仕运在老家游泳时不幸溺水身亡？",
-          "url": "https://www.zhihu.com/question/2068817961792623517",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2,
-            3,
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时55分 ~ 21时40分]"
-        },
-        {
           "title": "台风红色预警发布",
           "url": "https://search.bilibili.com/all?keyword=%E5%8F%B0%E9%A3%8E%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
@@ -775,6 +777,22 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[12时08分 ~ 17时27分]"
+        },
+        {
+          "title": "如何看待贵州网红金蝉子账号发布讣告，称外号「老表」的打工网红彭仕运在老家游泳时不幸溺水身亡？",
+          "url": "https://www.zhihu.com/question/2068817961792623517",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2,
+            3,
+            7,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[10时55分 ~ 22时23分]"
         },
         {
           "title": "伊媒发布伊朗最高领袖视频",
@@ -914,6 +932,33 @@
           "time_info": "[12时08分 ~ 15时44分]"
         },
         {
+          "title": "据伊朗司法系统媒体米赞通讯社：伊朗巴斯基组织副司令表示，未来将发布伊朗最高领袖穆杰塔巴在公众场合和与指挥官会晤的视频。",
+          "url": "https://flash.jin10.com/detail/20260809190537023800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时19分 ~ 22时23分]"
+        },
+        {
+          "title": "中央气象台升级发布台风红警：六省份有大暴雨，浙江局地特大暴雨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33747722",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时22分 ~ 22时23分]"
+        },
+        {
           "title": "原字节跳动机器人一号位加入小米，负责基座模型研发",
           "url": "https://wallstreetcn.com/livenews/3147076",
           "source": "华尔街见闻-快讯",
@@ -925,31 +970,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时19分 ~ 21时40分]"
-        },
-        {
-          "title": "据伊朗司法系统媒体米赞通讯社：伊朗巴斯基组织副司令表示，未来将发布伊朗最高领袖穆杰塔巴在公众场合和与指挥官会晤的视频。",
-          "url": "https://flash.jin10.com/detail/20260809190537023800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时19分 ~ 21时40分]"
-        },
-        {
-          "title": "中央气象台升级发布台风红警：六省份有大暴雨，浙江局地特大暴雨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33747722",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时22分 ~ 21时40分]"
         },
         {
           "title": "重庆避暑地图发布",
@@ -968,11 +988,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%8E%9F%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%80%E5%8F%B7%E4%BD%8D%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3",
           "source": "百度热搜",
           "ranks": [
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时39分 ~ 21时40分]"
+          "appearance_count": 3,
+          "time_info": "[21时39分 ~ 22时23分]"
         },
         {
           "title": "中央气象台为何发布最高级别台风预警",
@@ -1006,12 +1027,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时43分 ~ 15时44分]"
+        },
+        {
+          "title": "中央气象台发布台风红色预警，为何发布最高级别预警",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33748039",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -1021,8 +1053,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时17分 ~ 21时40分]"
+          "appearance_count": 32,
+          "time_info": "[00时17分 ~ 22时23分]"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
@@ -1107,8 +1139,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时08分 ~ 21时40分]"
+          "appearance_count": 17,
+          "time_info": "[12时08分 ~ 22时23分]"
         },
         {
           "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
@@ -1127,11 +1159,23 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时21分 ~ 21时40分]"
+          "appearance_count": 7,
+          "time_info": "[18时21分 ~ 22时23分]"
+        },
+        {
+          "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
+          "url": "https://flash.jin10.com/detail/20260809212948063800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "特朗普新飞机掉链子了吗",
@@ -1246,8 +1290,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时34分 ~ 21时40分]"
+          "appearance_count": 14,
+          "time_info": "[14时34分 ~ 22时23分]"
         },
         {
           "title": "知名博主峰哥实名举报编剧汪海林偷税漏税，汪海林回应系网红为流量炒作话题，此事真实性如何？两人有何恩怨？",
