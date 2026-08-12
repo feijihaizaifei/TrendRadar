@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T16:58:35.996120+08:00",
-  "total_titles_processed": 1244,
+  "generated_at": "2026-08-12T17:55:29.792174+08:00",
+  "total_titles_processed": 1348,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 37,
       "titles": [
         {
           "title": "伊朗讽美：对制裁“病态依赖”，丧失了独立思考能力",
@@ -57,6 +57,17 @@
           "time_info": "02时44分"
         },
         {
+          "title": "日本首相高市早苗：在霍尔木兹海峡局势进入关键阶段之际，考虑到伊朗正继续与相关国家就实现海峡开放展开沟通，日本认为，缓解当前军事紧张局势并尽快平息事态至关重要。",
+          "url": "https://flash.jin10.com/detail/20260812175424744800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "伊朗将军纳赫迪：即使冲突持续数年，伊朗也能维持导弹和无人机的生产。伊朗将保持发射弹道导弹的能力，直至战争结束。",
           "url": "https://flash.jin10.com/detail/20260812035839670800",
           "source": "金十数据",
@@ -68,6 +79,17 @@
           "time_info": "04时32分"
         },
         {
+          "title": "日本首相高市早苗：鉴于当前最新的中东局势，我与伊朗总统佩泽希齐扬进行了第四次电话会谈。",
+          "url": "https://flash.jin10.com/detail/20260812175416736800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "安全消息人士表示，四架无人机袭击了位于伊拉克埃尔比勒附近的伊朗库尔德反对派营地，目前未报告人员伤亡。",
           "url": "https://flash.jin10.com/detail/20260812142954752800",
           "source": "金十数据",
@@ -77,6 +99,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
+        },
+        {
+          "title": "伊朗和阿曼“正式开始”向霍尔木兹海峡船舶收费了？",
+          "url": "https://news.ifeng.com/c/8vWSsJCqjj0",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时17分 ~ 17时55分]"
         },
         {
           "title": "伊朗警告乌克兰不赔偿就动手",
@@ -138,18 +172,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时44分 ~ 03时52分]"
-        },
-        {
-          "title": "伊朗和阿曼“正式开始”向霍尔木兹海峡船舶收费了？",
-          "url": "https://news.ifeng.com/c/8vWSsJCqjj0",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时17分 ~ 16时58分]"
         },
         {
           "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗总统会见了巴基斯坦内政部长。",
@@ -313,7 +335,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -351,6 +373,28 @@
           "time_info": "03时52分"
         },
         {
+          "title": "伊朗驻巴基斯坦大使会见巴基斯坦外长",
+          "url": "https://flash.jin10.com/detail/20260812173702411800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
+          "title": "伊朗霍尔木兹甘机场管理局：阿巴斯港国际机场将于8月15日恢复航班运营。",
+          "url": "https://flash.jin10.com/detail/20260812173318272800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "伊朗官员：在伊方条件满足前霍尔木兹海峡不会开放",
           "url": "https://wallstreetcn.com/livenews/3148153",
           "source": "华尔街见闻-快讯",
@@ -379,7 +423,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -390,7 +434,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         }
@@ -398,7 +442,7 @@
     },
     {
       "keyword_group": "小米 雷军 发布",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "局地特大暴雨！河南发布暴雨橙色预警",
@@ -420,8 +464,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时17分 ~ 16时58分]"
+          "appearance_count": 5,
+          "time_info": "[11时17分 ~ 17时55分]"
+        },
+        {
+          "title": "河南发布暴雨红色预警",
+          "url": "https://www.douyin.com/hot/2606494",
+          "source": "抖音",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时17分 ~ 17时55分]"
         },
         {
           "title": "十五五生态保护规划发布",
@@ -435,29 +491,18 @@
           "time_info": "[11时17分 ~ 15时03分]"
         },
         {
-          "title": "河南发布暴雨红色预警",
-          "url": "https://www.douyin.com/hot/2606494",
-          "source": "抖音",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时17分 ~ 16时58分]"
-        },
-        {
           "title": "曝 10 万亿参数的 GPT-6 即将发布，10 万亿参数是什么水平？对此你有哪些期待？",
           "url": "https://www.zhihu.com/question/2070445459840000945",
           "source": "知乎",
           "ranks": [
             15,
             11,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时17分 ~ 16时58分]"
+          "appearance_count": 5,
+          "time_info": "[11时17分 ~ 17时55分]"
         },
         {
           "title": "朝鲜谴责日本发布“重新侵略白皮书”",
@@ -484,6 +529,28 @@
           "time_info": "[03时52分 ~ 04时32分]"
         },
         {
+          "title": "小米SU7七月销量21044辆",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3SU7%E4%B8%83%E6%9C%88%E9%94%80%E9%87%8F21044%E8%BE%86%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时58分 ~ 17时55分]"
+        },
+        {
+          "title": "8 月 12 日河南发布暴雨红色预警，多地停课停工，安徽、浙江、河北等地有大暴雨，你那里情况怎么样？",
+          "url": "https://www.zhihu.com/question/2070779372970012693",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时58分 ~ 17时55分]"
+        },
+        {
           "title": "美国财长贝森特：我们欢迎Meta发布Muse Glimmer，这是美国创新取得的又一胜利。保持美国在人工智能领域的领先地位意味着推进开放权重和封闭权重模型，确保未来建立在可信赖的基础之上。",
           "url": "https://flash.jin10.com/detail/20260812030839607800",
           "source": "金十数据",
@@ -508,6 +575,40 @@
           "time_info": "[05时34分 ~ 06时31分]"
         },
         {
+          "title": "雷军称小米成功量产发光材料，成为国内首家实现底层发光材料自研的手机厂商，有哪些突破？会带来什么改变？",
+          "url": "https://www.zhihu.com/question/2070796946256519933",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时58分 ~ 17时55分]"
+        },
+        {
+          "title": "华为秋季发布会或定档9月23日",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E7%A7%8B%E5%AD%A3%E5%8F%91%E5%B8%83%E4%BC%9A%E6%88%96%E5%AE%9A%E6%A1%A39%E6%9C%8823%E6%97%A5%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时58分 ~ 17时55分]"
+        },
+        {
+          "title": "韩国发布七大战略：5年登月、9年商用核反应堆…",
+          "url": "https://news.ifeng.com/c/8vX128VQ5CD",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "雷军回应小米自研发光材料",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E8%87%AA%E7%A0%94%E5%8F%91%E5%85%89%E6%9D%90%E6%96%99%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -517,17 +618,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时52分"
-        },
-        {
-          "title": "小米SU7七月销量21044辆",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3SU7%E4%B8%83%E6%9C%88%E9%94%80%E9%87%8F21044%E8%BE%86%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时58分"
         },
         {
           "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报147850元/吨，较上日16:30价格上涨2850元/吨。",
@@ -541,6 +631,17 @@
           "time_info": "11时17分"
         },
         {
+          "title": "上交所发布关于上海毕得医药科技股份有限公司相关事项的监管工作函。",
+          "url": "https://flash.jin10.com/detail/20260812174357627800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "马斯克：我们会先解决Grok Bot测试版目前存在的一些基础问题，并在本周晚些时候发布Grok4.6后，向更多用户开放Grok Bot测试。",
           "url": "https://flash.jin10.com/detail/20260812014747467800",
           "source": "金十数据",
@@ -552,15 +653,15 @@
           "time_info": "02时44分"
         },
         {
-          "title": "8 月 12 日河南发布暴雨红色预警，多地停课停工，安徽、浙江、河北等地有大暴雨，你那里情况怎么样？",
-          "url": "https://www.zhihu.com/question/2070779372970012693",
-          "source": "知乎",
+          "title": "腾讯Q2财报：模型与产品双向赋能，云收入同比增长，Hy4近期发布",
+          "url": "https://wallstreetcn.com/livenews/3148543",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时58分"
+          "time_info": "17时55分"
         },
         {
           "title": "最高法发布7件特许经营典型案例，明确被特许人享有“冷静期”单方解除权",
@@ -574,17 +675,6 @@
           "time_info": "11时17分"
         },
         {
-          "title": "雷军称小米成功量产发光材料，成为国内首家实现底层发光材料自研的手机厂商，有哪些突破？会带来什么改变？",
-          "url": "https://www.zhihu.com/question/2070796946256519933",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时58分"
-        },
-        {
           "title": "河南发布暴雨红色预警，启动防汛二级应急响应",
           "url": "https://wallstreetcn.com/livenews/3148355",
           "source": "华尔街见闻-快讯",
@@ -596,15 +686,15 @@
           "time_info": "11时17分"
         },
         {
-          "title": "华为秋季发布会或定档9月23日",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E7%A7%8B%E5%AD%A3%E5%8F%91%E5%B8%83%E4%BC%9A%E6%88%96%E5%AE%9A%E6%A1%A39%E6%9C%8823%E6%97%A5%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "据伊朗学生通讯社：霍尔木兹甘省机场管理局发布通知，阿巴斯港国际机场将于8月15日恢复航班运营。",
+          "url": "https://flash.jin10.com/detail/20260812173329946800",
+          "source": "金十数据",
           "ranks": [
-            19
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时58分"
+          "time_info": "17时55分"
         },
         {
           "title": "四川多地发布高温红色、橙色预警",
@@ -676,7 +766,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
@@ -711,8 +801,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时30分 ~ 16时58分]"
+          "appearance_count": 7,
+          "time_info": "[06时30分 ~ 17时55分]"
         },
         {
           "title": "特朗普承认：悄悄换乘飞机了",
@@ -749,6 +839,18 @@
           "time_info": "[06时31分 ~ 07时28分]"
         },
         {
+          "title": "中期选举脚步渐近 特朗普酝酿“大招”：据悉考虑削减资本利得税",
+          "url": "https://www.cls.cn/detail/2452049",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时58分 ~ 17时55分]"
+        },
+        {
           "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
           "url": "https://flash.jin10.com/detail/20260812053053264800",
           "source": "金十数据",
@@ -772,17 +874,6 @@
           "time_info": "07时28分"
         },
         {
-          "title": "中期选举脚步渐近 特朗普酝酿“大招”：据悉考虑削减资本利得税",
-          "url": "https://www.cls.cn/detail/2452049",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时58分"
-        },
-        {
           "title": "美国总统特朗普：医疗补助将不再为未成年人提供性别转换手术和激素治疗的资金。",
           "url": "https://flash.jin10.com/detail/20260812052220258800",
           "source": "金十数据",
@@ -803,6 +894,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "特朗普：我要伊朗赔钱，把过去50年的账还了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33765581",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "特朗普威胁将针对纽约市税收采取联邦层面行动",
@@ -885,7 +987,7 @@
     },
     {
       "keyword_group": "网红 翻车",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "网红逍遥客为救父亲氨气中毒去世",
@@ -933,8 +1035,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时44分 ~ 16时58分]"
+          "appearance_count": 16,
+          "time_info": "[00时44分 ~ 17时55分]"
         },
         {
           "title": "网红“雅典娜”已确认遇害？母亲发声",
@@ -984,8 +1086,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时02分 ~ 16时58分]"
+          "appearance_count": 4,
+          "time_info": "[15时02分 ~ 17时55分]"
+        },
+        {
+          "title": "网红峰哥炒股亏200万到回本只用1个月",
+          "url": "https://www.toutiao.com/trending/7672711789427130411/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "百万粉丝网红姜小柔去世，年仅 24 岁，还有哪些信息值得关注？",
@@ -997,8 +1110,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时17分 ~ 16时58分]"
+          "appearance_count": 5,
+          "time_info": "[11时17分 ~ 17时55分]"
         },
         {
           "title": "抗癌网红江小鱼去世",
@@ -1139,11 +1252,12 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时02分 ~ 16时58分]"
+          "appearance_count": 4,
+          "time_info": "[15时02分 ~ 17时55分]"
         },
         {
           "title": "梁文锋跻身全球最富有50人之列",
@@ -1248,58 +1362,8 @@
       ]
     },
     {
-      "keyword_group": "战争",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "泽连斯基向美提交结束俄乌战争提案",
-          "url": "https://news.ifeng.com/c/8vWaqalKOzc",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时17分 ~ 16时58分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：乌克兰已向美国谈判代表提交了结束与俄罗斯战争的提案。",
-          "url": "https://flash.jin10.com/detail/20260812021502196800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "乌称已向美提交结束对俄战争计划方案",
-          "url": "https://www.toutiao.com/trending/7672263774260133934/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时52分"
-        },
-        {
-          "title": "郑丽文：避免台海走向战争",
-          "url": "https://www.toutiao.com/trending/7672246752145489962/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时58分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "周二（8月11日）纽约尾盘，ICE美元指数涨0.02%，报99.833点，日内交投区间为99.725-99.898点。 彭博美元指数跌0.05%，报1203.02点，日内交投区间为1204.50-1202.56点。",
@@ -1337,6 +1401,67 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时46分 ~ 02时44分]"
+        },
+        {
+          "title": "美元指数DXY短线下挫12点，最低至99.70，现回升至99.79。",
+          "url": "https://flash.jin10.com/detail/20260812172851182800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "战争",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "泽连斯基向美提交结束俄乌战争提案",
+          "url": "https://news.ifeng.com/c/8vWaqalKOzc",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时17分 ~ 17时55分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：乌克兰已向美国谈判代表提交了结束与俄罗斯战争的提案。",
+          "url": "https://flash.jin10.com/detail/20260812021502196800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "乌称已向美提交结束对俄战争计划方案",
+          "url": "https://www.toutiao.com/trending/7672263774260133934/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "郑丽文：避免台海走向战争",
+          "url": "https://www.toutiao.com/trending/7672246752145489962/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         }
       ]
     },
