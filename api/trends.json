@@ -1,245 +1,195 @@
 {
-  "generated_at": "2026-08-19T20:19:58.908424+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-21T08:32:24.478661+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "小米 雷军 发布",
+      "keyword_group": "特朗普",
       "match_count": 5,
       "titles": [
         {
-          "title": "京东发布机器人战略 到2028年计划投入百亿级资源赋能百家品牌",
-          "url": "https://wallstreetcn.com/livenews/3151777",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时19分"
-        },
-        {
-          "title": "南向资金追踪｜单日净卖出106亿港元 抛售华虹宏力和小米加仓腾讯",
-          "url": "https://www.cls.cn/detail/2458496",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时19分"
-        },
-        {
-          "title": "印度央行发布8月货币政策委员会会议纪要。",
-          "url": "https://flash.jin10.com/detail/20260819194417529800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时19分"
-        },
-        {
-          "title": "司法部发布关于欧盟外国补贴调查相关做法构成不当域外管辖的公告",
-          "url": "https://wallstreetcn.com/livenews/3151755",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时19分"
-        },
-        {
-          "title": "曼城发布瓜迪奥拉执教纪录片",
-          "url": "https://www.douyin.com/hot/2615974",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "“价格屠夫”梁文锋“收刀”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%B7%E6%A0%BC%E5%B1%A0%E5%A4%AB%E2%80%9D%E6%A2%81%E6%96%87%E9%94%8B%E2%80%9C%E6%94%B6%E5%88%80%E2%80%9D",
-          "source": "百度热搜",
+          "title": "特朗普称将于11月同金正恩会晤，外交部回应",
+          "url": "https://news.ifeng.com/c/8vkEJXjR9MI",
+          "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时19分"
+          "time_info": "08时32分"
         },
         {
-          "title": "宇树上市首日造富：天使投资人账面回报超800倍 DeepSeek配售浮盈近7亿元",
-          "url": "https://www.cls.cn/detail/2458007",
+          "title": "特朗普宣布对伊朗采取“史上最严厉经济行动”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33815315",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时32分"
+        },
+        {
+          "title": "特朗普展示白宫施工项目：我非常擅长搞建设 没有人比我做得更好",
+          "url": "https://www.cls.cn/detail/2460003",
           "source": "财联社热门",
           "ranks": [
-            6
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时19分"
+          "time_info": "08时32分"
         },
         {
-          "title": "DeepSeek Harness 轻松破了 GitHub 记录，它能引发一场什么革命？",
-          "url": "https://www.zhihu.com/question/2072997638685864311",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时19分"
-        },
-        {
-          "title": "梁文锋打新宇树科技浮盈11亿，雷军赚152亿，美团系浮盈333亿，大疆痛失超250亿",
-          "url": "https://wallstreetcn.com/articles/3779762",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "特朗普宣布：推迟3天加征关税",
-          "url": "https://news.ifeng.com/c/8viES1IRwn8",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时19分"
-        },
-        {
-          "title": "特朗普寻求今秋与金正恩会晤",
-          "url": "https://news.ifeng.com/c/8vi85c8Rz8H",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时19分"
-        },
-        {
-          "title": "特朗普声称目前和未来不会与伊朗会谈，秀地图标注霍尔木兹为“美国新领土”",
-          "url": "https://wallstreetcn.com/articles/3779720",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大模型",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【特斯拉上线豆包大模型】据火山引擎消息，特斯拉上线豆包大模型。据介绍，特斯拉车机现已陆续推送。",
-          "url": "https://wallstreetcn.com/livenews/3151763",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时19分"
-        },
-        {
-          "title": "计划训超大模型后，字节Seed基模团队调整了组织架构",
-          "url": "https://wallstreetcn.com/livenews/3151761",
+          "title": "特朗普签署备忘录以促进美航天发射，探索商业机器人登陆火星",
+          "url": "https://wallstreetcn.com/livenews/3152632",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "战争",
-      "match_count": 2,
-      "titles": [
+          "time_info": "08时32分"
+        },
         {
-          "title": "龙餐馆演员讲述亲历的伊拉克战争",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BE%99%E9%A4%90%E9%A6%86%E6%BC%94%E5%91%98%E8%AE%B2%E8%BF%B0%E4%BA%B2%E5%8E%86%E7%9A%84%E4%BC%8A%E6%8B%89%E5%85%8B%E6%88%98%E4%BA%89",
-          "source": "bilibili 热搜",
+          "title": "伊朗官员：计划袭击原油出口设施，意在美国中期选举前打击特朗普",
+          "url": "https://flash.jin10.com/detail/20260821075100895800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时19分"
-        },
-        {
-          "title": "金十整理：战争、政治僵局、利息滚雪球——“美利坚债务帝国”如何走向40万亿",
-          "url": "https://flash.jin10.com/detail/20260819193956004800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai 发布",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "二季度收入仅增18%！OpenAI“暴雷”，远低于Anthropic",
-          "url": "https://wallstreetcn.com/articles/3779748",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时19分"
+          "time_info": "08时32分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
-          "title": "报道：伊朗启动铁路运输通道 将伊拉克成品油运往土耳其",
-          "url": "https://wallstreetcn.com/livenews/3151781",
-          "source": "华尔街见闻-快讯",
+          "title": "美公布对伊经济孤立措施，伊朗：徒劳无功，误判将付出代价",
+          "url": "https://news.ifeng.com/c/8vlKowYU0MT",
+          "source": "凤凰网",
           "ranks": [
-            5
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时19分"
+          "time_info": "08时32分"
+        },
+        {
+          "title": "美债、伊朗两头忙！贝森特放话：回购还能加码 制裁下周披露",
+          "url": "https://www.cls.cn/detail/2460072",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时32分"
+        },
+        {
+          "title": "伊朗回应“美将公布经济孤立措施”",
+          "url": "https://www.toutiao.com/trending/7676254990444285503/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Deepseek 涨价了，有哪些便宜的替代方案？",
+          "url": "https://www.zhihu.com/question/2072733800774354696",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时32分"
+        },
+        {
+          "title": "如何看待 8 月 19 日下午 DeepSeek 被曝再次开始灰度测试，能力超过上次灰测？",
+          "url": "https://www.zhihu.com/question/2073476043097359622",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小米 雷军 发布",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "SK海力士发布下一代CPO路线图",
+          "url": "https://www.douyin.com/hot/2617169",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时32分"
+        },
+        {
+          "title": "华为发布阔直板手机",
+          "url": "https://www.douyin.com/hot/2617292",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "战争",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "俄方：西方挑起针对俄的“混合战争”",
+          "url": "https://www.toutiao.com/trending/7676201453459505195/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "网红 翻车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "反噬!女星炫耀韩奸老祖翻车",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28359210&amp;topic_name=%E5%8F%8D%E5%99%AC%21%E5%A5%B3%E6%98%9F%E7%82%AB%E8%80%80%E9%9F%A9%E5%A5%B8%E8%80%81%E7%A5%96%E7%BF%BB%E8%BD%A6",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时32分"
         }
       ]
     }
